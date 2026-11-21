@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 500" role="img" aria-labelledby="title desc">
+<title id="title">养老金领取与补贴的边界</title><desc id="desc">基本养老金由职工或居民养老保险制度发放；职业年金和企业年金是补充养老；高龄津贴和护理补贴是老年福利，不属于基本养老金。</desc>
+<rect width="1100" height="500" fill="#f6f8f4"/><text x="55" y="58" fill="#173d3b" font-size="28" font-family="serif">把“退休收入”拆成四类</text>
+<g font-family="sans-serif">
+<rect x="70" y="100" width="460" height="130" rx="10" fill="#dcebe3" stroke="#80a99b"/><text x="100" y="143" fill="#276b5f" font-size="22" font-weight="700">A 基本养老金</text><text x="100" y="183" fill="#365c54" font-size="17">职工基本养老保险 / 居民基本养老保险</text><text x="100" y="210" fill="#617a72" font-size="14">参保、缴费年限、缴费基数、基础养老金标准</text>
+<rect x="570" y="100" width="460" height="130" rx="10" fill="#e8eee5" stroke="#a8b9a9"/><text x="600" y="143" fill="#657b58" font-size="22" font-weight="700">B 补充养老</text><text x="600" y="183" fill="#536a50" font-size="17">职业年金 / 企业年金</text><text x="600" y="210" fill="#75806e" font-size="14">制度覆盖、单位缴费、个人缴费、投资收益</text>
+<rect x="70" y="270" width="460" height="130" rx="10" fill="#f3e8df" stroke="#d1a98b"/><text x="100" y="313" fill="#a06b49" font-size="22" font-weight="700">C 个人养老储备</text><text x="100" y="353" fill="#7c6757" font-size="17">个人养老金账户、商业养老金融产品</text><text x="100" y="380" fill="#8b7969" font-size="14">个人自愿选择，不等同于基本养老金</text>
+<rect x="570" y="270" width="460" height="130" rx="10" fill="#f1e5e3" stroke="#c99e98"/><text x="600" y="313" fill="#8a5149" font-size="22" font-weight="700">D 老年福利补贴</text><text x="600" y="353" fill="#7b5e5b" font-size="17">高龄津贴、护理补贴、养老服务补贴</text><text x="600" y="380" fill="#8b7470" font-size="14">年龄/失能/地方政策条件；不是养老金缴费待遇</text>
+</g></svg>
