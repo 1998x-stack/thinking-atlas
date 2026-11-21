@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 370" role="img" aria-labelledby="title desc">
+<title id="title">金融危机的三状态分析框架</title>
+<desc id="desc">三个可反复切换的状态：融资与流动性压力、政策托底与重新定价、盈利修复与通胀及货币再定价。阶段不是固定时长，也不保证线性推进。</desc>
+<defs><marker id="a" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0L8 4L0 8Z" fill="#9a664a"/></marker></defs>
+<rect width="1040" height="370" rx="22" fill="#f7f5ef"/>
+<text x="42" y="42" fill="#65746f" font-size="15" letter-spacing="2">A STATE MODEL · NOT A FIXED CALENDAR</text>
+<rect x="42" y="110" width="280" height="150" rx="16" fill="#f5e4dc" stroke="#c98768" stroke-width="2"/>
+<text x="182" y="151" text-anchor="middle" fill="#783f2e" font-size="21" font-weight="700">A · 流动性压力</text>
+<text x="182" y="184" text-anchor="middle" fill="#6d5b53" font-size="14">保证金 / 赎回 / 融资收缩</text>
+<text x="182" y="211" text-anchor="middle" fill="#6d5b53" font-size="14">多资产可能同步被抛售</text>
+<rect x="380" y="110" width="280" height="150" rx="16" fill="#e1efeb" stroke="#6b9f91" stroke-width="2"/>
+<text x="520" y="151" text-anchor="middle" fill="#205d56" font-size="21" font-weight="700">B · 政策托底</text>
+<text x="520" y="184" text-anchor="middle" fill="#4e7770" font-size="14">降息 / 流动性工具 / 资产购买</text>
+<text x="520" y="211" text-anchor="middle" fill="#4e7770" font-size="14">观察信用传导与实际利率</text>
+<rect x="718" y="110" width="280" height="150" rx="16" fill="#e8e5f4" stroke="#8d82b6" stroke-width="2"/>
+<text x="858" y="151" text-anchor="middle" fill="#514879" font-size="21" font-weight="700">C · 重新定价</text>
+<text x="858" y="184" text-anchor="middle" fill="#6b6489" font-size="14">盈利 / 通胀 / 实际利率 / 汇率</text>
+<text x="858" y="211" text-anchor="middle" fill="#6b6489" font-size="14">风险资产与黄金可能分化</text>
+<path d="M322 185H370 M660 185H708" stroke="#9a664a" stroke-width="3" fill="none" marker-end="url(#a)"/>
+<path d="M858 260V310H182V270" stroke="#9a664a" stroke-width="2" fill="none" stroke-dasharray="7 6" marker-end="url(#a)"/>
+<text x="520" y="300" text-anchor="middle" fill="#8a5a42" font-size="13">新冲击可能使市场重新回到流动性压力状态</text>
+<text x="520" y="347" text-anchor="middle" fill="#71807b" font-size="12">状态划分用于监测机制；不是“半年后必然切换”的时间预测。</text>
+</svg>

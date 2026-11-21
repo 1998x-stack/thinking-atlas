@@ -1,0 +1,320 @@
+{
+  "schema_version": 1,
+  "source": {
+    "original_path": "user-provided financial-crisis commentary and follow-up research request (conversation, 2026-11-21)",
+    "original_record_date": "2026-11-21",
+    "migrated_at": "2026-11-21"
+  },
+  "research_status": "partial",
+  "independent_recheck": "partial",
+  "source_urls": [
+    {
+      "id": "S1",
+      "publisher": "Westmetall",
+      "title": "Gold London Fixing — 2008 historical data",
+      "published_at": null,
+      "accessed_at": "2026-11-21",
+      "url": "https://www.westmetall.com/en/markdaten.php?action=table&field=USD_ozt_London&year=2008",
+      "source_type": "historical market-price table"
+    },
+    {
+      "id": "S2",
+      "publisher": "World Gold Council",
+      "title": "Gold and central bank reserve management during the Covid-19 pandemic",
+      "published_at": "2020-05-18",
+      "accessed_at": "2026-11-21",
+      "url": "https://www.gold.org/goldhub/research/market-update/gold-and-central-bank-reserve-management-during-covid-19-pandemic",
+      "source_type": "industry research / historical return analysis"
+    },
+    {
+      "id": "S3",
+      "publisher": "World Gold Council",
+      "title": "Investment Update: Gold prices swing as markets sell off",
+      "published_at": "2020-03-19",
+      "accessed_at": "2026-11-21",
+      "url": "https://www.gold.org/goldhub/research/gold-prices-swing-as-markets-sell-off",
+      "source_type": "contemporaneous market commentary"
+    },
+    {
+      "id": "S4",
+      "publisher": "Board of Governors of the Federal Reserve System",
+      "title": "Monetary Policy Report — June 2020, Part 2",
+      "published_at": "2020-06-12",
+      "accessed_at": "2026-11-21",
+      "url": "https://www.federalreserve.gov/monetarypolicy/2020-06-mpr-part2.htm",
+      "source_type": "official central-bank report"
+    },
+    {
+      "id": "S5",
+      "publisher": "Bank for International Settlements",
+      "title": "A global sudden stop, Annual Economic Report 2020",
+      "published_at": "2020-06",
+      "accessed_at": "2026-11-21",
+      "url": "https://www.bis.org/publications/aer-2020/global-sudden-stop",
+      "source_type": "international financial institution report"
+    },
+    {
+      "id": "S6",
+      "publisher": "Shanghai Stock Exchange",
+      "title": "SSE Statistics Annual — Data of SSE Composite Index, 1992–2020",
+      "published_at": null,
+      "accessed_at": "2026-11-21",
+      "url": "https://big5.sse.com.cn/site/cht/www.sse.com.cn/aboutus/publication/yearly/documents/c/10061073/files/3434d1799d1145dc826c16c34bd097bf.pdf",
+      "source_type": "official exchange statistical yearbook"
+    },
+    {
+      "id": "S7",
+      "publisher": "S&P Dow Jones Indices",
+      "title": "The S&P CoreLogic Case-Shiller National Home Price NSA Index Sets Fourth Consecutive All-Time High",
+      "published_at": "2017-04-25",
+      "accessed_at": "2026-11-21",
+      "url": "https://press.spglobal.com/2017-04-25-The-S-P-CoreLogic-Case-Shiller-National-Home-Price-NSA-Index-Sets-Fourth-Consecutive-All-Time-High",
+      "source_type": "index provider historical data release"
+    },
+    {
+      "id": "S8",
+      "publisher": "National Bureau of Statistics of China",
+      "title": "Investment in Real Estate Development from January to October 2026",
+      "published_at": "2026-11-17",
+      "accessed_at": "2026-11-21",
+      "url": "https://www.stats.gov.cn/english/PressRelease/202611/t20261117_1965879.html",
+      "source_type": "official national statistics"
+    },
+    {
+      "id": "S9",
+      "publisher": "National Bureau of Statistics of China",
+      "title": "2026年10月份70个大中城市商品住宅销售价格变动情况",
+      "published_at": "2026-11-16",
+      "accessed_at": "2026-11-21",
+      "url": "https://www.stats.gov.cn/zwfwck/sjfb/202611/t20261116_1965836.html",
+      "source_type": "official city-level housing price statistics"
+    },
+    {
+      "id": "S10",
+      "publisher": "Board of Governors of the Federal Reserve System",
+      "title": "FOMC policy-rate history",
+      "published_at": null,
+      "accessed_at": "2026-11-21",
+      "url": "https://www.federalreserve.gov/fomc/fundsrate.htm",
+      "source_type": "official policy-rate chronology"
+    },
+    {
+      "id": "S11",
+      "publisher": "Board of Governors of the Federal Reserve System",
+      "title": "Timeline: Balance Sheet Policies",
+      "published_at": null,
+      "accessed_at": "2026-11-21",
+      "url": "https://www.federalreserve.gov/monetarypolicy/timeline-balance-sheet-policies.htm",
+      "source_type": "official monetary-policy chronology"
+    },
+    {
+      "id": "S12",
+      "publisher": "International Monetary Fund",
+      "title": "World Economic Outlook: Resilience Under Strain, Urgent Choices",
+      "published_at": "2026-10-13",
+      "accessed_at": "2026-11-21",
+      "url": "https://www.imf.org/en/Publications/WEO/Issues/2026/10/13/world-economic-outlook-october-2026",
+      "source_type": "official multilateral institution forecast"
+    },
+    {
+      "id": "S13",
+      "publisher": "International Monetary Fund",
+      "title": "Global Financial Stability Report: Resilience, Risk, and Transformation",
+      "published_at": "2026-10-13",
+      "accessed_at": "2026-11-21",
+      "url": "https://www.imf.org/en/publications/gfsr/issues/2026/10/13/global-financial-stability-report-october-2026",
+      "source_type": "official financial stability assessment"
+    }
+  ],
+  "verified_claims": [
+    {
+      "id": "C01",
+      "claim": "2008年伦敦黄金定盘价约1,023.50美元/盎司的观察点为3月17日；9月15日为779.25；10月15日为848.50；10月24日为692.50。",
+      "status": "verified",
+      "polarity": "supports correction of original timeline",
+      "source_ids": [
+        "S1"
+      ],
+      "locator": "2008 daily Gold London Fixing table; rows for 17 Mar, 15 Sep, 15 Oct, 24 Oct 2008",
+      "notes": "London fixing benchmark; not COMEX intraday futures prices."
+    },
+    {
+      "id": "C02",
+      "claim": "以2008年3月17日与10月24日伦敦定盘价计算，峰谷回撤约32.3%；9月15日至10月15日约上涨8.9%。",
+      "status": "derived",
+      "polarity": "contradicts the claim that the whole 32% fall occurred in the month after Lehman",
+      "source_ids": [
+        "S1"
+      ],
+      "locator": "Derived from the listed London fixing observations",
+      "notes": "Percentage calculations use the same benchmark and explicit endpoints."
+    },
+    {
+      "id": "C03",
+      "claim": "按LBMA黄金价格口径，黄金2008年全年收益约+4.3%，年末约869.75美元/盎司。",
+      "status": "verified",
+      "polarity": "contradicts annual-loss interpretation",
+      "source_ids": [
+        "S2"
+      ],
+      "locator": "Article text discussing gold performance during 2008",
+      "notes": "World Gold Council is an industry body; its annual return claim is attributed to LBMA price data."
+    },
+    {
+      "id": "C04",
+      "claim": "2020年3月黄金在跨资产清算中承压；高流动性、杠杆头寸和规则化交易是同期评论提出的解释。",
+      "status": "verified",
+      "polarity": "supports the liquidity-sale mechanism",
+      "source_ids": [
+        "S3"
+      ],
+      "locator": "19 March 2020 commentary, lines discussing liquidation and gold liquidity",
+      "notes": "Does not independently verify a universal two-week -12% figure."
+    },
+    {
+      "id": "C05",
+      "claim": "2020年3月美国国债和机构MBS市场功能恶化，投资者出售长期资产转向短期流动性资产。",
+      "status": "verified",
+      "polarity": "supports cross-asset liquidity stress",
+      "source_ids": [
+        "S4"
+      ],
+      "locator": "June 2020 Monetary Policy Report, section on Treasury and MBS market functioning",
+      "notes": "Official Federal Reserve retrospective."
+    },
+    {
+      "id": "C06",
+      "claim": "2020年3月底美国优质货币市场基金出现约1,600亿美元赎回，杠杆投资者因保证金要求被迫平仓，国债亦承压。",
+      "status": "verified",
+      "polarity": "supports the dash-for-cash mechanism",
+      "source_ids": [
+        "S5"
+      ],
+      "locator": "Annual Economic Report 2020, Chapter I, subsection 'A financial sudden stop'",
+      "notes": "BIS reports roughly 15% of assets under management."
+    },
+    {
+      "id": "C07",
+      "claim": "上证综合指数2007年最高6,124.04点、2008年最低1,664.93点。",
+      "status": "verified",
+      "polarity": "supports the local-index drawdown, not a global equity generalization",
+      "source_ids": [
+        "S6"
+      ],
+      "locator": "SSE Statistics Annual table: Data of SSE Composite Index, 1992–2020",
+      "notes": "Index extrema are not a total-return portfolio result."
+    },
+    {
+      "id": "C08",
+      "claim": "美国Case-Shiller全国指数2006年7月至2012年2月下跌27.4%，20城市指数2006年7月至2012年3月下跌35.1%。",
+      "status": "verified",
+      "polarity": "supports a historical US housing price drawdown",
+      "source_ids": [
+        "S7"
+      ],
+      "locator": "S&P release supporting data table",
+      "notes": "Price index does not directly measure individual property liquidity or sale time."
+    },
+    {
+      "id": "C09",
+      "claim": "中国2026年1—10月房地产开发投资同比-21.6%、新建商品房销售面积-13.7%、销售额-14.3%，二手住房网签交易面积+11.4%。",
+      "status": "verified",
+      "polarity": "shows market segmentation rather than uniform freeze",
+      "source_ids": [
+        "S8"
+      ],
+      "locator": "NBS sections I–III and Table 1",
+      "notes": "Official national aggregate; does not describe every city or property segment."
+    },
+    {
+      "id": "C10",
+      "claim": "2026年10月70城新建商品住宅价格指数显示上海同比102.7、郑州95.8、昆明95.7。",
+      "status": "verified",
+      "polarity": "shows city-level dispersion",
+      "source_ids": [
+        "S9"
+      ],
+      "locator": "Table 1: new commercial residential building price indices",
+      "notes": "Index base is same month previous year=100; statistical index is not an individual property valuation."
+    },
+    {
+      "id": "C11",
+      "claim": "美联储2007年9月已开始降息；2008年10月8日和10月29日继续降息，10月29日目标利率降至1%。",
+      "status": "verified",
+      "polarity": "contradicts a single late-stage policy-switch date",
+      "source_ids": [
+        "S10"
+      ],
+      "locator": "FOMC historical target-rate table",
+      "notes": "Rate cuts began before the Lehman bankruptcy."
+    },
+    {
+      "id": "C12",
+      "claim": "美联储2008年11月25日宣布计划购买最多1,000亿美元机构债务和5,000亿美元机构MBS。",
+      "status": "verified",
+      "polarity": "documents policy response chronology",
+      "source_ids": [
+        "S11"
+      ],
+      "locator": "Timeline: Balance Sheet Policies, 25 November 2008 entry",
+      "notes": "Announcement of purchase intention, not same-day completed purchases."
+    },
+    {
+      "id": "C13",
+      "claim": "IMF 2026年10月WEO基准预测全球经济2027年增长3.4%，同时强调下行风险。",
+      "status": "verified",
+      "polarity": "contextual evidence only; not a crisis probability",
+      "source_ids": [
+        "S12"
+      ],
+      "locator": "Global outlook and headline projections",
+      "notes": "Baseline projections do not rule out tail risks."
+    },
+    {
+      "id": "C14",
+      "claim": "IMF 2026年10月GFSR认为市场仍具韧性但金融稳定风险偏高，指出AI估值、主权债收益率、网络风险及非银行机构流动性错配等脆弱性。",
+      "status": "verified",
+      "polarity": "supports monitoring systemic vulnerabilities, not exact crisis timing",
+      "source_ids": [
+        "S13"
+      ],
+      "locator": "Overview and Chapter 1 risk/vulnerability summary",
+      "notes": "Risk assessment is not a date-specific crisis forecast."
+    },
+    {
+      "id": "C15",
+      "claim": "黄金与股票同跌／反向走势可以可靠识别危机阶段。",
+      "status": "unverified",
+      "polarity": "not established",
+      "source_ids": [
+        "S3",
+        "S5",
+        "S13"
+      ],
+      "locator": "No operational rule or backtest supplied by the original commentary",
+      "notes": "Requires defined benchmark, horizon, threshold, transaction costs, false-positive/negative rates and out-of-sample tests."
+    },
+    {
+      "id": "C16",
+      "claim": "2027年7—9月发生全球金融危机、2027年9月黄金见底、2028年初必然放水。",
+      "status": "unverified",
+      "polarity": "not established",
+      "source_ids": [
+        "S12",
+        "S13"
+      ],
+      "locator": "Compared against the reviewed IMF WEO and GFSR public outlooks",
+      "notes": "No public model, calibrated probability, trigger definition or out-of-sample record was supplied; absence in these reports is not proof the event cannot occur."
+    }
+  ],
+  "limitations": [
+    "本研究是公开资料的部分核验，不是完整跨资产日频回测。",
+    "2008年黄金价格采用伦敦定盘价；不能与COMEX盘中高低价混用。",
+    "2020年黄金短期跌幅对起止日期、现货/期货、时区和计价货币敏感；本轮未将原文的12%作为已核实定值。",
+    "世界黄金协会是黄金行业组织，其研究数据应与交易所、央行和国际组织资料交叉阅读。",
+    "美国Case-Shiller房价指数不能直接推断中国房地产的流动性。",
+    "IMF基准预测和金融稳定报告会随新数据修订；风险识别不等于预测危机发生月份。",
+    "尚未对黄金—股票相对强弱信号进行量化回测、样本外验证和交易成本模拟。"
+  ],
+  "next_action": "建立2007—2012、2020年2—6月、2022年通胀加息周期的统一日频多资产数据集，定义黄金—股票分化规则，进行样本外回测并记录胜率、误报率、漏报率、最大回撤与交易成本。"
+}

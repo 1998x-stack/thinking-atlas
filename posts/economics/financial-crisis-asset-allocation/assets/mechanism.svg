@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 430" role="img" aria-labelledby="title desc">
+<title id="title">流动性冲击如何导致跨资产被迫出售</title>
+<desc id="desc">融资或现金需求冲击触发保证金、赎回和融资收紧，机构出售高流动性资产，价格下跌又压低抵押品价值，形成反馈循环。政策支持和实际利率变化会影响后续重新定价。</desc>
+<defs><marker id="arr" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0L8 4L0 8Z" fill="#a45e42"/></marker><marker id="bluearr" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0L8 4L0 8Z" fill="#247a78"/></marker></defs>
+<rect width="1040" height="430" rx="22" fill="#f7f5ef"/>
+<text x="42" y="42" fill="#65746f" font-size="15" letter-spacing="2">LIQUIDITY SHOCK · CONCEPTUAL MECHANISM</text>
+<rect x="40" y="90" width="210" height="90" rx="14" fill="#fff" stroke="#c98768" stroke-width="2"/>
+<text x="145" y="126" text-anchor="middle" fill="#773f2d" font-size="20" font-weight="700">现金需求冲击</text>
+<text x="145" y="153" text-anchor="middle" fill="#66736e" font-size="13">赎回 / 保证金 / 融资到期</text>
+<rect x="310" y="90" width="210" height="90" rx="14" fill="#fff" stroke="#c98768" stroke-width="2"/>
+<text x="415" y="126" text-anchor="middle" fill="#773f2d" font-size="20" font-weight="700">融资条件收紧</text>
+<text x="415" y="153" text-anchor="middle" fill="#66736e" font-size="13">折扣上升 / 授信收缩</text>
+<rect x="580" y="90" width="210" height="90" rx="14" fill="#fff" stroke="#c98768" stroke-width="2"/>
+<text x="685" y="126" text-anchor="middle" fill="#773f2d" font-size="20" font-weight="700">出售可变现资产</text>
+<text x="685" y="153" text-anchor="middle" fill="#66736e" font-size="13">股票 / 黄金 / 国债等</text>
+<rect x="830" y="90" width="170" height="90" rx="14" fill="#f5e4dc" stroke="#c98768" stroke-width="2"/>
+<text x="915" y="126" text-anchor="middle" fill="#773f2d" font-size="20" font-weight="700">价格下跌</text>
+<text x="915" y="153" text-anchor="middle" fill="#66736e" font-size="13">抵押品价值下降</text>
+<path d="M250 135H302 M520 135H572 M790 135H822" stroke="#a45e42" stroke-width="3" fill="none" marker-end="url(#arr)"/>
+<path d="M915 180V248H415V190" stroke="#a45e42" stroke-width="2.5" fill="none" stroke-dasharray="8 6" marker-end="url(#arr)"/>
+<text x="660" y="238" fill="#8b4b35" font-size="14" text-anchor="middle">反馈：保证金与融资压力再次上升</text>
+<rect x="160" y="300" width="310" height="78" rx="14" fill="#e1efeb" stroke="#6b9f91" stroke-width="2"/>
+<text x="315" y="332" text-anchor="middle" fill="#205d56" font-size="19" font-weight="700">政策流动性支持</text>
+<text x="315" y="356" text-anchor="middle" fill="#4e7770" font-size="13">央行工具 / 担保 / 市场功能修复</text>
+<rect x="570" y="300" width="310" height="78" rx="14" fill="#e8e5f4" stroke="#8d82b6" stroke-width="2"/>
+<text x="725" y="332" text-anchor="middle" fill="#514879" font-size="19" font-weight="700">重新定价</text>
+<text x="725" y="356" text-anchor="middle" fill="#6b6489" font-size="13">实际利率 / 美元 / 盈利 / 通胀预期</text>
+<path d="M470 339H562" stroke="#247a78" stroke-width="3" fill="none" marker-end="url(#bluearr)"/>
+<path d="M685 180V292" stroke="#247a78" stroke-width="2.5" fill="none" stroke-dasharray="5 6" marker-end="url(#bluearr)"/>
+<text x="40" y="410" fill="#71807b" font-size="12">示意图：机制路径，不代表估计系数、样本比例或必然发生的时间顺序。</text>
+</svg>
