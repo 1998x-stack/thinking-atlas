@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "source": {
+    "original_path": "domains/economics/real-activity.md",
+    "source_commit": "24e61cbe942f0ca61cc2ec4c0645e5e7aeed31d5",
+    "source_blob_sha": "6579f18e418336372b3865e6cad6df3c8a79b63b",
+    "original_record_date": "2026-09-21",
+    "migrated_at": "2026-11-21"
+  },
+  "research_status": "partial",
+  "independent_recheck": "not_performed_during_layout_migration",
+  "source_urls": [],
+  "limitations": [
+    "页面迁移不是实证核验",
+    "概念机制图不表达测量数据",
+    "旧资料仅覆盖部分对话索引与既有文本"
+  ],
+  "next_action": "回到一手资料，增加逐主张核验与反证记录"
+}
