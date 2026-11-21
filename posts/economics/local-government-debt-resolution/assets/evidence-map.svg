@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 500" role="img" aria-labelledby="title desc">
+<title id="title">地方债务的四层统计边界</title><desc id="desc">法定地方政府债务、甄别隐性债务、融资平台企业债务与更广义公共部门风险，法律责任和统计范围不同。</desc>
+<rect width="1100" height="500" fill="#f6f8f4"/>
+<text x="55" y="58" fill="#173d3b" font-size="28" font-family="serif">同一个“地方债”，四种不同的统计边界</text>
+<g font-family="sans-serif">
+<rect x="65" y="100" width="970" height="74" rx="9" fill="#dcebe3" stroke="#80a99b"/>
+<text x="92" y="131" fill="#1b4c43" font-size="20" font-weight="700">01 法定地方政府债务</text><text x="92" y="157" fill="#4d6d64" font-size="15">一般债券、专项债券、依法纳入余额的政府债务</text>
+<rect x="65" y="190" width="970" height="74" rx="9" fill="#e9eee6" stroke="#a8b9a9"/>
+<text x="92" y="221" fill="#1b4c43" font-size="20" font-weight="700">02 经甄别的隐性债务</text><text x="92" y="247" fill="#4d6d64" font-size="15">特定甄别程序确认的政府责任；不等于全部平台负债</text>
+<rect x="65" y="280" width="970" height="74" rx="9" fill="#f4e9df" stroke="#d3aa8a"/>
+<text x="92" y="311" fill="#845b3f" font-size="20" font-weight="700">03 LGFV 企业债务</text><text x="92" y="337" fill="#7e6b5a" font-size="15">银行贷款、债券、非标、应付账款；逐项判断经营与政府责任</text>
+<rect x="65" y="370" width="970" height="74" rx="9" fill="#f1e5e3" stroke="#c99e98"/>
+<text x="92" y="401" fill="#8a5149" font-size="20" font-weight="700">04 更广义公共部门风险</text><text x="92" y="427" fill="#7d6260" font-size="15">担保、回购、拖欠款、交叉应收应付；法律与统计边界需单独核验</text>
+</g></svg>
