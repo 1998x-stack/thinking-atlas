@@ -248,7 +248,7 @@ def publish(base_url, archive_size=16):
     save("posts.json", json.dumps([
         {key: p[key] for key in ("slug", "title", "category", "topic", "research_status", "updated", "summary", "tags")}
         for p in public], ensure_ascii=False, indent=2))
-    base_path = urlsplit(base_url).path.rstrip("/") + "/"
+    base_path = "./"
     save("robots.txt", "User-agent: *\nAllow: /\nSitemap: " + base_url.rstrip("/") + "/sitemap.xml\n")
     save("404.html", shell("页面未找到", "您访问的页面不存在", '<main id="main" class="container section-pad"><div class="page-heading"><h1>没有找到这个页面</h1><p>文章可能迁移或地址有误。</p><a class="button button-primary" href="' + base_path + '">返回首页</a></div></main>', base_url=base_url))
     print(f"BUILD OK: {len(public)} articles, {len(categories)} categories, {pages} archive page(s) -> {DEST}")
