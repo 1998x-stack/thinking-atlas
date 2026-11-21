@@ -1,0 +1,337 @@
+[
+  {
+    "slug": "labor-dispatch",
+    "title": "中国劳务派遣：三方用工中的控制权、成本与责任",
+    "subtitle": "对照法律条文与个案，辨别用工控制权、劳动合同责任和真实外包的界线。",
+    "category": "institutions",
+    "topic": "labor-systems",
+    "status": "published",
+    "research_status": "partial",
+    "published": "2026-11-21",
+    "updated": "2026-11-21",
+    "original_source_date": "2026-09-21",
+    "reading_minutes": 14,
+    "tags": [
+      "劳务派遣",
+      "劳动合同法",
+      "劳动关系"
+    ],
+    "summary": "对照法律条文与个案，辨别用工控制权、劳动合同责任和真实外包的界线。",
+    "source_path": "cases/labor-dispatch.md",
+    "cover": {
+      "src": "assets/mechanism.svg",
+      "caption": "概念机制示意图；非实证统计数据"
+    }
+  },
+  {
+    "slug": "labor-bargaining",
+    "title": "平台骑手：为何争取更多工作量而不是更高单价？",
+    "subtitle": "拆解单价、订单量、等待成本、替代供给与谈判结构；相关网传故事未独立证实。",
+    "category": "institutions",
+    "topic": "labor-systems",
+    "status": "published",
+    "research_status": "outline",
+    "published": "2026-11-21",
+    "updated": "2026-11-21",
+    "original_source_date": "2026-09-21",
+    "reading_minutes": 5,
+    "tags": [
+      "平台劳动",
+      "谈判",
+      "收入"
+    ],
+    "summary": "拆解单价、订单量、等待成本、替代供给与谈判结构；相关网传故事未独立证实。",
+    "source_path": "cases/labor-bargaining.md",
+    "cover": {
+      "src": "assets/mechanism.svg",
+      "caption": "概念机制示意图；非实证统计数据"
+    }
+  },
+  {
+    "slug": "public-resource-allocation",
+    "title": "公共资源分配：消费券与献血制度的不同问题",
+    "subtitle": "对两类公共资源制度提出公开可核查的准入、激励和审计问题。",
+    "category": "institutions",
+    "topic": "resource-allocation",
+    "status": "published",
+    "research_status": "outline",
+    "published": "2026-11-21",
+    "updated": "2026-11-21",
+    "original_source_date": "2026-09-21",
+    "reading_minutes": 5,
+    "tags": [
+      "资源配置",
+      "消费券",
+      "献血"
+    ],
+    "summary": "对两类公共资源制度提出公开可核查的准入、激励和审计问题。",
+    "source_path": "cases/public-resource-allocation.md",
+    "cover": {
+      "src": "assets/mechanism.svg",
+      "caption": "概念机制示意图；非实证统计数据"
+    }
+  },
+  {
+    "slug": "institutional-incentives",
+    "title": "制度激励：卫所、人民公社与执行偏差",
+    "subtitle": "以组织约束、退出条件和信息差为比较变量，避免跨时代类比失真。",
+    "category": "institutions",
+    "topic": "institutional-design",
+    "status": "published",
+    "research_status": "outline",
+    "published": "2026-11-21",
+    "updated": "2026-11-21",
+    "original_source_date": "2026-09-21",
+    "reading_minutes": 5,
+    "tags": [
+      "制度激励",
+      "历史比较"
+    ],
+    "summary": "以组织约束、退出条件和信息差为比较变量，避免跨时代类比失真。",
+    "source_path": "cases/institutional-incentives.md",
+    "cover": {
+      "src": "assets/mechanism.svg",
+      "caption": "概念机制示意图；非实证统计数据"
+    }
+  },
+  {
+    "slug": "resource-gates",
+    "title": "资源入口、依赖关系与权力转移",
+    "subtitle": "从资源重要性、排他性、替代性和可问责性解析权力形成机制。",
+    "category": "institutions",
+    "topic": "resource-allocation",
+    "status": "published",
+    "research_status": "partial",
+    "published": "2026-11-21",
+    "updated": "2026-11-21",
+    "original_source_date": "2026-09-21",
+    "reading_minutes": 6,
+    "tags": [
+      "权力",
+      "资源入口",
+      "依赖"
+    ],
+    "summary": "从资源重要性、排他性、替代性和可问责性解析权力形成机制。",
+    "source_path": "domains/institutions/resource-gates.md",
+    "cover": {
+      "src": "assets/mechanism.svg",
+      "caption": "概念机制示意图；非实证统计数据"
+    }
+  },
+  {
+    "slug": "credible-commitment",
+    "title": "高平陵之变与洛水之誓：何谓可信承诺？",
+    "subtitle": "区分史料叙事与制度分析：交权后的执行保障为何是政治承诺的关键。",
+    "category": "history",
+    "topic": "credible-commitment",
+    "status": "published",
+    "research_status": "partial",
+    "published": "2026-11-21",
+    "updated": "2026-11-21",
+    "original_source_date": "2026-09-21",
+    "reading_minutes": 12,
+    "tags": [
+      "三国",
+      "高平陵之变",
+      "可信承诺"
+    ],
+    "summary": "区分史料叙事与制度分析：交权后的执行保障为何是政治承诺的关键。",
+    "source_path": "domains/history/README.md",
+    "cover": {
+      "src": "assets/mechanism.svg",
+      "caption": "概念机制示意图；非实证统计数据"
+    }
+  },
+  {
+    "slug": "fiscal-reform",
+    "title": "财政改革对读：一条鞭法与王安石变法",
+    "subtitle": "围绕财政目标、征收流程、成本分配和时代条件建立对读问题表。",
+    "category": "history",
+    "topic": "fiscal-reforms",
+    "status": "published",
+    "research_status": "outline",
+    "published": "2026-11-21",
+    "updated": "2026-11-21",
+    "original_source_date": "2026-09-21",
+    "reading_minutes": 5,
+    "tags": [
+      "财政改革",
+      "一条鞭法",
+      "王安石"
+    ],
+    "summary": "围绕财政目标、征收流程、成本分配和时代条件建立对读问题表。",
+    "source_path": "cases/fiscal-reform.md",
+    "cover": {
+      "src": "assets/mechanism.svg",
+      "caption": "概念机制示意图；非实证统计数据"
+    }
+  },
+  {
+    "slug": "business-first-principles",
+    "title": "商业常识：算账、机会成本与生存约束",
+    "subtitle": "用现金流、真实需求和机会成本检验商业判断及其适用边界。",
+    "category": "economics",
+    "topic": "business-models",
+    "status": "published",
+    "research_status": "partial",
+    "published": "2026-11-21",
+    "updated": "2026-11-21",
+    "original_source_date": "2026-09-21",
+    "reading_minutes": 6,
+    "tags": [
+      "商业",
+      "现金流",
+      "风险"
+    ],
+    "summary": "用现金流、真实需求和机会成本检验商业判断及其适用边界。",
+    "source_path": "domains/economics/business-first-principles.md",
+    "cover": {
+      "src": "assets/mechanism.svg",
+      "caption": "概念机制示意图；非实证统计数据"
+    }
+  },
+  {
+    "slug": "real-activity",
+    "title": "真实经济活动：多指标交叉验证",
+    "subtitle": "对照经济指标的生成约束与代表性，避免将难造假误认为有效 GDP 代理。",
+    "category": "economics",
+    "topic": "economic-measurement",
+    "status": "published",
+    "research_status": "partial",
+    "published": "2026-11-21",
+    "updated": "2026-11-21",
+    "original_source_date": "2026-09-21",
+    "reading_minutes": 6,
+    "tags": [
+      "经济指标",
+      "统计",
+      "交叉验证"
+    ],
+    "summary": "对照经济指标的生成约束与代表性，避免将难造假误认为有效 GDP 代理。",
+    "source_path": "domains/economics/real-activity.md",
+    "cover": {
+      "src": "assets/mechanism.svg",
+      "caption": "概念机制示意图；非实证统计数据"
+    }
+  },
+  {
+    "slug": "speculative-assets",
+    "title": "藏獒、君子兰、赌石、翡翠与房地产：价格如何形成？",
+    "subtitle": "比较使用价值、认证困难、流动性与转售预期的不同作用。",
+    "category": "economics",
+    "topic": "asset-pricing",
+    "status": "published",
+    "research_status": "outline",
+    "published": "2026-11-21",
+    "updated": "2026-11-21",
+    "original_source_date": "2026-09-21",
+    "reading_minutes": 6,
+    "tags": [
+      "资产定价",
+      "投机",
+      "房地产"
+    ],
+    "summary": "比较使用价值、认证困难、流动性与转售预期的不同作用。",
+    "source_path": "cases/speculative-assets.md",
+    "cover": {
+      "src": "assets/mechanism.svg",
+      "caption": "概念机制示意图；非实证统计数据"
+    }
+  },
+  {
+    "slug": "dependency-transitions",
+    "title": "技术与社会：旧依赖消失，新依赖如何形成？",
+    "subtitle": "分析技术替换如何移动资源入口、稀缺性与组织议价权。",
+    "category": "technology",
+    "topic": "dependency-transitions",
+    "status": "published",
+    "research_status": "partial",
+    "published": "2026-11-21",
+    "updated": "2026-11-21",
+    "original_source_date": "2026-09-21",
+    "reading_minutes": 7,
+    "tags": [
+      "技术",
+      "依赖",
+      "社会制度"
+    ],
+    "summary": "分析技术替换如何移动资源入口、稀缺性与组织议价权。",
+    "source_path": "domains/technology/dependency-transitions.md",
+    "cover": {
+      "src": "assets/mechanism.svg",
+      "caption": "概念机制示意图；非实证统计数据"
+    }
+  },
+  {
+    "slug": "norms-family-institutions",
+    "title": "家庭、性别规范与财产规则：区分文本与现实",
+    "subtitle": "将思想文本、社会实践、适用法律与网络故事分开检验。",
+    "category": "society",
+    "topic": "norms-and-family",
+    "status": "published",
+    "research_status": "outline",
+    "published": "2026-11-21",
+    "updated": "2026-11-21",
+    "original_source_date": "2026-09-21",
+    "reading_minutes": 5,
+    "tags": [
+      "家庭",
+      "社会规范",
+      "财产制度"
+    ],
+    "summary": "将思想文本、社会实践、适用法律与网络故事分开检验。",
+    "source_path": "cases/norms-family-institutions.md",
+    "cover": {
+      "src": "assets/mechanism.svg",
+      "caption": "概念机制示意图；非实证统计数据"
+    }
+  },
+  {
+    "slug": "evidence-and-models",
+    "title": "从信息堆叠到可检验的问题模型",
+    "subtitle": "用“问题—变量—机制—反证—边界”的方法组织可修订研究。",
+    "category": "methods",
+    "topic": "evidence-models",
+    "status": "published",
+    "research_status": "partial",
+    "published": "2026-11-21",
+    "updated": "2026-11-21",
+    "original_source_date": "2026-09-21",
+    "reading_minutes": 5,
+    "tags": [
+      "研究方法",
+      "证据",
+      "模型"
+    ],
+    "summary": "用“问题—变量—机制—反证—边界”的方法组织可修订研究。",
+    "source_path": "domains/methods/evidence-and-models.md",
+    "cover": {
+      "src": "assets/mechanism.svg",
+      "caption": "概念机制示意图；非实证统计数据"
+    }
+  },
+  {
+    "slug": "adaptive-system",
+    "title": "个人适应系统：能力、作品、关系和选择权",
+    "subtitle": "拆解个人成长实践中的能力、约束、风险、退出与替代方案。",
+    "category": "life",
+    "topic": "adaptation",
+    "status": "published",
+    "research_status": "partial",
+    "published": "2026-11-21",
+    "updated": "2026-11-21",
+    "original_source_date": "2026-09-21",
+    "reading_minutes": 6,
+    "tags": [
+      "个人发展",
+      "适应",
+      "选择权"
+    ],
+    "summary": "拆解个人成长实践中的能力、约束、风险、退出与替代方案。",
+    "source_path": "domains/life/adaptive-system.md",
+    "cover": {
+      "src": "assets/mechanism.svg",
+      "caption": "概念机制示意图；非实证统计数据"
+    }
+  }
+]
