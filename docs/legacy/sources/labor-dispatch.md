@@ -11,4 +11,4 @@
 
 **证据缺口**：缺乏可比的全国派遣人数与行业占比长期序列、合法派遣与外包的合同履行样本、同工同酬的岗位级数据，以及派遣与直接用工的全成本对照。不得以未核实网络叙事填补这些空白。
 
-**关联研究**：[劳务派遣制度案例](../cases/labor-dispatch.md) · [平台劳动谈判](../cases/labor-bargaining.md) · [制度主题目录](../domains/institutions/README.md)。
+**关联研究**：[劳务派遣制度案例](../../../posts/institutions/labor-dispatch/source.md) · [平台劳动谈判](../../../posts/institutions/labor-bargaining/source.md) · [制度主题目录](../domains/institutions/README.md)。
