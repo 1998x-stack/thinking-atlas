@@ -1,24 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 430" role="img" aria-labelledby="title desc">
 <title id="title">2008年伦敦黄金定盘价关键观察日</title>
-<desc id="desc">2008年3月17日约1023.50美元，9月15日约779.25美元，10月15日约848.50美元，10月24日约692.50美元，12月31日约865美元。展示春季高点与秋季低点的跨月回撤，也显示雷曼倒闭一个月后价格高于倒闭当日。</desc>
+<desc id="desc">2008年3月17日约1023.50美元，9月15日约779.25美元，9月30日约897美元，10月15日约848.50美元，10月24日约692.50美元。展示春季高点与秋季低点的跨月回撤，也显示雷曼倒闭一个月后价格高于倒闭当日。</desc>
 <rect width="1040" height="430" rx="22" fill="#f7f5ef"/>
 <text x="42" y="42" fill="#65746f" font-size="15" letter-spacing="2">LONDON GOLD FIXING · USD / TROY OUNCE</text>
-<line x1="110" y1="330" x2="950" y2="330" stroke="#b9c3bd" stroke-width="2"/>
+<line x1="110" y1="330" x2="930" y2="330" stroke="#b9c3bd" stroke-width="2"/>
 <line x1="110" y1="90" x2="110" y2="330" stroke="#b9c3bd" stroke-width="2"/>
-<g fill="#77847e" font-size="13">
-<text x="90" y="335" text-anchor="end">650</text><text x="90" y="275" text-anchor="end">750</text><text x="90" y="215" text-anchor="end">850</text><text x="90" y="155" text-anchor="end">950</text><text x="90" y="95" text-anchor="end">1,050</text>
-</g>
-<g stroke="#d9dfda" stroke-width="1"><line x1="110" y1="270" x2="950" y2="270"/><line x1="110" y1="210" x2="950" y2="210"/><line x1="110" y1="150" x2="950" y2="150"/><line x1="110" y1="90" x2="950" y2="90"/></g>
-<polyline points="145,106 350,252 555,210 660,304 900,200" fill="none" stroke="#a56a37" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
-<g fill="#fff" stroke="#a56a37" stroke-width="4">
-<circle cx="145" cy="106" r="8"/><circle cx="350" cy="252" r="8"/><circle cx="555" cy="210" r="8"/><circle cx="660" cy="304" r="8"/><circle cx="900" cy="200" r="8"/>
-</g>
-<g fill="#273a36" font-size="15" font-weight="700">
-<text x="145" y="78" text-anchor="middle">$1,023.50</text><text x="350" y="282" text-anchor="middle">$779.25</text><text x="555" y="185" text-anchor="middle">$848.50</text><text x="660" y="337" text-anchor="middle">$692.50</text><text x="900" y="175" text-anchor="middle">$865.00</text>
-</g>
-<g fill="#66756f" font-size="13">
-<text x="145" y="365" text-anchor="middle">17 Mar</text><text x="350" y="365" text-anchor="middle">15 Sep</text><text x="555" y="365" text-anchor="middle">15 Oct</text><text x="660" y="365" text-anchor="middle">24 Oct</text><text x="900" y="365" text-anchor="middle">31 Dec</text>
-</g>
+<g fill="#77847e" font-size="13"><text x="90" y="335" text-anchor="end">650</text><text x="90" y="275" text-anchor="end">750</text><text x="90" y="215" text-anchor="end">850</text><text x="90" y="155" text-anchor="end">950</text><text x="90" y="95" text-anchor="end">1,050</text></g>
+<g stroke="#d9dfda" stroke-width="1"><line x1="110" y1="270" x2="930" y2="270"/><line x1="110" y1="210" x2="930" y2="210"/><line x1="110" y1="150" x2="930" y2="150"/><line x1="110" y1="90" x2="930" y2="90"/></g>
+<polyline points="145,106 340,252 490,182 640,211 830,305" fill="none" stroke="#a56a37" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<g fill="#fff" stroke="#a56a37" stroke-width="4"><circle cx="145" cy="106" r="8"/><circle cx="340" cy="252" r="8"/><circle cx="490" cy="182" r="8"/><circle cx="640" cy="211" r="8"/><circle cx="830" cy="305" r="8"/></g>
+<g fill="#273a36" font-size="15" font-weight="700"><text x="145" y="78" text-anchor="middle">$1,023.50</text><text x="340" y="282" text-anchor="middle">$779.25</text><text x="490" y="155" text-anchor="middle">$897.00</text><text x="640" y="184" text-anchor="middle">$848.50</text><text x="830" y="338" text-anchor="middle">$692.50</text></g>
+<g fill="#66756f" font-size="13"><text x="145" y="365" text-anchor="middle">17 Mar</text><text x="340" y="365" text-anchor="middle">15 Sep</text><text x="490" y="365" text-anchor="middle">30 Sep</text><text x="640" y="365" text-anchor="middle">15 Oct</text><text x="830" y="365" text-anchor="middle">24 Oct</text></g>
 <rect x="285" y="386" width="475" height="28" rx="8" fill="#e9eee9"/>
-<text x="522" y="405" text-anchor="middle" fill="#5e7068" font-size="12">选取日期的伦敦定盘价观察点；非每日连续序列</text>
+<text x="522" y="405" text-anchor="middle" fill="#5e7068" font-size="12">同一历史表中的选取日期观察点；非每日连续序列</text>
 </svg>
