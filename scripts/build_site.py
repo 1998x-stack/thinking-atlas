@@ -169,11 +169,13 @@ def build_archive(posts, page, size, base_url):
     start = (page - 1) * size
     group = ordered[start:start + size]
     pages = (len(posts) + size - 1) // size
-    pages_html = "".join(
-        f'<a {"aria-current=\"page\"" if i == page else ""} href="{("../" if page == 1 else "../../../") if i==1 else ("../" if page==1 else "../../../")+"page/"+str(i)+"/"}">{i}</a>'
-        for i in range(1, pages + 1)
-    )
     prefix = "../" if page == 1 else "../../../"
+    pager_links = []
+    for i in range(1, pages + 1):
+        attr = ' aria-current="page"' if i == page else ""
+        href = prefix + "archive/" + (f"page/{i}/" if i > 1 else "")
+        pager_links.append(f'<a{attr} href="{href}">{i}</a>')
+    pages_html = "".join(pager_links)
     body = f'<main class="container section-pad" id="main"><div class="page-heading"><span class="eyebrow">COMPLETE ARCHIVE</span><h1>文章归档</h1><p>共 {len(posts)} 篇公开文章；“已发布”不意味着研究结论已得到实证证实。</p></div><div class="archive-header">按最近修订排序 · 第 {page}/{pages} 页</div><div class="post-grid">{"".join(card(p,prefix) for p in group)}</div><nav class="pager" aria-label="归档分页">{pages_html}</nav></main>'
     path = "archive/" if page == 1 else f"archive/page/{page}/"
     return shell("文章归档", "完整的公开研究文章归档", body, depth=1 if page == 1 else 3, active="文章归档", base_url=base_url, path=path)
