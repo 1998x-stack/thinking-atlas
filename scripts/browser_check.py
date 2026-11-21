@@ -13,15 +13,18 @@ except ImportError as exc:
     raise SystemExit("Install requirements-dev.txt and Chromium before browser QA") from exc
 
 ROOT=Path(__file__).resolve().parents[1]
-ROUTES=[
-    "index.html",
-    "topics/index.html",
-    "archive/index.html",
-    "methodology/index.html",
-    "categories/institutions/index.html",
-    "posts/institutions/labor-dispatch/index.html",
-    "posts/history/credible-commitment/index.html",
-]
+def published_routes():
+    cats=json.loads((ROOT/"content/categories.json").read_text(encoding="utf-8"))
+    posts=json.loads((ROOT/"content/posts.json").read_text(encoding="utf-8"))
+    return ["index.html","topics/index.html","archive/index.html","methodology/index.html"] + [
+        f"categories/{cat['slug']}/index.html" for cat in cats
+    ] + [
+        f"posts/{post['category']}/{post['slug']}/index.html"
+        for post in posts if post["status"]=="published"
+    ]
+
+
+ROUTES=published_routes()
 VIEWPORTS=[("desktop",1440,900),("mobile-390",390,844),("mobile-360",360,740)]
 
 
