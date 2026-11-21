@@ -75,7 +75,7 @@ async def main():
                 name=label+"__"+route.replace("/","_")
                 await page.screenshot(path=str(output/(name+".png")),full_page=True)
                 if state["width"]>state["viewport"]+2:
-                    errors.append(name+": horizontal overflow "+str(state["width"])+" > "+str(state["viewport"]))
+                    errors.append(name+": horizontal overflow "+str(state["width"])+" > "+str(state["viewport"])+" elements="+repr(state.get("overflowers")))
                 if state["broken"]:
                     errors.append(name+": broken images "+repr(state["broken"]))
                 if state["headings"]!=1 or state["main"]!=1:
