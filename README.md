@@ -231,7 +231,7 @@ python scripts/build_site.py --base-url https://example.org/research/ --archive-
 1. **定义问题与边界**：写明研究对象、地区、时间、制度/法律版本、核心概念及要回答的问题。
 2. **选择分类**：优先复用 `content/categories.json` 中已有的 `category` 和该分类下的 `topic`；只有存在稳定、可解释的新知识领域时才增加分类。
 3. **创建文章目录**：建立 `posts/<category>/<slug>/`，至少包含 `index.html`、`source.md`、`evidence.json` 和文章专属 `assets/*.svg`。
-4. **登记文章**：在 `content/posts.json` 中增加唯一 slug 的元数据。先设为 `status: draft`；填写真实的 `published`、`updated` 日期、标题、摘要、阅读时间、分类、主题、标签和本文章封面。
+4. **登记文章**：在 `content/posts.json` 中增加唯一 slug 的元数据。先设为 `status: draft`；填写真实的 `published`、`updated` 日期、标题、摘要、阅读时间、分类、主题、标签，以及本文章的 `cover.src` 和具体、独特的 `cover.caption`。
 5. **建立证据记录**：`evidence.json` 的 `research_status` 必须与注册表一致；保留 `source.original_path` 等来源溯源信息。只有真实完成独立核验时，才记录核验完成及对应的已核实主张。
 6. **完成质量门禁**：构建、测试、站点校验、浏览器 QA 和人工来源复核均通过后，再决定是否将 `status` 改为 `published`。
 7. **提交 PR**：说明研究新增内容、证据变化、反证与局限、运行过的检查及未完成事项。
