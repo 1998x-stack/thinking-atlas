@@ -46,13 +46,31 @@ async def main():
                 page.on("console",lambda msg: js_errors.append("console error: "+msg.text) if msg.type=="error" else None)
                 url=(site/route).as_uri()
                 await page.goto(url,wait_until="load")
-                await page.wait_for_timeout(120)
+                # Lazy-loaded cards outside the viewport are not broken: load them explicitly
+                # before checking the full-document image contract.
+                await page.evaluate('''() => {
+                    document.querySelectorAll("img[loading=lazy]").forEach(img=>img.loading="eager");
+                }''')
+                try:
+                    await page.wait_for_function("Array.from(document.images).every(img => img.complete)", timeout=4000)
+                except Exception:
+                    pass
                 state=await page.evaluate("""() => ({
                     width: document.documentElement.scrollWidth,
                     viewport: document.documentElement.clientWidth,
                     headings: document.querySelectorAll("h1").length,
                     main: document.querySelectorAll("main").length,
-                    broken: Array.from(document.images).filter(img=>!img.complete || img.naturalWidth===0).map(img=>img.src)
+                    broken: Array.from(document.images).filter(img=>!img.complete || img.naturalWidth===0).map(img=>img.src),
+                    overflowers: Array.from(document.querySelectorAll("body *")).filter(el => {
+                        const box=el.getBoundingClientRect();
+                        return box.right > document.documentElement.clientWidth+2 &&
+                          getComputedStyle(el).display!=="none" && box.width>0;
+                    }).slice(0,12).map(el=>({
+                        tag:el.tagName.toLowerCase(), cls:el.className?.baseVal || el.className,
+                        width:Math.round(el.getBoundingClientRect().width),
+                        right:Math.round(el.getBoundingClientRect().right),
+                        text:(el.innerText||"").slice(0,45)
+                    }))
                 })""")
                 name=label+"__"+route.replace("/","_")
                 await page.screenshot(path=str(output/(name+".png")),full_page=True)
