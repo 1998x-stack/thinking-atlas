@@ -1,0 +1,106 @@
+[
+  {
+    "slug": "institutions",
+    "title": "制度与权力",
+    "english": "Institutions & Power",
+    "description": "研究资源入口、激励结构、权责分离与公共资源分配。",
+    "topics": [
+      {
+        "slug": "labor-systems",
+        "title": "劳动制度与谈判"
+      },
+      {
+        "slug": "resource-allocation",
+        "title": "资源配置与准入"
+      },
+      {
+        "slug": "institutional-design",
+        "title": "制度设计与激励"
+      }
+    ]
+  },
+  {
+    "slug": "history",
+    "title": "历史机制",
+    "english": "Historical Mechanisms",
+    "description": "以原始记载为界，分析政治承诺、财政改革与历史比较。",
+    "topics": [
+      {
+        "slug": "credible-commitment",
+        "title": "可信承诺与权力交接"
+      },
+      {
+        "slug": "fiscal-reforms",
+        "title": "财政改革比较"
+      }
+    ]
+  },
+  {
+    "slug": "economics",
+    "title": "经济与商业",
+    "english": "Economics & Business",
+    "description": "区分真实活动、现金流、商业机制与资产定价。",
+    "topics": [
+      {
+        "slug": "economic-measurement",
+        "title": "经济测量与交叉验证"
+      },
+      {
+        "slug": "business-models",
+        "title": "商业模式与生存约束"
+      },
+      {
+        "slug": "asset-pricing",
+        "title": "资产定价与投机"
+      }
+    ]
+  },
+  {
+    "slug": "technology",
+    "title": "技术与社会",
+    "english": "Technology & Society",
+    "description": "技术如何改变资源稀缺性、入口依赖和组织力量。",
+    "topics": [
+      {
+        "slug": "dependency-transitions",
+        "title": "依赖关系的转移"
+      }
+    ]
+  },
+  {
+    "slug": "society",
+    "title": "社会与家庭",
+    "english": "Society & Family",
+    "description": "把思想规范、法律文本与现实行为区分开来。",
+    "topics": [
+      {
+        "slug": "norms-and-family",
+        "title": "社会规范与家庭制度"
+      }
+    ]
+  },
+  {
+    "slug": "methods",
+    "title": "研究方法",
+    "english": "Research Methods",
+    "description": "建设证据链、解释模型、反证机制与认知修订流程。",
+    "topics": [
+      {
+        "slug": "evidence-models",
+        "title": "证据、模型与反证"
+      }
+    ]
+  },
+  {
+    "slug": "life",
+    "title": "个人系统",
+    "english": "Life Systems",
+    "description": "分析能力、行动、退出选择与个人长期适应。",
+    "topics": [
+      {
+        "slug": "adaptation",
+        "title": "个人适应与选择权"
+      }
+    ]
+  }
+]

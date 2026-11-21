@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "source": {
+    "original_path": "cases/labor-dispatch.md",
+    "source_commit": "24e61cbe942f0ca61cc2ec4c0645e5e7aeed31d5",
+    "source_blob_sha": "e568ba024f9e90b9d23665a631986986b302197e",
+    "original_record_date": "2026-09-21",
+    "migrated_at": "2026-11-21"
+  },
+  "research_status": "partial",
+  "independent_recheck": "targeted_primary_text_spot_check_2026-11-21",
+  "source_urls": [
+    {
+      "url": "https://www.court.gov.cn/zixun/xiangqing/484861.html",
+      "status": "cited_in_source_not_independently_revalidated"
+    }
+  ],
+  "limitations": [
+    "页面迁移不是实证核验",
+    "概念机制图不表达测量数据",
+    "旧资料仅覆盖部分对话索引与既有文本",
+    "仅新增上述特定主张的来源校核，其他推论与实证指标尚未全面核查"
+  ],
+  "next_action": "回到一手来源并建立逐主张的时间、范围和反证台账",
+  "checked_at": "2026-11-21",
+  "verified_claims": [
+    {
+      "id": "LD-001",
+      "claim": "《劳动合同法》（2012年修正）第63条保障被派遣劳动者同工同酬，并规定同类岗位报酬分配办法",
+      "status": "SUPPORTED",
+      "scope": "中国全国法律规范；不是员工实际收入差异的调查",
+      "source": {
+        "title": "中华人民共和国劳动合同法",
+        "url": "https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/bgt/art/2023/art_0abfdd261c03417b949df19d869add8d.html-0",
+        "publisher": "国家市场监督管理总局（转载法律全文）",
+        "article": "第63条"
+      },
+      "limitations": "法律规定不等于全部用工单位已经履行"
+    },
+    {
+      "id": "LD-002",
+      "claim": "《劳动合同法》第66条将劳务派遣定位为补充形式，限定临时性、辅助性、替代性岗位",
+      "status": "SUPPORTED",
+      "scope": "2012年修正法律文本",
+      "source": {
+        "title": "中华人民共和国劳动合同法",
+        "url": "https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/bgt/art/2023/art_0abfdd261c03417b949df19d869add8d.html-0",
+        "publisher": "国家市场监督管理总局（转载法律全文）",
+        "article": "第66条"
+      },
+      "limitations": "与具体岗位性质的法律判断须结合事实"
+    },
+    {
+      "id": "LD-003",
+      "claim": "《劳务派遣暂行规定》（2014）第4条规定用工单位被派遣劳动者不超过用工总量10%，分母为直接劳动合同人数加派遣人数",
+      "status": "SUPPORTED",
+      "scope": "适用该暂行规定的用工单位",
+      "source": {
+        "title": "劳务派遣暂行规定（人社部令第22号）",
+        "url": "https://fgk.chinatax.gov.cn/zcfgk/c100013/c5195227/content.html",
+        "publisher": "国家税务总局政策法规库（收录人社部规章）",
+        "article": "第3—4条"
+      },
+      "limitations": "不能将10%误认为全国所有灵活用工形式的统一比例"
+    },
+    {
+      "id": "LD-004",
+      "claim": "2025年5月北京三中院终审一例涉及食品加工员的案件，认定存在假外包真派遣并判定相关主体共同支付欠薪",
+      "status": "SUPPORTED",
+      "scope": "公开典型案例中的单个案件",
+      "source": {
+        "title": "2025年劳动法律监督“一函两书”典型案例（案例一）",
+        "url": "https://www.court.gov.cn/zixun/xiangqing/484861.html",
+        "publisher": "最高人民法院、全国总工会、最高检联合发布",
+        "published_at": "2025-12-25"
+      },
+      "limitations": "个案不构成行业发生率、平均工资差异或因果效应证据"
+    }
+  ]
+}

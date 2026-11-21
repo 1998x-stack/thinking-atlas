@@ -1,42 +1,62 @@
 # Thinking Atlas · 思考图谱
 
-> 从聊天索引和已有研究材料中提炼可检验、可复用、可持续修订的知识，而非堆积聊天记录。
+**从直觉到机制，从观点到证据。** 按照 [xm-posts](https://github.com/1998x-stack/xm-posts) 的内容发布体系重构的开放研究知识库。
 
-**首次整理：2026-09-21。** 首批内容依据当前项目可见的 2026-09-14—09-21 对话索引（部分只有题目或提问），以及六份已提供的文本材料。没有取得该周全部聊天记录；不能把整理者依据题目提出的研究问题写成历史对话已经形成的结论。六份材料的写作日期不明，作为既有知识底稿。详见[来源覆盖与缺口](meta/coverage.md)。
+[阅读网站](https://1998x-stack.github.io/thinking-atlas/) · [知识地图](https://1998x-stack.github.io/thinking-atlas/topics/) · [文章归档](https://1998x-stack.github.io/thinking-atlas/archive/) · [RSS 订阅](https://1998x-stack.github.io/thinking-atlas/feed.xml)
 
-## 导航
+> **证据声明**：本站包含专题分析、解释模型和待核实研究提纲。页面中的“研究提纲”不是已经完成的证据核查；原始知识记录截至 2026-09-21，重构不等于对历史论断作出了新的独立确认。不得把读者友好的图示当作统计结果或档案证据。
 
-| 从这里开始 | 文档 |
-|---|---|
-| 本周谈过什么、还缺什么 | [2026-09-14—09-21 回顾](weekly/2026-09-14_2026-09-21.md) |
-| 权力、资源入口、执行激励 | [制度与权力](domains/institutions/README.md) |
-| 历史制度与跨时代比较 | [历史机制](domains/history/README.md) |
-| 统计交叉验证、商业和资产 | [经济与商业](domains/economics/README.md) |
-| 技术如何改变依赖关系 | [技术与社会](domains/technology/README.md) |
-| 关键变量、证据与模型 | [思维方法](domains/methods/README.md) |
-| 作品、行动、边界和选择权 | [个人适应系统](domains/life/README.md) |
-| 具体研究案例 | [案例目录](cases/public-resource-allocation.md) |
-| 材料主题及文件名映射 | [来源说明](sources/README.md) |
-| 研究队列 | [待解决问题](questions/next-research.md) |
-| 如何记录和修订结论 | [编辑规范](meta/editorial-standard.md) |
+## 阅读方式
 
-## 知识组织方式
+- **首页**：精选主题、按学科浏览、搜索索引与最新整理。
+- **知识地图**：一级领域 → 二级问题 → 文章；一篇文章只有一个主分类，其他联系通过标签串联。
+- **文章页**：核心问题、机制图、论证、反例与边界、证据状态和进一步研究方向。
+- **文章归档**：按时间与研究状态查看全部公开内容。
+- **RSS**：仅订阅内容注册表中标为 `published` 的文章。
 
-- `domains/`：长期有效的概念、解释模型及适用边界；每项核心模型只有一个主归属。
-- `cases/`：历史事件、社会制度、行业现象等具体个案；区分事实、解释与待核查问题。
-- `weekly/`：时间索引和增量修订摘要，不按日期复制概念原文。
-- `sources/`：既有文本的实际主题、来源可信度及对应主文档。
-- `questions/`：尚未查证的问题与下一件可交付研究成果。
-- `templates/`、`meta/`、`scripts/`：写作、审阅、更新和内部链接校验。
+## 内容与代码组织
 
-## 不把推测写成事实
+```text
+content/categories.json             分类与主题唯一数据源
+content/posts.json                  文章元数据与研究状态
+posts/<category>/<slug>/index.html  正式 HTML 阅读源文件
+posts/<category>/<slug>/source.md   从旧版迁移的原始可编辑研究文本
+posts/<category>/<slug>/assets/     每篇独立的原创机制图
+posts/<category>/<slug>/evidence.json  来源链与核验状态
+site/assets/                        全站设计系统与交互
+scripts/build_site.py               生成首页、知识地图、归档、搜索、RSS、sitemap
+scripts/validate_site.py            内容、路径、元数据与发布完整性检查
+skills/olah-style-paper-posts/      与 xm-posts 同源的 canonical Skill
+.github/workflows/publish.yml       PR 验证；main 成功后部署 Pages
+_site/                              可重复生成的静态站点（禁止提交）
+```
 
-每项重要判断区分 **材料所述 / 已核实事实 / 解释或假设 / 下一步验证**。研究公开人物、历史事件、公共制度和经济数据时记录出处及适用时间；历史类比只能提供待检验的机制，不自动证明当代结论。指标的概念权重、直觉评分不等于经过估计的统计模型。
+原来的 `cases/`、`domains/` 研究文本被迁移到 `posts/`，而不是直接删除其有用内容；周记、材料映射、编辑政策、研究队列归档至 `docs/`，不混入正式文章目录。
 
-## 发布与隐私
+## 本地开发
 
-此仓库目前为 **Public**。仅发布经过整理的公开研究笔记，不纳入原始私人聊天、账号数据、未核实的个人传闻或大段第三方作品。个人材料、敏感数据应留在本地或受控存储；公开新增文件前参照[发布检查](meta/privacy-and-publishing.md)。
+要求 Python 3.11+；站点构建与基础校验仅依赖标准库。
 
-## 维护
+```bash
+python scripts/build_site.py
+python scripts/validate_site.py
+python scripts/sync_skills.py --check
+python -m unittest discover -s tests -v
+cd _site && python -m http.server 8000
+```
 
-每周先把新提问放入周索引，再寻找其现有主文档；只有新变量、新证据或有意义的反例才更新主文档。新增主题使用[知识条目模板](templates/knowledge-note.md)，具体案例使用[案例模板](templates/case-study.md)。在本地运行 `python scripts/validate_knowledge.py` 检查 Markdown 内部链接。Git 提交记录作为观点修订历史，而不是聊天历史的替代品。
+在浏览器访问 http://localhost:8000/ 。GitHub Pages 使用 `/thinking-atlas/` 子路径，所有内部链接采用相对路径；站点地图和 RSS 的绝对地址由 `--base-url` 指定。
+
+## 新增文章
+
+1. 选择 `content/categories.json` 中的分类与主题。
+2. 在 `posts/<category>/<slug>/` 创建 `index.html`、`assets/`、`evidence.json`，登记 `content/posts.json`。
+3. 运用 `skills/olah-style-paper-posts/SKILL.md` 的叙事、语义 HTML、原创 SVG 和浏览器 QA 方法；历史/制度/社会研究以一手档案、政策正文、统计原表与反证检查替代论文专有章节。
+4. 明确 `research_status`：`verified`、`partial`、`outline`；网站发布 `status=published` 只表示可公开阅读，不等于证据已经充分。
+5. 完成构建、校验、可访问性和链接检查，经 PR 审核后合并到 `main`。不要将构建成功等同于 Pages 已部署。
+
+详细约定见 [架构与迁移说明](docs/ARCHITECTURE.md)、[编辑与证据规范](docs/EDITORIAL.md)、[逐主题内容质量审计](docs/CONTENT_AUDIT.md)、[来源覆盖说明](docs/source-coverage.md)；历史来源文件及变更参见 Git 记录。
+
+## 许可与隐私
+
+参考 xm-posts 的信息架构与 [Olah-style-posts](https://github.com/1998x-stack/Olah-style-posts) 的教学表达方式，不复制第三方图文。图片均为项目原创的概念结构示意，不代表量化数据。公开仓库不存储私人聊天记录、私人人名或未经核实的个人传闻。

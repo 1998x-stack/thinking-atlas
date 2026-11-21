@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "source": {
+    "original_path": "domains/history/README.md",
+    "source_commit": "24e61cbe942f0ca61cc2ec4c0645e5e7aeed31d5",
+    "source_blob_sha": "e9ec56b8ca1e93867991bafc13deb643cff943f1",
+    "original_record_date": "2026-09-21",
+    "migrated_at": "2026-11-21"
+  },
+  "research_status": "partial",
+  "independent_recheck": "targeted_primary_text_spot_check_2026-11-21",
+  "source_urls": [],
+  "limitations": [
+    "页面迁移不是实证核验",
+    "概念机制图不表达测量数据",
+    "旧资料仅覆盖部分对话索引与既有文本",
+    "仅新增上述特定主张的来源校核，其他推论与实证指标尚未全面核查"
+  ],
+  "next_action": "回到一手来源并建立逐主张的时间、范围和反证台账",
+  "checked_at": "2026-11-21",
+  "verified_claims": [
+    {
+      "id": "CC-001",
+      "claim": "《三国志·魏书九·曹爽传》载司马懿控制洛阳关键军政设施、曹爽交权及曹爽一党后被诛的叙事",
+      "status": "SUPPORTED",
+      "scope": "对史书叙述内容的核验，不等于所有指控均有独立证明",
+      "source": {
+        "title": "三国志·曹爽传（陈寿撰，裴松之注）",
+        "url": "https://www.shidianguji.com/book/LS0004/chapter/1j7fnutvolr20_37",
+        "publisher": "识典古籍（古籍文本平台）"
+      },
+      "limitations": "史料记载与事实完全真实性须区分；对谋反指控尤其不能直接照单全收"
+    },
+    {
+      "id": "CC-002",
+      "claim": "“唯免官而已，以洛水为誓”的叙述见《三国志》裴松之注引用的《世语》，而非陈寿正文的直接逐字见证",
+      "status": "SUPPORTED",
+      "scope": "文献归属与叙述层次",
+      "source": {
+        "title": "三国志（裴松之注本）·魏书·诸夏侯曹传第九",
+        "url": "https://m.guwendao.net/guwen/bookv_41e08065b443.aspx",
+        "publisher": "古文岛（古籍文本展示）",
+        "section": "裴注引《世语》"
+      },
+      "limitations": "裴注转引、编纂时间与立场都增加了将誓言视为现场原话的不确定性"
+    },
+    {
+      "id": "CC-003",
+      "claim": "“交权后履约激励可能变化”是现代可信承诺理论对事件的解释框架",
+      "status": "INFERENCE",
+      "scope": "分析模型",
+      "source": {
+        "title": "既有研究笔记",
+        "url": "https://github.com/1998x-stack/thinking-atlas/blob/main/posts/history/credible-commitment/source.md",
+        "publisher": "Thinking Atlas"
+      },
+      "limitations": "模型不是《三国志》原文，也无法由这一单案证明后世制度必然发展"
+    }
+  ]
+}
