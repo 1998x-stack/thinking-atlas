@@ -55,7 +55,7 @@ Thinking Atlas 的目标是将复杂问题组织为可追溯、可反驳、可�
 - 每篇文章必须引用已存在的 category 和该分类下的 topic；跨领域关系用 tags 和文章链接表达。
 - 已公开 URL 应保持稳定。若必须更改 slug 或分类路径，先设计迁移/重定向方案，并检查所有引用、RSS GUID 和外部链接。
 - `published` 与 `updated` 使用真实的 `YYYY-MM-DD` 日期；更新日期不得早于发布日期。不要编造精确发布时间。
-- 文章元数据至少保持 validator 要求的 title、subtitle、summary、reading_minutes、status、research_status、category、topic、published、updated 和有效封面路径。
+- 文章元数据至少保持 validator 要求的 title、subtitle、summary、reading_minutes、status、research_status、category、topic、published、updated 和有效封面路径；`cover.src` 必须指向本文章目录内的 SVG，`cover.caption` 应准确说明该图的核心内容，避免通用占位文案。
 - `source_path`、`original_source_date` 等来源字段必须忠实反映旧路径与原始材料时间；不得把迁移日期伪装成材料写作日期。
 
 ### 3.3 两种状态绝不混用
