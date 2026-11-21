@@ -1,0 +1,166 @@
+{
+  "research_status": "partial",
+  "source": {
+    "original_path": "project-research/2026-11-21/local-government-debt-resolution",
+    "original_date": "2026-11-21",
+    "provenance": "围绕项目内地方债务化解、各省市债务和债务置换案例的持续研究主题，使用公开政策与财政数据重新核验"
+  },
+  "independent_recheck": {
+    "status": "partial",
+    "checked_at": "2026-11-21",
+    "method": "核对财政部政策发布、预算报告、债务余额表、财政收支数据，并与 IMF 2026 专题报告比较统计边界"
+  },
+  "verified_claims": [
+    {
+      "id": "D1",
+      "claim": "2023年末经甄别上报的地方政府隐性债务余额为14.3万亿元。",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "id": "D2",
+      "claim": "2024—2026年增加6万亿元地方政府债务限额用于置换存量隐性债务，按年度各2万亿元安排。",
+      "source_ids": [
+        "S1",
+        "S2"
+      ]
+    },
+    {
+      "id": "D3",
+      "claim": "2024年起连续五年每年安排8000亿元新增专项债券用于化债，合计4万亿元；2029年及以后到期的2万亿元棚改相关隐性债务仍按原合同偿还。",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "id": "D4",
+      "claim": "截至2026年9月，1—9月发行用于置换存量隐性债务的专项债券1.8977万亿元，完成当年2万亿元限额的95%；6万亿元置换限额发行进度为98.3%。",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "id": "D5",
+      "claim": "2025年末地方政府债务余额为54.823082万亿元；2026年9月末为60.653869万亿元。",
+      "source_ids": [
+        "S4",
+        "S5"
+      ]
+    },
+    {
+      "id": "D6",
+      "claim": "2025年地方一般公共预算本级收入约12.2082万亿元，中央对地方转移支付收入约10.1925万亿元，地方一般公共预算支出约24.4361万亿元。",
+      "source_ids": [
+        "S6"
+      ]
+    },
+    {
+      "id": "D7",
+      "claim": "2025年地方政府性基金决算中，国有土地使用权出让金收入、国有土地收益基金收入和农业土地开发资金收入合计约4.152328万亿元，同比下降14.7%。",
+      "source_ids": [
+        "S7"
+      ]
+    },
+    {
+      "id": "D8",
+      "claim": "2026年1—10月地方国有土地使用权出让收入为1.8526万亿元，同比下降25.8%。",
+      "source_ids": [
+        "S8"
+      ]
+    },
+    {
+      "id": "D9",
+      "claim": "IMF 2026年专题报告估计2025年末官方地方政府与LGFV债务合计约为GDP的90%，其中LGFV债务约为GDP的51%；该估计采用广义分析口径。",
+      "source_ids": [
+        "S9"
+      ]
+    }
+  ],
+  "source_urls": [
+    {
+      "id": "S1",
+      "title": "增加地方政府债务限额置换存量隐性债务有关政策情况新闻发布会文字实录",
+      "publisher": "财政部",
+      "published": "2024-11-09",
+      "url": "https://www.mof.gov.cn/zhengwuxinxi/caizhengxinwen/202411/t20241109_3947230.htm",
+      "type": "primary"
+    },
+    {
+      "id": "S2",
+      "title": "关于2025年中央和地方预算执行情况与2026年中央和地方预算草案的报告",
+      "publisher": "财政部",
+      "published": "2026-03-16",
+      "url": "https://www.mof.gov.cn/zhengwuxinxi/caizhengxinwen/202603/t20260316_3985331.htm",
+      "type": "primary"
+    },
+    {
+      "id": "S3",
+      "title": "2026年前三季度财政收支情况新闻发布会文字实录",
+      "publisher": "财政部",
+      "published": "2026-10-23",
+      "url": "https://bgt.mof.gov.cn/zhuantilanmu/rdwyh/czyw/202610/t20261023_4003429.htm",
+      "type": "primary"
+    },
+    {
+      "id": "S4",
+      "title": "2026年9月地方政府债券发行和债务余额情况",
+      "publisher": "财政部债务管理司",
+      "published": "2026-10-27",
+      "url": "https://zwgls.mof.gov.cn/tjsj/202610/t20261027_4003589.htm",
+      "type": "primary"
+    },
+    {
+      "id": "S5",
+      "title": "2025年和2026年地方政府一般债务余额情况表",
+      "publisher": "财政部",
+      "published": "2026-03-24",
+      "url": "https://yss.mof.gov.cn/2026zyczys/202603/t20260324_3986005.htm",
+      "type": "primary"
+    },
+    {
+      "id": "S6",
+      "title": "关于2025年中央和地方预算执行情况与2026年中央和地方预算草案的报告（摘要）",
+      "publisher": "财政部",
+      "published": "2026-03-06",
+      "url": "https://www.mof.gov.cn/zhengwuxinxi/caizhengxinwen/202603/t20260306_3984742.htm",
+      "type": "primary"
+    },
+    {
+      "id": "S7",
+      "title": "2025年地方政府性基金收入决算表",
+      "publisher": "财政部",
+      "published": "2026-09-16",
+      "url": "https://yss.mof.gov.cn/2025zyjs/202609/t20260916_3997521.htm",
+      "type": "primary"
+    },
+    {
+      "id": "S8",
+      "title": "2026年1—10月财政收支情况",
+      "publisher": "财政部",
+      "published": "2026-11-19",
+      "url": "https://bgt.mof.gov.cn/zhuantilanmu/rdwyh/czszsj/202611/t20261119_4004986.htm",
+      "type": "primary"
+    },
+    {
+      "id": "S9",
+      "title": "Local Government Finances in China: Policy Options to Tackle the Debt Overhang",
+      "publisher": "International Monetary Fund",
+      "published": "2026-09-25",
+      "url": "https://www.imf.org/en/publications/departmental-papers-policy-papers/issues/2026/09/24/local-government-finances-in-china-policy-options-to-tackle-the-debt-overhang-576484",
+      "type": "independent-analysis"
+    }
+  ],
+  "limitations": [
+    "地方政府隐性债务是特定甄别口径，公开资料无法复原各地区逐笔债务台账。",
+    "LGFV企业债务不能自动等同于地方政府法定债务；IMF广义合并估计不可与财政部余额直接相减。",
+    "公开数据对拖欠款、担保、回购承诺和企业间交叉应收应付覆盖不完整。",
+    "地方债务风险需要省、市、县级预算、平台财务和现金流数据，不能以全国平均值替代。",
+    "平台数量减少、债券发行进度或利率下降均不单独证明债务本金已消失。"
+  ],
+  "next_actions": [
+    "建立省级与地市级地方债务、土地收入、转移支付、平台财务和欠款数据面板。",
+    "对重点地区追踪债务到期结构、融资平台经营性现金流、政府应收应付和债券项目收益。",
+    "对IMF广义LG/LGFV债务口径进行方法复核，识别政府控制、市场化收入和隐性担保的边界。"
+  ]
+}
