@@ -112,7 +112,6 @@ Thinking Atlas 是一个持续演进的研究型知识库，围绕制度与权�
 thinking-atlas/
 ├── README.md
 ├── AGENTS.md                         # 完整的仓库级 Agent 协作契约
-├── Agents.md                         # AGENTS.md 的发现入口，不复制规则
 ├── content/
 │   ├── categories.json               # 一级领域与二级主题的唯一数据源
 │   └── posts.json                    # 文章元数据、发布状态与研究状态
