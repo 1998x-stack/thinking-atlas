@@ -55,7 +55,7 @@ cd _site && python -m http.server 8000
 4. 明确 `research_status`：`verified`、`partial`、`outline`；网站发布 `status=published` 只表示可公开阅读，不等于证据已经充分。
 5. 完成构建、校验、可访问性和链接检查，经 PR 审核后合并到 `main`。不要将构建成功等同于 Pages 已部署。
 
-详细约定见 [架构与迁移说明](docs/ARCHITECTURE.md)、[编辑与证据规范](docs/EDITORIAL.md)、[来源覆盖说明](docs/source-coverage.md)；历史来源文件及变更参见 Git 记录。
+详细约定见 [架构与迁移说明](docs/ARCHITECTURE.md)、[编辑与证据规范](docs/EDITORIAL.md)、[逐主题内容质量审计](docs/CONTENT_AUDIT.md)、[来源覆盖说明](docs/source-coverage.md)；历史来源文件及变更参见 Git 记录。
 
 ## 许可与隐私
 
