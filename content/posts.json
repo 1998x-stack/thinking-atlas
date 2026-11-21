@@ -333,5 +333,33 @@
       "src": "assets/mechanism.svg",
       "caption": "概念机制示意图；非实证统计数据"
     }
+  },
+  {
+    "slug": "financial-crisis-asset-allocation",
+    "title": "金融危机中的资产配置：流动性冲击、黄金避险与危机择时",
+    "subtitle": "交叉核验2008与2020年黄金表现，拆解流动性冲击、现金、黄金、股票和房地产风险，并审查2027年危机预测。",
+    "category": "economics",
+    "topic": "asset-pricing",
+    "status": "published",
+    "research_status": "partial",
+    "published": "2026-11-21",
+    "updated": "2026-11-21",
+    "original_source_date": "2026-11-21",
+    "reading_minutes": 18,
+    "tags": [
+      "金融危机",
+      "资产配置",
+      "黄金",
+      "流动性",
+      "股票",
+      "房地产",
+      "宏观经济"
+    ],
+    "summary": "金融危机中的资产安全不是固定排名。本文核验2008与2020年黄金价格和流动性冲击，区分流动性、偿付能力与购买力风险，并审查黄金—股票择时信号及2027年危机预测。",
+    "source_path": "posts/economics/financial-crisis-asset-allocation/source.md",
+    "cover": {
+      "src": "assets/mechanism.svg",
+      "caption": "流动性冲击与被迫出售机制示意图；非实证统计数据"
+    }
   }
 ]
