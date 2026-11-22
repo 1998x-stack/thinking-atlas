@@ -1,0 +1,164 @@
+{
+  "research_status": "partial",
+  "source": {
+    "original_path": "project-research/2026-11-22/12345-hotline-outsourcing-governance",
+    "original_date": "2026-11-22",
+    "provenance": "综合项目内上海12345外包成本、人员工资和北京深圳对比问题，核对市级部门预算、绩效材料、国务院政策和全国研究报告"
+  },
+  "independent_recheck": {
+    "status": "partial",
+    "checked_at": "2026-11-22",
+    "method": "交叉核对上海2023/2024/2025部门预算、上海区级绩效评价、北京2025年度报告、深圳2023绩效自评和国务院2025年第三方管理意见"
+  },
+  "verified_claims": [
+    {
+      "id": "H1",
+      "claim": "上海12345外包服务预算为2023年23039万元、2024年24847万元、2025年22367万元，属于预算安排，不等同最终决算。",
+      "source_ids": [
+        "S2",
+        "S3",
+        "S4"
+      ]
+    },
+    {
+      "id": "H2",
+      "claim": "上海2023年人员聘用及管理经费预算18043万元，约占总外包预算23039万元的78.3%；2025年人员聘用及管理预算16127.01万元，约占22367万元的72.1%。",
+      "source_ids": [
+        "S2",
+        "S4"
+      ]
+    },
+    {
+      "id": "H3",
+      "claim": "上海虹口区财政支出绩效评价披露，2023年市级12345外包服务标准包含474个席位和同等规模平台，满足7×24小时服务；席位数不等于员工人数。",
+      "source_ids": [
+        "S5"
+      ]
+    },
+    {
+      "id": "H4",
+      "claim": "北京12345 2025年受理市民诉求2580.2万件，解决率97.3%，满意率97.7%；诉求派单938.8万件。",
+      "source_ids": [
+        "S6"
+      ]
+    },
+    {
+      "id": "H5",
+      "claim": "深圳12345热线管理项目2023年预算9715.33万元、执行9450.38万元；报告总服务量3715.28万次、工单量1214.66万件、总办结率99.4%、按时办结率98%、满意率99.5%。",
+      "source_ids": [
+        "S7"
+      ]
+    },
+    {
+      "id": "H6",
+      "claim": "国务院办公厅2025年意见允许依法依规外包话务服务和信息化运维等辅助业务，但明确不得将诉求办理等主体业务外包。",
+      "source_ids": [
+        "S8"
+      ]
+    },
+    {
+      "id": "H7",
+      "claim": "《全国政务热线发展研究报告（2025）》基于22778份群众问卷、172个城市热线单位问卷、112家实地调研和10260例质量监测；媒体报道该172个样本城市中83%采用服务外包运营模式。",
+      "source_ids": [
+        "S9",
+        "S10"
+      ]
+    }
+  ],
+  "source_urls": [
+    {
+      "id": "S1",
+      "title": "国务院办公厅关于进一步优化地方政务服务便民热线的指导意见",
+      "publisher": "国务院办公厅",
+      "published": "2020-12-28",
+      "url": "https://www.beijing.gov.cn/zhengce/gwywj/202101/t20210106_2200748.html",
+      "type": "primary-policy"
+    },
+    {
+      "id": "S2",
+      "title": "上海市2023年市级部门预算",
+      "publisher": "上海市人民政府",
+      "published": "2023",
+      "url": "https://www.shanghai.gov.cn/cmsres/de/de38c64f8b0f474d96f0e3a61c4d1fd0/359d9ec891b5c76c73e7a5f9bbbb29a5.pdf",
+      "type": "primary-budget"
+    },
+    {
+      "id": "S3",
+      "title": "上海市2024年市级部门预算",
+      "publisher": "上海市人民政府",
+      "published": "2024",
+      "url": "https://www.shanghai.gov.cn/cmsres/47/47035681a5ae45e4a3f516d2a677b857/0459043fe91eab4e7f335b2621278b3d.pdf",
+      "type": "primary-budget"
+    },
+    {
+      "id": "S4",
+      "title": "上海市2025年市级部门预算",
+      "publisher": "上海市人民政府",
+      "published": "2025",
+      "url": "https://www.shanghai.gov.cn/cmsres/5d/5d96c87767844351b4fba190cf626748/edba0dd7b1e8adb81362ec384555584b.pdf",
+      "type": "primary-budget"
+    },
+    {
+      "id": "S5",
+      "title": "上海市虹口区财政支出绩效评价",
+      "publisher": "上海市财政局",
+      "published": "2023 project assessment published 2024",
+      "url": "https://czj.sh.gov.cn/cmsres/bb/bbb194e1523d4b4eba5481a6d2d1727f/8013d5c1a725145784414faeacc84603.pdf",
+      "type": "primary-performance-evaluation"
+    },
+    {
+      "id": "S6",
+      "title": "2025年12345热线受理市民诉求2580.2万件",
+      "publisher": "北京市政务服务和数据管理局 / 首都之窗",
+      "published": "2026-05-06",
+      "url": "https://www.beijing.gov.cn/srpc/zxfb/gzdt/202608/t20260808_4814585.html",
+      "type": "primary-annual-statistics"
+    },
+    {
+      "id": "S7",
+      "title": "2023年度深圳市政务服务数据管理局部门绩效自评",
+      "publisher": "深圳市政务服务数据管理局",
+      "published": "2024",
+      "url": "https://www.sz.gov.cn/attachment/1/1492/1492336/11585447.pdf",
+      "type": "primary-performance-report"
+    },
+    {
+      "id": "S8",
+      "title": "国务院办公厅关于进一步规范和提升12345热线服务的意见",
+      "publisher": "国务院办公厅",
+      "published": "2025-06-29",
+      "url": "https://www.kaiyang.gov.cn/zwgk/zfxxgk/fdzdgk/zcwj/zzzdzc/202507/t20250716_88292439.html",
+      "type": "primary-policy"
+    },
+    {
+      "id": "S9",
+      "title": "全国政务热线发展研究报告（2025）发布与方法介绍",
+      "publisher": "中国城市报数智服务与治理专委会等",
+      "published": "2026-04-27",
+      "url": "https://www.smartcity.team/reports/%E5%85%A8%E5%9B%BD%E6%94%BF%E5%8A%A1%E7%83%AD%E7%BA%BF%E5%8F%91%E5%B1%95%E7%A0%94%E7%A9%B6%E6%8A%A5%E5%91%8A2025/",
+      "type": "industry-research-report"
+    },
+    {
+      "id": "S10",
+      "title": "能坚持做满两个月，已经算是老员工",
+      "publisher": "中国新闻周刊",
+      "published": "2026-09-14",
+      "url": "https://news.inewsweek.cn/society/2026-09-14/32103.shtml",
+      "type": "investigative-journalism"
+    }
+  ],
+  "limitations": [
+    "上海部门预算是预算安排，不是最终决算，不能直接当作实际支出。",
+    "人员聘用及管理经费不是一线话务员工资总额，更不能直接推算个人税后工资。",
+    "474个席位不是员工人数，也不代表所有席位始终同时启用。",
+    "北京、上海、深圳的业务量、工单量、办结率和满意率定义不同，不能直接计算跨城市单位成本或效率排名。",
+    "全国外包比例来自172个样本城市，不能无条件外推全部城市。",
+    "中国新闻周刊报道提供一线问题线索，个案不能替代全国劳动者抽样调查。"
+  ],
+  "next_actions": [
+    "申请或检索上海12345项目2023—2025最终决算、采购合同、履约验收和供应商分包附件。",
+    "建立话务员岗位、席位、全职当量、社保、税前工资和税后工资的统一统计表。",
+    "按同口径获取北京、深圳外包合同和年度决算，比较每个有效工单的实际成本。",
+    "收集重复诉求率、首次解决率、重新派单率和同类诉求复发率，检验满意度和办结率是否代表实质解决。"
+  ]
+}
