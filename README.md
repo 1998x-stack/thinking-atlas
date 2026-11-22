@@ -24,14 +24,14 @@ Thinking Atlas 是一个持续演进的研究型知识库，围绕制度与权�
 
 ## 当前内容基线
 
-以下数字来自仓库 `main` 分支的内容注册表与 2026-11-21 内容审计，不代表对全部主题完成了独立研究，也不是实时访问统计。
+以下数字来自当前研究分支的内容注册表与 2026-11-22 内容审计，不代表对全部主题完成了独立研究，也不是实时访问统计。
 
 | 指标 | 当前基线 |
 | --- | ---: |
-| 公开文章 | 19 |
+| 公开文章 | 24 |
 | 一级研究领域 | 7 |
-| 二级研究主题 | 16 |
-| 部分核验（`partial`） | 13 |
+| 二级研究主题 | 20 |
+| 部分核验（`partial`） | 18 |
 | 研究提纲（`outline`） | 6 |
 | 全面核实（`verified`） | 0 |
 
@@ -53,12 +53,12 @@ Thinking Atlas 是一个持续演进的研究型知识库，围绕制度与权�
 
 | 领域 | 研究范围 |
 | --- | --- |
-| [制度与权力](posts/institutions/) | 劳动制度、资源配置、制度设计、组织人事与干部任用 |
+| [制度与权力](posts/institutions/) | 劳动制度、资源配置、公共服务外包、组织人事与干部任用 |
 | [历史机制](posts/history/) | 可信承诺、权力交接与财政改革比较 |
-| [经济与商业](posts/economics/) | 经济测量、公共财政、城市经济、商业模式、资产定价与投机 |
+| [经济与商业](posts/economics/) | 经济测量、公共财政、城市经济、消费结构、商业模式、资产定价与投机 |
 | [技术与社会](posts/technology/) | 技术替代、依赖关系与资源入口迁移 |
-| [社会与家庭](posts/society/) | 社会规范、家庭制度、养老保险与社会保障 |
-| [研究方法](posts/methods/) | 证据、模型、反证与认知修订 |
+| [社会与家庭](posts/society/) | 社会规范、家庭制度、教育与身心健康、养老保险与社会保障 |
+| [研究方法](posts/methods/) | 证据、模型、博弈分析、反证与认知修订 |
 | [个人系统](posts/life/) | 能力、行动、风险、退出选择与长期适应 |
 
 ### 推荐阅读起点
@@ -71,6 +71,11 @@ Thinking Atlas 是一个持续演进的研究型知识库，围绕制度与权�
 - [资源入口、依赖关系与权力转移](posts/institutions/resource-gates/index.html) — 用稀缺性、排他性、替代性和问责性分析资源控制。
 - [从信息堆叠到可检验的问题模型](posts/methods/evidence-and-models/index.html) — 以问题、变量、机制、反证和边界组织研究。
 - [个人适应系统：能力、作品、关系和选择权](posts/life/adaptive-system/index.html) — 分析个人行动中的约束、风险与退出选择。
+- [日本长期停滞与逆势产业：消费结构迁移、零售革命及中国的适用边界](posts/economics/japan-consumption-reallocation/index.html) — 区分名义销售额、真实销量与利润，识别消费结构迁移。
+- [金融危机的两阶段资产定价：流动性冲击、偿付能力损失与资产角色](posts/economics/financial-crisis-liquidity-and-assets/index.html) — 解释现金、黄金、股票和债券在不同危机阶段的功能。
+- [12345政务热线的外包治理：上海、北京、深圳的预算、人员、绩效与责任链](posts/institutions/12345-hotline-outsourcing-governance/index.html) — 核验预算、席位、员工工资和政府责任边界。
+- [中国教育竞争与学生身心健康：江苏高中作息改革、睡眠证据与自杀统计的因果边界](posts/society/education-workload-sleep-and-wellbeing/index.html) — 区分政策事实、睡眠证据和死亡统计口径。
+- [博弈论与组织权力：九种经典博弈、收益矩阵及职场和历史案例](posts/methods/game-theory-and-organizational-power/index.html) — 用矩阵解释组织激励、信号、承诺和合作困境。
 
 **完整文章清单以 [`content/posts.json`](content/posts.json) 为准**；分类与稳定主题标识以 [`content/categories.json`](content/categories.json) 为准。README 中的推荐入口只用于导航，不是第二份内容注册表。
 
