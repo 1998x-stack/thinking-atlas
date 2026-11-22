@@ -1,0 +1,162 @@
+{
+  "research_status": "partial",
+  "source": {
+    "original_path": "project-research/2026-11-22/education-workload-sleep-and-wellbeing",
+    "original_date": "2026-11-22",
+    "provenance": "综合项目内江苏高中双休改革、学生心理健康和自杀统计问题，核对教育部政策、江苏教育部门资料、疾控死亡监测研究和睡眠系统综述"
+  },
+  "independent_recheck": {
+    "status": "partial",
+    "checked_at": "2026-11-22",
+    "method": "交叉核对2026年江苏学校作息报道、教育部睡眠与心理健康政策、江苏省5—24岁死亡监测研究、中国疾控中心全国年龄分组趋势及国际系统综述"
+  },
+  "verified_claims": [
+    {
+      "id": "E1",
+      "claim": "2026年11月初南京等地部分高中将到校时间调整至7:20—7:30，晚自习结束时间提前至21:00—21:30；江阴公布高中7:20到校安排。这不是全省所有高中统一双休政策。",
+      "source_ids": [
+        "S1",
+        "S2"
+      ]
+    },
+    {
+      "id": "E2",
+      "claim": "教育部2021年通知要求高中生每天睡眠达到8小时，中学上午上课时间一般不早于8:00，学校不得要求学生提前到校参加统一教学活动。",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "id": "E3",
+      "claim": "江苏省教育厅2024年部署规范作息、作业、课程、考试和课后服务五项规范。",
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "id": "E4",
+      "claim": "江苏省2012—2021年5—24岁人群自杀标化死亡率从2012年1.18/10万上升至2021年2.36/10万，AAPC约9.0%，P=0.001；研究年龄范围并非高中生样本。",
+      "source_ids": [
+        "S6"
+      ]
+    },
+    {
+      "id": "E5",
+      "claim": "中国疾控中心对2010—2021年全国数据的研究发现，总体自杀标化死亡率从10.88/10万下降到5.25/10万；5—14岁组上升，15—24岁组全期平均变化不显著，但2017—2021年阶段上升。",
+      "source_ids": [
+        "S7"
+      ]
+    },
+    {
+      "id": "E6",
+      "claim": "2024年系统综述和荟萃分析纳入37项研究，较晚开课与工作日睡眠延长、社会时差减少相关。",
+      "source_ids": [
+        "S8"
+      ]
+    },
+    {
+      "id": "E7",
+      "claim": "2022年Pediatrics荟萃分析纳入28项研究和约177万参与者，较晚开课与更长睡眠和较少负面情绪相关；学业成绩研究仍存在异质性。",
+      "source_ids": [
+        "S9",
+        "S10"
+      ]
+    }
+  ],
+  "source_urls": [
+    {
+      "id": "S1",
+      "title": "江苏多所高中推迟上学时间",
+      "publisher": "人民网江苏频道（来源：扬子晚报）",
+      "published": "2026-11-04",
+      "url": "https://js.people.com.cn/n2/2026/1104/c358232-41740813.html",
+      "type": "news-report"
+    },
+    {
+      "id": "S2",
+      "title": "江苏江阴公布上课时间调整方案：小学8点到校，高中7点20分",
+      "publisher": "澎湃新闻",
+      "published": "2026-11-05",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34413710",
+      "type": "local-government-announcement-report"
+    },
+    {
+      "id": "S3",
+      "title": "教育部办公厅关于进一步加强中小学生睡眠管理工作的通知",
+      "publisher": "教育部",
+      "published": "2021-03-30",
+      "url": "https://www.moe.gov.cn/srcsite/A06/s3321/202104/t20210401_523901.html",
+      "type": "primary-policy"
+    },
+    {
+      "id": "S4",
+      "title": "全省“双减”工作推进会在宁召开",
+      "publisher": "江苏省教育厅",
+      "published": "2024-04-18",
+      "url": "https://jyt.jiangsu.gov.cn/art/2024/4/18/art_57807_11221719.html",
+      "type": "primary-policy-update"
+    },
+    {
+      "id": "S5",
+      "title": "进一步加强中小学生心理健康工作十条措施",
+      "publisher": "教育部",
+      "published": "2025-10-20",
+      "url": "https://www.moe.gov.cn/srcsite/A06/s3325/202510/t20251020_1417420.html",
+      "type": "primary-policy"
+    },
+    {
+      "id": "S6",
+      "title": "江苏省2012—2021年儿童青少年伤害死亡流行特征及趋势分析",
+      "publisher": "中华流行病学杂志",
+      "published": "2024-04-10",
+      "url": "https://doi.org/10.3760/cma.j.cn112338-20230912-00150",
+      "type": "peer-reviewed-mortality-study"
+    },
+    {
+      "id": "S7",
+      "title": "Suicide Mortality by Place, Gender, and Age Group — China, 2010–2021",
+      "publisher": "China CDC Weekly",
+      "published": "2023",
+      "url": "https://weekly.chinacdc.cn/en/article/doi/10.46234/ccdcw2023.109",
+      "type": "national-mortality-study"
+    },
+    {
+      "id": "S8",
+      "title": "Effects of school start time and its interaction with the solar clock on adolescents’ chronotype and sleep",
+      "publisher": "Sleep Medicine Reviews",
+      "published": "2024-12",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39098151/",
+      "type": "systematic-review-meta-analysis"
+    },
+    {
+      "id": "S9",
+      "title": "School Start Times, Sleep, and Youth Outcomes: A Meta-analysis",
+      "publisher": "Pediatrics",
+      "published": "2022-06-01",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35593065/",
+      "type": "meta-analysis"
+    },
+    {
+      "id": "S10",
+      "title": "School start times and academic achievement: A systematic review on grades and test scores",
+      "publisher": "Sleep Medicine Reviews",
+      "published": "2022-02",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34968850/",
+      "type": "systematic-review"
+    }
+  ],
+  "limitations": [
+    "2026年江苏学校作息变化主要由新闻采访、地方公告和学校通知呈现，缺少全省学校完整名单与统一执行数据。",
+    "江苏2012—2021年死亡监测研究覆盖5—24岁人群，不能代替在校学生样本。",
+    "全国自杀研究使用不同年龄分组，不能与江苏5—24岁汇总数据直接做数值比较。",
+    "学校开课时间与睡眠的研究多为观察性或准实验，学业成绩和心理健康的因果证据仍有异质性。",
+    "自杀死亡率受医疗、社会支持、人口结构和死因报告等因素影响，不能只用教育压力解释。"
+  ],
+  "next_actions": [
+    "获取江苏省2026年作息调整学校清单、各校正式通知、周末安排和执行督导记录。",
+    "建立江苏高中睡眠、作业、晚自习和心理健康匿名跟踪样本，按年级、学校和家庭条件分层。",
+    "对先行调整和后续调整学校开展差分中的差分评估，检验政策前趋势并控制考试周期。",
+    "进一步研究2017—2021年全国15—24岁自杀死亡率阶段性变化，并与江苏年龄分组数据对齐。",
+    "追踪2025年学生心理健康十条措施和2026年江苏学校作息改革的地方执行效果。"
+  ]
+}
