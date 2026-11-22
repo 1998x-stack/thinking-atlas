@@ -3,7 +3,7 @@
     "slug": "institutions",
     "title": "制度与权力",
     "english": "Institutions & Power",
-    "description": "研究资源入口、激励结构、权责分离、公共资源分配与组织人事。",
+    "description": "研究资源入口、激励结构、权责分离、公共服务外包、组织人事与干部任用。",
     "topics": [
       {
         "slug": "labor-systems",
@@ -20,6 +20,10 @@
       {
         "slug": "personnel-systems",
         "title": "组织人事与干部任用"
+      },
+      {
+        "slug": "public-service-outsourcing",
+        "title": "公共服务外包与政府采购"
       }
     ]
   },
@@ -43,7 +47,7 @@
     "slug": "economics",
     "title": "经济与商业",
     "english": "Economics & Business",
-    "description": "区分真实活动、现金流、公共财政、城市空间、商业机制与资产定价。",
+    "description": "区分真实活动、现金流、公共财政、城市空间、消费结构、商业机制与资产定价。",
     "topics": [
       {
         "slug": "economic-measurement",
@@ -64,6 +68,10 @@
       {
         "slug": "urban-economics",
         "title": "城市经济与人口流动"
+      },
+      {
+        "slug": "consumption-reallocation",
+        "title": "消费结构迁移与零售变迁"
       }
     ]
   },
@@ -83,7 +91,7 @@
     "slug": "society",
     "title": "社会与家庭",
     "english": "Society & Family",
-    "description": "把思想规范、法律文本、家庭制度与社会保障现实区分开来。",
+    "description": "把思想规范、法律文本、家庭制度、教育负担与社会保障现实区分开来。",
     "topics": [
       {
         "slug": "norms-and-family",
@@ -92,6 +100,10 @@
       {
         "slug": "social-security",
         "title": "养老保险与社会保障"
+      },
+      {
+        "slug": "education-and-wellbeing",
+        "title": "教育竞争与身心健康"
       }
     ]
   },
@@ -99,11 +111,15 @@
     "slug": "methods",
     "title": "研究方法",
     "english": "Research Methods",
-    "description": "建设证据链、解释模型、反证机制与认知修订流程。",
+    "description": "建设证据链、解释模型、博弈分析、反证机制与认知修订流程。",
     "topics": [
       {
         "slug": "evidence-models",
         "title": "证据、模型与反证"
+      },
+      {
+        "slug": "strategic-interaction",
+        "title": "策略互动与博弈模型"
       }
     ]
   },
