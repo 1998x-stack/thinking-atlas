@@ -3,7 +3,7 @@
     "slug": "institutions",
     "title": "制度与权力",
     "english": "Institutions & Power",
-    "description": "研究资源入口、激励结构、权责分离与公共资源分配。",
+    "description": "研究资源入口、激励结构、权责分离、公共资源分配与组织人事。",
     "topics": [
       {
         "slug": "labor-systems",
@@ -16,6 +16,10 @@
       {
         "slug": "institutional-design",
         "title": "制度设计与激励"
+      },
+      {
+        "slug": "personnel-systems",
+        "title": "组织人事与干部任用"
       }
     ]
   },
@@ -39,7 +43,7 @@
     "slug": "economics",
     "title": "经济与商业",
     "english": "Economics & Business",
-    "description": "区分真实活动、现金流、商业机制与资产定价。",
+    "description": "区分真实活动、现金流、公共财政、城市空间、商业机制与资产定价。",
     "topics": [
       {
         "slug": "economic-measurement",
@@ -52,6 +56,14 @@
       {
         "slug": "asset-pricing",
         "title": "资产定价与投机"
+      },
+      {
+        "slug": "public-finance",
+        "title": "公共财政与地方债务"
+      },
+      {
+        "slug": "urban-economics",
+        "title": "城市经济与人口流动"
       }
     ]
   },
@@ -71,11 +83,15 @@
     "slug": "society",
     "title": "社会与家庭",
     "english": "Society & Family",
-    "description": "把思想规范、法律文本与现实行为区分开来。",
+    "description": "把思想规范、法律文本、家庭制度与社会保障现实区分开来。",
     "topics": [
       {
         "slug": "norms-and-family",
         "title": "社会规范与家庭制度"
+      },
+      {
+        "slug": "social-security",
+        "title": "养老保险与社会保障"
       }
     ]
   },
