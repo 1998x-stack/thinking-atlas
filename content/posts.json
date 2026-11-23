@@ -467,5 +467,31 @@
       "src": "assets/mechanism.svg",
       "caption": "经营现金、资产处置与再融资的流动性机制示意；非实际资金流数据"
     }
+  },
+  {
+    "slug": "adversity-psychological-reconstruction",
+    "title": "重大人生挫折后的心理重构：心气为什么会消失，又如何重新建立？",
+    "subtitle": "从资源损失、失控感、身份震荡与适应轨迹，分析重大挫折后的心理变化和可重建的行动系统。",
+    "category": "life",
+    "topic": "adaptation",
+    "status": "published",
+    "research_status": "partial",
+    "published": "2026-11-24",
+    "updated": "2026-11-24",
+    "reading_minutes": 18,
+    "tags": [
+      "心理韧性",
+      "重大挫折",
+      "习得性无助",
+      "身份重构",
+      "心理灵活性",
+      "哀伤适应"
+    ],
+    "summary": "重大挫折可能同时打断资源、行动反馈、社会角色与关系支持。本文结合心理学理论和纵向研究，区分韧性、恢复与持续困扰，并检验原文关于三种心气来源的解释。",
+    "source_path": "posts/life/adversity-psychological-reconstruction/source.md",
+    "cover": {
+      "src": "assets/mechanism.svg",
+      "caption": "概念机制示意图；非实证统计数据"
+    }
   }
 ]
