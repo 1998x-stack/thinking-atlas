@@ -1,0 +1,208 @@
+{
+  "schema_version": 1,
+  "source": {
+    "original_path": "User-provided multi-speaker political-economy commentary, segment 09:14–20:27; analytically rewritten; allegations not republished as proven facts",
+    "original_record_date": "2026-11-24",
+    "migrated_at": "2026-11-24"
+  },
+  "research_status": "partial",
+  "independent_recheck": "partial",
+  "source_urls": [
+    {
+      "id": "S1",
+      "publisher": "美国众议院情报委员会",
+      "title": "2026-11-05 委员会要求英伟达提交闭门简报的声明",
+      "published_at": "2026-11-05",
+      "accessed_at": "2026-11-24",
+      "url": "https://intelligence.house.gov/2026/11/05/chairmen-mast-moolenaar-and-crawford-request-jensen-huang-brief-congress-on-link-to-chinese-intelligence-asset/",
+      "locator": "质询请求和11月18日提议日期",
+      "source_type": "official release or corroborating reporting"
+    },
+    {
+      "id": "S2",
+      "publisher": "美国众议院情报委员会",
+      "title": "2026-11-17 确认 12月1日与12月2日访谈安排",
+      "published_at": "2026-11-17",
+      "accessed_at": "2026-11-24",
+      "url": "https://intelligence.house.gov/2026/11/17/jensen-huang-and-nvidia-agree-to-appear-before-congress/",
+      "locator": "公告正文",
+      "source_type": "official release or corroborating reporting"
+    },
+    {
+      "id": "S3",
+      "publisher": "美国证券交易委员会 SEC",
+      "title": "NVIDIA Form 8-K dated November 11, 2026",
+      "published_at": "2026-11-12",
+      "accessed_at": "2026-11-24",
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000082/nvda-20261111.htm",
+      "locator": "董事会接受辞任记录",
+      "source_type": "official release or corroborating reporting"
+    },
+    {
+      "id": "S4",
+      "publisher": "美国证券交易委员会 SEC",
+      "title": "NVIDIA Form 8-K dated November 22, 2026",
+      "published_at": "2026-11-23",
+      "accessed_at": "2026-11-24",
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000090/nvda-20261122.htm",
+      "locator": "复任记录",
+      "source_type": "official release or corroborating reporting"
+    },
+    {
+      "id": "S5",
+      "publisher": "英伟达董事会",
+      "title": "Statement from NVIDIA Board of Directors",
+      "published_at": "2026-11-08",
+      "accessed_at": "2026-11-24",
+      "url": "https://investor.nvidia.com/news/press-release-details/2026/Statement-from-NVIDIA-Board-of-Directors/",
+      "locator": "独立调查启动，未确认安全泄露",
+      "source_type": "official release or corroborating reporting"
+    },
+    {
+      "id": "S6",
+      "publisher": "美国白宫",
+      "title": "President Trump Presents National Medals of Science and Technology",
+      "published_at": "2026-10-08",
+      "accessed_at": "2026-11-24",
+      "url": "https://www.whitehouse.gov/releases/2026/10/president-trump-presents-national-medals-of-science-and-national-medals-of-technology-and-innovation/",
+      "locator": "奖章名单",
+      "source_type": "official release or corroborating reporting"
+    },
+    {
+      "id": "S7",
+      "publisher": "美国白宫",
+      "title": "Fact Sheet: Certain Advanced Computing Chips Tariff",
+      "published_at": "2026-01-14",
+      "accessed_at": "2026-11-24",
+      "url": "https://www.whitehouse.gov/fact-sheets/2026/01/fact-sheet-president-donald-j-trump-takes-action-on-certain-advanced-computing-chips-to-protect-americas-economic-and-national-security/",
+      "locator": "25%关税政策",
+      "source_type": "official release or corroborating reporting"
+    },
+    {
+      "id": "S8",
+      "publisher": "美国国会研究处 CRS（独立存档）",
+      "title": "Legal Authority for Export Controls and Tariffs on Semiconductor Chips Sold to China, LSB11409",
+      "published_at": "2026-03-23",
+      "accessed_at": "2026-11-24",
+      "url": "https://www.everycrsreport.com/files/2026-03-23_LSB11409_8bef47ae63160e57718d8bc6bd0b5f41b7c32738.html",
+      "locator": "报告第1–6页与法律疑问；访问独立镜像",
+      "source_type": "CRS report independently hosted"
+    },
+    {
+      "id": "S9",
+      "publisher": "The Texas Tribune",
+      "title": "James Talarico defeats Ken Paxton in Texas Senate race",
+      "published_at": "2026-11-03",
+      "accessed_at": "2026-11-24",
+      "url": "https://www.texastribune.org/2026/11/03/texas-ken-paxton-james-talarico-us-senate-elections-2026/",
+      "locator": "选举结果；不证明委员会调查动机",
+      "source_type": "official release or corroborating reporting"
+    },
+    {
+      "id": "S10",
+      "publisher": "PJM 电网运营商",
+      "title": "2026/2027 Base Residual Auction news release",
+      "published_at": "2025-07-22",
+      "accessed_at": "2026-11-24",
+      "url": "https://insidelines.pjm.com/pjm-auction-procures-134311-mw-of-generation-resources-supply-responds-to-price-signal/",
+      "locator": "容量价格329.17美元/MW·日",
+      "source_type": "official release or corroborating reporting"
+    },
+    {
+      "id": "S11",
+      "publisher": "英伟达投资者关系",
+      "title": "NVIDIA Board Reinstates Jensen Huang",
+      "published_at": "2026-11-23",
+      "accessed_at": "2026-11-24",
+      "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Board-Reinstates-Jensen-Huang-as-President-CEO-and-Board-Director/default.aspx",
+      "locator": "董事会复任及接受政府意见的声明",
+      "source_type": "official release or corroborating reporting"
+    },
+    {
+      "id": "S12",
+      "publisher": "CBS News",
+      "title": "Trump says government does not possess evidence Huang engaged in unlawful conduct",
+      "published_at": "2026-11-23",
+      "accessed_at": "2026-11-24",
+      "url": "https://www.cbsnews.com/news/nvidia-jensen-huang-trump-comment-national-security-risk/",
+      "locator": "对总统表态的报道，属于当事方声明",
+      "source_type": "official release or corroborating reporting"
+    }
+  ],
+  "claims": [
+    {
+      "id": "C01",
+      "claim": "国会委员会在11月5日要求11月18日闭门简报，随后11月17日宣布12月1日访谈安排",
+      "source_ids": [
+        "S1",
+        "S2"
+      ],
+      "status": "verified",
+      "notes": "收到要求、同意出席及实际举行三者不同；截至11月24日未来会议未举行"
+    },
+    {
+      "id": "C02",
+      "claim": "英伟达11月11日接受黄仁勋辞任，并在11月22/23日恢复其CEO职务",
+      "source_ids": [
+        "S3",
+        "S4",
+        "S11"
+      ],
+      "status": "verified",
+      "notes": "日期区分董事会决议与公告"
+    },
+    {
+      "id": "C03",
+      "claim": "白宫2026年10月8日向黄仁勋颁发国家科学奖章",
+      "source_ids": [
+        "S6"
+      ],
+      "status": "verified"
+    },
+    {
+      "id": "C04",
+      "claim": "美国对部分先进芯片实施25%关税安排",
+      "source_ids": [
+        "S7",
+        "S8"
+      ],
+      "status": "verified",
+      "notes": "关税、出口许可、企业毛利率、政府官员私下回扣不是一回事；法律合规存在争议"
+    },
+    {
+      "id": "C05",
+      "claim": "PJM2026/2027容量市场拍卖价格329.17美元/MW·日",
+      "source_ids": [
+        "S10"
+      ],
+      "status": "verified",
+      "notes": "并非居民实际电费或能量批发价；不能简单等同数据中心单一因果"
+    },
+    {
+      "id": "C06",
+      "claim": "美国政客为转嫁选举失败责任而策划针对黄仁勋的指控",
+      "source_ids": [],
+      "status": "unverified",
+      "notes": "时间相关性不能识别政治动机，缺少可核验内部决策证据"
+    },
+    {
+      "id": "C07",
+      "claim": "被调查者已经违法或与外国情报机构合谋",
+      "source_ids": [],
+      "status": "unverified",
+      "notes": "公开调查和指控不等于法定事实；总统11月23日称政府没有其违法证据，此为当事方陈述"
+    },
+    {
+      "id": "C08",
+      "claim": "国家财政收取25%的私下分赃款和所有国会议员共同获益",
+      "source_ids": [],
+      "status": "unverified",
+      "notes": "现有一手资料仅支持有法律争议的关税与出口许可安排，未证明秘密分赃"
+    }
+  ],
+  "unverified_claims": [
+    "所谓流出私人邮件的真实性和具体字句未作为原始证据核验",
+    "对个人私生活的具体细节、任何情报身份定性、定罪和政治阴谋动机均不作事实宣称",
+    "历史类比仅为分析框架，不能替代当代会议纪要和司法结论"
+  ]
+}
