@@ -1,0 +1,113 @@
+{
+  "research_status": "partial",
+  "source": {
+    "original_path": "project-research/2026-11-22/japan-consumption-reallocation",
+    "original_date": "2026-11-22",
+    "provenance": "从项目内日本长期停滞、经济下行逆势行业研究问题出发，核对OECD历史调查、日本银行研究和METI零售统计"
+  },
+  "independent_recheck": {
+    "status": "partial",
+    "checked_at": "2026-11-22",
+    "method": "交叉核对OECD 1995年报告、日本银行2024年研究、METI 2025年商业动态统计及同行评审论文"
+  },
+  "verified_claims": [
+    {
+      "id": "J1",
+      "claim": "OECD《日本经济调查1995》记载，1992年以后日本折扣店销售额年均名义增长约10%；非食品折扣店份额从1988年4.2%升至1993年5.6%；1991—1993年男装折扣店销售额增加28%，百货店男装销售额下降15%。",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "id": "J2",
+      "claim": "日本银行2024年研究将日本1990年代停滞与温和通缩、2010年代复苏但工资价格上行惯性、2020年代劳动力趋紧和进口价格冲击下的工资价格变化区分开来。",
+      "source_ids": [
+        "S2"
+      ]
+    },
+    {
+      "id": "J3",
+      "claim": "METI数据显示，2025年日本零售业销售额157.508万亿日元，同比增长1.4%；药妆店增长5.5%、超市增长4.7%、便利店增长3.4%、百货店下降1.8%、家居中心下降0.2%。",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "id": "J4",
+      "claim": "METI对2025年零售销售额作价格和数量因素分解，食品零售价格因素上升而数量因素总体走弱；药妆店销售额增长由价格和数量因素共同推动。",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "id": "J5",
+      "claim": "同行评审论文对日本促销数据的研究发现，促销收入占总收入的比例从1990年代约20%上升至2000年代约30%，促销频率上升而折扣幅度下降。",
+      "source_ids": [
+        "S6"
+      ]
+    }
+  ],
+  "source_urls": [
+    {
+      "id": "S1",
+      "title": "OECD Economic Surveys: Japan 1995",
+      "publisher": "OECD",
+      "published": "1995-01-01",
+      "url": "https://www.oecd.org/en/publications/oecd-economic-surveys-japan-1995_eco_surveys-jpn-1995-en.html",
+      "type": "primary-economic-survey"
+    },
+    {
+      "id": "S2",
+      "title": "Japan's Economy and Prices over the Past 25 Years: Past Discussions and Recent Issues",
+      "publisher": "Bank of Japan",
+      "published": "2024-12-13",
+      "url": "https://www.boj.or.jp/en/research/wps_rev/wps_2024/wp24e14.htm",
+      "type": "central-bank-research"
+    },
+    {
+      "id": "S3",
+      "title": "2025年小売業販売を振り返る",
+      "publisher": "Ministry of Economy, Trade and Industry, Japan",
+      "published": "2026-04",
+      "url": "https://www.meti.go.jp/statistics/toppage/report/minikeizai/pdf/h2amini174j.pdf",
+      "type": "official-statistical-analysis"
+    },
+    {
+      "id": "S4",
+      "title": "Commercial Dynamic Statistics: Long-term Time Series Data",
+      "publisher": "METI",
+      "published": "2026-06-15",
+      "url": "https://www.meti.go.jp/statistics/tyo/syoudou/result-2/index.html",
+      "type": "official-statistical-database"
+    },
+    {
+      "id": "S5",
+      "title": "Family Income and Expenditure Survey",
+      "publisher": "Statistics Bureau of Japan",
+      "published": "2025 tables",
+      "url": "https://www.stat.go.jp/english/data/kakei/index.html",
+      "type": "official-statistical-database"
+    },
+    {
+      "id": "S6",
+      "title": "Working Less and Bargain Hunting More: Macroimplications of Sales during Japan's Lost Decades",
+      "publisher": "Journal of Money, Credit and Banking",
+      "published": "2018",
+      "url": "https://onlinelibrary.wiley.com/doi/full/10.1111/jmcb.12467",
+      "type": "peer-reviewed-study"
+    }
+  ],
+  "limitations": [
+    "OECD 1995折扣店数据是历史名义销售额和市场份额，不能与2025年METI业态数据直接计算长期增速。",
+    "METI零售统计从供给侧观察销售额，不能替代家庭微观消费调查，也不能直接推导企业利润。",
+    "药妆店和超市增长受门店数量、价格、数量和人口结构共同影响，不能全部归因于经济衰退。",
+    "啤酒下降62%、威士忌下降64%、酸奶增长195%、速冻食品增长178%等流传数字尚未取得完整原始统计口径，暂列UNVERIFIED。",
+    "日本制度和人口环境与中国不同，不能将日本行业赢家名单机械外推到中国。"
+  ],
+  "next_actions": [
+    "下载METI长时序XLSX，统一零售业态分类、价格指数和数量指数，构建1990—2026年可比面板。",
+    "获取日本家庭收支调查微观表，按家庭人数、年龄、收入五分位拆分实际消费结构。",
+    "对中国主要城市开展折扣零售、药妆、便利店、维修二手等行业的门店和单店经济模型研究。",
+    "继续追溯流传的啤酒、威士忌、酸奶和速冻食品变化数字的原始统计表。"
+  ]
+}

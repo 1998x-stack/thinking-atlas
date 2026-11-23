@@ -1,0 +1,120 @@
+{
+  "research_status": "partial",
+  "source": {
+    "original_path": "project-research/2026-11-22/financial-crisis-liquidity-and-assets",
+    "original_date": "2026-11-22",
+    "provenance": "综合项目内2008金融危机资产配置讨论，以SEC、纽约联储、世界黄金协会提交监管材料、中国存款保险条例进行交叉验证"
+  },
+  "independent_recheck": {
+    "status": "partial",
+    "checked_at": "2026-11-22",
+    "method": "核对雷曼破产与货币基金事件、2008黄金价格区间、货币市场救助安排及中国存款保险法规"
+  },
+  "verified_claims": [
+    {
+      "id": "F1",
+      "claim": "雷曼兄弟于2008年9月15日申请破产；Reserve Primary Fund于9月16日因持有雷曼商业票据而跌破每份1美元净值，SEC资料称基金持有约7.85亿美元雷曼债务。",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "id": "F2",
+      "claim": "SEC资料记载，2008年9月15日当周投资者从美国优质货币市场基金中撤出约3000亿美元，约占该类基金资产14%。",
+      "source_ids": [
+        "S2"
+      ]
+    },
+    {
+      "id": "F3",
+      "claim": "世界黄金协会提交给监管机构的材料记载，2008年第二季度末至11月12日金价从925.40美元/盎司降至712.30美元/盎司，并将部分下跌与赎回和保证金需求导致的现金筹集联系起来。",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "id": "F4",
+      "claim": "同一世界黄金协会材料记载，2007年6月至2009年6月黄金美元价格上涨约43%，同期标普500下跌约40%、金融股下跌约65%；因此2008年局部流动性窗口的跌幅不能代表整个危机区间。",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "id": "F5",
+      "claim": "中国《存款保险条例》第五条规定最高偿付限额为人民币50万元，同一存款人在同一家投保机构所有被保险存款账户的本金和利息合并计算，限额以内全额偿付。",
+      "source_ids": [
+        "S5"
+      ]
+    },
+    {
+      "id": "F6",
+      "claim": "纽约联储研究记录，雷曼破产后投资者从优质货币市场基金转向主要持有国债的基金，商业票据发行人滚动短期负债的能力受到冲击。",
+      "source_ids": [
+        "S4"
+      ]
+    }
+  ],
+  "source_urls": [
+    {
+      "id": "S1",
+      "title": "SEC Charges Operators of Reserve Primary Fund With Fraud",
+      "publisher": "U.S. Securities and Exchange Commission",
+      "published": "2009-05-05",
+      "url": "https://www.sec.gov/newsroom/press-releases/2009-104-sec-charges-operators-reserve-primary-fund-fraud",
+      "type": "regulatory-enforcement"
+    },
+    {
+      "id": "S2",
+      "title": "Testimony on Perspectives on Money Market Mutual Fund Reforms",
+      "publisher": "U.S. Securities and Exchange Commission",
+      "published": "2012-06-21",
+      "url": "https://www.sec.gov/newsroom/speeches-statements/2012-ts062112mlshtm",
+      "type": "regulatory-testimony"
+    },
+    {
+      "id": "S3",
+      "title": "Response to Basel Committee on Banking Supervision",
+      "publisher": "World Gold Council, filing with SEC",
+      "published": "2012",
+      "url": "https://www.sec.gov/Archives/edgar/data/1222333/000119312512383007/d402625dfwp.htm",
+      "type": "industry-submission-to-regulator"
+    },
+    {
+      "id": "S4",
+      "title": "The Federal Reserve's Commercial Paper Funding Facility",
+      "publisher": "Federal Reserve Bank of New York",
+      "published": "2010",
+      "url": "https://www.newyorkfed.org/medialibrary/media/research/staff_reports/sr423.pdf",
+      "type": "central-bank-research"
+    },
+    {
+      "id": "S5",
+      "title": "存款保险条例",
+      "publisher": "国务院 / 国家行政法规库",
+      "published": "2015-02-17",
+      "url": "https://xzfg.moj.gov.cn/front/law/detail?LawID=419",
+      "type": "primary-regulation"
+    },
+    {
+      "id": "S6",
+      "title": "3-Month Treasury Bill Secondary Market Rate",
+      "publisher": "Federal Reserve Bank of St. Louis FRED",
+      "published": "time-series",
+      "url": "https://fred.stlouisfed.org/series/DTB3",
+      "type": "official-economic-series"
+    }
+  ],
+  "limitations": [
+    "世界黄金协会是黄金行业机构，具有行业利益；价格数据需与独立市场数据库继续交叉核验。",
+    "黄金回报高度依赖起止日期、币种和价格基准，局部流动性窗口不能代表整个危机期间。",
+    "美国货币市场基金事件不能直接等同于中国银行存款和中国货币基金制度。",
+    "本文阶段模型是分析框架，不是所有危机必然遵循的时间表。",
+    "不同家庭的收入稳定性、负债、币种、风险承受能力和未来支出不同，本文不提供固定资产配置比例。"
+  ],
+  "next_actions": [
+    "用LBMA日度黄金价格、S&P 500、美国国债和企业信用利差构建2007—2009统一币种、统一日期的收益率和最大回撤面板。",
+    "补充2020年3月全球美元流动性紧张案例，比较黄金和美国国债市场的短期失灵。",
+    "比较中国存款、货币基金、银行理财和国债的法律性质、赎回机制及底层资产风险。",
+    "构建家庭/企业资产负债表压力测试模板，按支出期限和债务到期时间估算最低流动性需求。"
+  ]
+}

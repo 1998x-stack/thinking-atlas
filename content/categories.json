@@ -16,6 +16,14 @@
       {
         "slug": "institutional-design",
         "title": "制度设计与激励"
+      },
+      {
+        "slug": "personnel-systems",
+        "title": "组织人事与干部任用"
+      },
+      {
+        "slug": "public-service-outsourcing",
+        "title": "公共服务外包与政府采购"
       }
     ]
   },
@@ -56,6 +64,18 @@
       {
         "slug": "asset-pricing",
         "title": "资产定价与投机"
+      },
+      {
+        "slug": "public-finance",
+        "title": "公共财政与地方债务"
+      },
+      {
+        "slug": "urban-economics",
+        "title": "城市经济与人口流动"
+      },
+      {
+        "slug": "consumption-reallocation",
+        "title": "消费结构迁移与零售变迁"
       }
     ]
   },
@@ -80,6 +100,14 @@
       {
         "slug": "norms-and-family",
         "title": "社会规范与家庭制度"
+      },
+      {
+        "slug": "social-security",
+        "title": "养老保险与社会保障"
+      },
+      {
+        "slug": "education-and-wellbeing",
+        "title": "教育竞争与身心健康"
       }
     ]
   },
@@ -92,6 +120,10 @@
       {
         "slug": "evidence-models",
         "title": "证据、模型与反证"
+      },
+      {
+        "slug": "strategic-interaction",
+        "title": "策略互动与博弈模型"
       }
     ]
   },

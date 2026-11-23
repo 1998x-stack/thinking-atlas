@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 500" role="img" aria-labelledby="title desc">
+<title id="title">AI应用每个成功任务的成本结构</title><desc id="desc">AI任务成本不仅包含模型推理，还包括工具API、检索存储、人工审核、失败重试、返工、客服和部署成本。</desc>
+<rect width="1100" height="500" fill="#f6f8f4"/><text x="55" y="58" fill="#173d3b" font-size="28" font-family="serif">按“成功完成一项任务”核算成本</text>
+<g font-family="sans-serif">
+<rect x="70" y="110" width="450" height="65" rx="9" fill="#dcebe3" stroke="#80a99b"/><text x="100" y="150" fill="#276b5f" font-size="20" font-weight="700">模型推理与 Token</text>
+<rect x="70" y="190" width="450" height="65" rx="9" fill="#e8eee5" stroke="#a8b9a9"/><text x="100" y="230" fill="#657b58" font-size="20" font-weight="700">工具/API、检索与存储</text>
+<rect x="70" y="270" width="450" height="65" rx="9" fill="#f3e8df" stroke="#d1a98b"/><text x="100" y="310" fill="#a06b49" font-size="20" font-weight="700">人工审核与失败重试</text>
+<rect x="70" y="350" width="450" height="65" rx="9" fill="#e6edf0" stroke="#9db3bd"/><text x="100" y="390" fill="#456978" font-size="20" font-weight="700">返工、客服与部署摊销</text>
+<path d="M550 140 V385" stroke="#2d766c" stroke-width="4"/><path d="M530 385 H550" stroke="#2d766c" stroke-width="4"/>
+<rect x="600" y="185" width="430" height="170" rx="12" fill="#173d3b"/><text x="815" y="240" text-anchor="middle" fill="#c5ddd1" font-size="20">单任务贡献毛利</text><text x="815" y="300" text-anchor="middle" fill="#fff" font-size="30" font-weight="700">任务收入 − 全部直接成本</text><text x="815" y="335" text-anchor="middle" fill="#c5ddd1" font-size="15">只有成功交付，才算完成一个可收费任务</text>
+</g></svg>

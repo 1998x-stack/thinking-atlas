@@ -1,0 +1,160 @@
+{
+  "research_status": "partial",
+  "source": {
+    "original_path": "project-research/2026-11-21/ai-application-business-economics",
+    "original_date": "2026-11-21",
+    "provenance": "综合项目内AI内部孵化创业、AI应用商业机会与风险、AI技术依赖和商业模式研究，使用公开研究、企业调查和中国监管规则重新核验"
+  },
+  "independent_recheck": {
+    "status": "partial",
+    "checked_at": "2026-11-21",
+    "method": "交叉核对Stanford AI Index、OECD企业/SME调查、NBER现场实验、METR随机试验和国家网信办监管文件"
+  },
+  "verified_claims": [
+    {
+      "id": "A1",
+      "claim": "Stanford HAI《AI Index 2026》引用的组织调查显示88%的受访组织至少在一个业务职能中使用AI，约70%至少在一个职能中使用生成式AI；多数业务职能的AI Agent规模化部署仍为个位数水平。",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "id": "A2",
+      "claim": "OECD数据显示2025年OECD国家报告使用AI的企业比例为20.2%，大型企业约52.0%，小型企业约17.4%。",
+      "source_ids": [
+        "S2"
+      ]
+    },
+    {
+      "id": "A3",
+      "claim": "NBER对66家企业、7137名知识工作者的现场实验发现，使用集成在邮件、会议和写作工具中的生成式AI后，使用者邮件处理时间减少，但没有发现任务数量或构成显著变化。",
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "id": "A4",
+      "claim": "一项覆盖5179名客服人员的研究发现，AI助手使平均每小时解决问题数量提高约14%，但效果因经验水平不同而异。",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "id": "A5",
+      "claim": "METR 2025年对16名资深开源开发者、246项任务的随机试验发现早期2025年工具使样本任务完成时间增加19%；METR 2026年后续实验因参与者和任务选择偏差，明确认为其数据无法可靠估计当前生产率效应。",
+      "source_ids": [
+        "S5",
+        "S9"
+      ]
+    },
+    {
+      "id": "A6",
+      "claim": "OECD 2025年中小企业调查中，未使用生成式AI的企业约57%认为其不适合自身工作，约54%担心版权/法律/监管问题，约52%担心输入信息处理；调查覆盖奥地利、加拿大、德国、爱尔兰、日本、韩国和英国样本。",
+      "source_ids": [
+        "S6"
+      ]
+    },
+    {
+      "id": "A7",
+      "claim": "中国《生成式人工智能服务管理暂行办法》适用于向境内公众提供生成内容的服务；企业等研发和应用技术但未向境内公众提供相关服务的，不适用该办法，但其他法律仍可能适用。",
+      "source_ids": [
+        "S7"
+      ]
+    },
+    {
+      "id": "A8",
+      "claim": "《人工智能生成合成内容标识办法》于2025年3月发布，自2025年9月1日起施行，规定显式和隐式标识要求。",
+      "source_ids": [
+        "S8"
+      ]
+    }
+  ],
+  "source_urls": [
+    {
+      "id": "S1",
+      "title": "AI Index Report 2026, Chapter 4: Economy",
+      "publisher": "Stanford Institute for Human-Centered Artificial Intelligence",
+      "published": "2026-04",
+      "url": "https://hai.stanford.edu/ai-index/2026-ai-index-report/economy",
+      "type": "research-report"
+    },
+    {
+      "id": "S2",
+      "title": "AI use by individuals surges across the OECD as adoption by firms continues to expand",
+      "publisher": "OECD",
+      "published": "2026-01",
+      "url": "https://www.oecd.org/en/about/news/announcements/2026/01/ai-use-by-individuals-surges-across-the-oecd-as-adoption-by-firms-continues-to-expand.html",
+      "type": "primary-statistical-release"
+    },
+    {
+      "id": "S3",
+      "title": "Generative AI at Work, NBER Working Paper 31161",
+      "publisher": "National Bureau of Economic Research",
+      "published": "2023-04",
+      "url": "https://www.nber.org/papers/w31161",
+      "type": "field-experiment"
+    },
+    {
+      "id": "S4",
+      "title": "Shifting Work Patterns with Generative AI, NBER Working Paper 33795",
+      "publisher": "National Bureau of Economic Research",
+      "published": "2025-05; revised 2025-11",
+      "url": "https://www.nber.org/papers/w33795",
+      "type": "field-experiment"
+    },
+    {
+      "id": "S5",
+      "title": "Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity",
+      "publisher": "METR",
+      "published": "2025-07-10",
+      "url": "https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/",
+      "type": "randomized-controlled-trial"
+    },
+    {
+      "id": "S6",
+      "title": "Generative AI and the SME Workforce: New Survey Evidence",
+      "publisher": "OECD",
+      "published": "2025-11-05",
+      "url": "https://www.oecd.org/en/publications/generative-ai-and-the-sme-workforce_2d08b99d-en.html",
+      "type": "survey"
+    },
+    {
+      "id": "S7",
+      "title": "生成式人工智能服务管理暂行办法",
+      "publisher": "国家互联网信息办公室等七部门",
+      "published": "2023-07-13",
+      "url": "https://www.cac.gov.cn/2023-07/13/c_1690898327029107.htm",
+      "type": "primary-regulation"
+    },
+    {
+      "id": "S8",
+      "title": "四部门联合发布《人工智能生成合成内容标识办法》",
+      "publisher": "国家互联网信息办公室、工业和信息化部、公安部、国家广播电视总局",
+      "published": "2025-03-14",
+      "url": "https://www.cac.gov.cn/2025-03/14/c_1743654685899683.htm",
+      "type": "primary-regulation"
+    },
+    {
+      "id": "S9",
+      "title": "We are Changing our Developer Productivity Experiment Design",
+      "publisher": "METR",
+      "published": "2026-02-24",
+      "url": "https://metr.org/blog/2026-02-24-uplift-update/",
+      "type": "research-methodology-update"
+    }
+  ],
+  "limitations": [
+    "Stanford AI Index中的组织采用率来自受访组织调查；OECD企业采用率来自不同企业统计口径，二者不能直接比较或取平均。",
+    "生产率研究覆盖的职业、工具、任务和时间段不同，单项实验不能外推到所有AI应用。",
+    "OECD中小企业调查覆盖特定国家和样本，不能直接代表中国全部中小企业。",
+    "模型价格、推理效率和法规要求快速变化，单位经济需要按真实部署和版本持续复算。",
+    "内部孵化中的IP、客户数据和收益权属依赖合同和治理文件，本篇不替代具体法律审查。",
+    "METR 2026年后续开发者实验存在参与者和任务选择偏差，研究者认为估计值不是当前生产率影响的可靠代理；不能将2025年早期19%减速外推到2026年工具。"
+  ],
+  "next_actions": [
+    "为中国企业AI应用建立垂直场景样本，记录付费试点、续费、单任务成本、审核时间和实际ROI。",
+    "针对内部孵化岗位建立合同/授权尽调清单，核对预算、团队、决策权、IP、数据和外部销售权。",
+    "持续跟踪模型推理成本、Agent工具调用成本、企业采用率和AI内容标识规则变化。",
+    "对不同类型AI应用进行随机或准实验评估，区分节省时间、任务数量变化和最终业务结果。"
+  ]
+}
