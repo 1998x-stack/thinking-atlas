@@ -221,6 +221,15 @@
       "locator": "《抗大总校及各分校情况简介》陆军中学与附设中学部分",
       "status": "unverified",
       "notes": "后出校史整理有该人数记载，但尚未取得原始学员名册。"
+    },
+    {
+      "id": "T-023",
+      "claim": "1940年6月太岳军区成立，由第三八六旅兼军区。",
+      "kind": "institutional_history",
+      "source_url": "https://m.krzzjn.com/show-41-63615.html",
+      "locator": "《八路军一二九师的战斗历程（二）》关于1940年6月整编的记载",
+      "status": "verified",
+      "notes": "后出部队沿革资料记载；同页也列出第三八六旅772、16、17、18团的序列。"
     }
   ],
   "limitations": [
