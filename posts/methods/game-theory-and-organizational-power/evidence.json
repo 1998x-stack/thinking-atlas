@@ -1,0 +1,198 @@
+{
+  "research_status": "partial",
+  "source": {
+    "original_path": "project-research/2026-11-22/game-theory-and-organizational-power",
+    "original_date": "2026-11-22",
+    "provenance": "综合项目内囚徒困境、智猪博弈、职场博弈和历史案例研究需求，核对Nash原始论文、博弈论教材、重复博弈研究、信号与委托代理经典论文及美国解密史料"
+  },
+  "independent_recheck": {
+    "status": "partial",
+    "checked_at": "2026-11-22",
+    "method": "交叉核对Nash均衡原始论文、SEP条目、Axelrod-Hamilton重复博弈论文、Spence信号模型、Holmstrom委托代理论文和美国官方历史文件"
+  },
+  "verified_claims": [
+    {
+      "id": "G1",
+      "claim": "Nash 1950年PNAS论文定义了n人博弈中的均衡点，成为后来纳什均衡概念的基础。",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "id": "G2",
+      "claim": "囚徒困境的经典结构可以出现双方各自采取占优背叛策略、但结果劣于双方合作的情形。",
+      "source_ids": [
+        "S2",
+        "S3"
+      ]
+    },
+    {
+      "id": "G3",
+      "claim": "Rasmusen博弈论教材以收益矩阵说明Boxed Pigs模型中大猪按按钮、小猪等待的纳什均衡。",
+      "source_ids": [
+        "S13"
+      ]
+    },
+    {
+      "id": "G4",
+      "claim": "Axelrod和Hamilton 1981年研究分析重复囚徒困境中互惠策略如何使合作开始、持续并抵抗入侵。",
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "id": "G5",
+      "claim": "Spence 1973年Job Market Signaling模型分析在招聘者不确定候选人类型时，教育可能作为信号并形成信息均衡。",
+      "source_ids": [
+        "S12"
+      ]
+    },
+    {
+      "id": "G6",
+      "claim": "Holmstrom 1979年论文分析委托—代理关系中不完全信息、道德风险和可观察性对契约设计的影响。",
+      "source_ids": [
+        "S11"
+      ]
+    },
+    {
+      "id": "G7",
+      "claim": "美国国务院《FRUS 1961—1963 Volume XI》汇集古巴导弹危机相关历史文件，记录1962年10月的外交与决策过程。",
+      "source_ids": [
+        "S6"
+      ]
+    },
+    {
+      "id": "G8",
+      "claim": "美国国家档案馆保存并介绍Eisenhower 1944年6月6日D-Day Order of the Day，说明诺曼底登陆是多国联合行动。",
+      "source_ids": [
+        "S7"
+      ]
+    },
+    {
+      "id": "G9",
+      "claim": "美国国会图书馆记载，1883年11月18日北美铁路公司采用标准铁路时间，随后城市逐步采用标准时区。",
+      "source_ids": [
+        "S8"
+      ]
+    }
+  ],
+  "source_urls": [
+    {
+      "id": "S1",
+      "title": "Equilibrium Points in N-Person Games",
+      "publisher": "Proceedings of the National Academy of Sciences",
+      "published": "1950-01-15",
+      "url": "https://doi.org/10.1073/pnas.36.1.48",
+      "type": "foundational-paper"
+    },
+    {
+      "id": "S2",
+      "title": "Game Theory",
+      "publisher": "Stanford Encyclopedia of Philosophy",
+      "published": "current entry",
+      "url": "https://plato.stanford.edu/entries/game-theory/",
+      "type": "academic-reference"
+    },
+    {
+      "id": "S3",
+      "title": "Prisoner's Dilemma",
+      "publisher": "Stanford Encyclopedia of Philosophy",
+      "published": "current entry",
+      "url": "https://plato.stanford.edu/entries/prisoner-dilemma/",
+      "type": "academic-reference"
+    },
+    {
+      "id": "S4",
+      "title": "The Evolution of Cooperation",
+      "publisher": "Science",
+      "published": "1981-03-27",
+      "url": "https://doi.org/10.1126/science.7466396",
+      "type": "peer-reviewed-study"
+    },
+    {
+      "id": "S5",
+      "title": "The Strategy of Conflict",
+      "publisher": "Harvard University Press",
+      "published": "1960",
+      "url": "https://books.google.com/books?id=vo-RvgEACAAJ",
+      "type": "foundational-book"
+    },
+    {
+      "id": "S6",
+      "title": "Foreign Relations of the United States, 1961–1963, Volume XI: Cuban Missile Crisis and Aftermath",
+      "publisher": "U.S. Department of State, Office of the Historian",
+      "published": "declassified historical collection",
+      "url": "https://history.state.gov/historicaldocuments/frus1961-63v11/comp1",
+      "type": "primary-historical-record"
+    },
+    {
+      "id": "S7",
+      "title": "General Dwight D. Eisenhower's Order of the Day (1944)",
+      "publisher": "U.S. National Archives",
+      "published": "1944-06-06",
+      "url": "https://www.archives.gov/milestone-documents/general-eisenhowers-order-of-the-day",
+      "type": "primary-historical-record"
+    },
+    {
+      "id": "S8",
+      "title": "Whose Time is it Anyway? A Brief History of Standardized Time Zones in the United States",
+      "publisher": "Library of Congress",
+      "published": "2024-11",
+      "url": "https://blogs.loc.gov/law/2024/11/whose-time-is-it-anyway-a-brief-history-of-standardized-time-zones-in-the-united-states/",
+      "type": "historical-research"
+    },
+    {
+      "id": "S9",
+      "title": "Defence Expenditure of NATO Countries (2014–2025)",
+      "publisher": "NATO",
+      "published": "2025-08-28",
+      "url": "https://www.nato.int/en/news-and-events/articles/news/2025/08/28/defence-expenditure-of-nato-countries-2014-2025",
+      "type": "official-statistics"
+    },
+    {
+      "id": "S10",
+      "title": "Governing the Commons: The Evolution of Institutions for Collective Action",
+      "publisher": "Cambridge University Press",
+      "published": "1990-11-30",
+      "url": "https://doi.org/10.1017/CBO9780511807763",
+      "type": "foundational-book"
+    },
+    {
+      "id": "S11",
+      "title": "Moral Hazard and Observability",
+      "publisher": "The Bell Journal of Economics",
+      "published": "1979",
+      "url": "https://doi.org/10.2307/3003320",
+      "type": "foundational-paper"
+    },
+    {
+      "id": "S12",
+      "title": "Job Market Signaling",
+      "publisher": "Quarterly Journal of Economics",
+      "published": "1973-08-01",
+      "url": "https://doi.org/10.2307/1882010",
+      "type": "foundational-paper"
+    },
+    {
+      "id": "S13",
+      "title": "Games and Information, Chapter 1: Boxed Pigs",
+      "publisher": "Eric Rasmusen",
+      "published": "textbook edition",
+      "url": "https://www.rasmusen.org/GI/chapters/pageproofs4th/chap-01.pdf",
+      "type": "game-theory-textbook"
+    }
+  ],
+  "limitations": [
+    "收益矩阵中的数字为教学示例效用，不是现实企业、国家或历史人物的真实收益测量。",
+    "历史案例为结构类比，真实事件包含多方参与者、不完全信息、国内政治和制度因素。",
+    "NATO防务支出不能单独证明成员国搭便车，需要结合威胁、地理、人口、军事能力和非军事贡献。",
+    "重复博弈合作条件依赖完全监测、固定收益和折现因子等假设。",
+    "委托代理和信号模型在具体组织中的参数需要合同、绩效和人员行为数据验证。"
+  ],
+  "next_actions": [
+    "为九种博弈分别构建可编辑的参数化收益矩阵，支持修改收益后自动计算最佳反应和纯策略纳什均衡。",
+    "选择中国历史中的推恩令、诸侯博弈、官僚委托链和战争联盟案例，逐项核对一手史料后再建立具体模型。",
+    "收集企业项目协作、绩效考核、采购谈判和跨部门资源分配的真实匿名案例，估计收益和信息结构。",
+    "进一步比较完全信息、动态博弈、信号博弈和不完全承诺模型在组织情境中的适用边界。"
+  ]
+}

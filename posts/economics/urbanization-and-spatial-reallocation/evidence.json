@@ -1,0 +1,140 @@
+{
+  "research_status": "partial",
+  "source": {
+    "original_path": "project-research/2026-11-21/urbanization-and-spatial-reallocation",
+    "original_date": "2026-11-21",
+    "provenance": "综合项目内中国县城衰退、日本地方人口收缩、上海房地产和人口集聚等讨论，使用公开统计与国际比较资料重新核验"
+  },
+  "independent_recheck": {
+    "status": "partial",
+    "checked_at": "2026-11-21",
+    "method": "核对国家统计局人口、农民工和房地产统计；国务院城镇化政策；联合国城市化报告；日本人口普查速報与国土交通省紧凑城市政策"
+  },
+  "verified_claims": [
+    {
+      "id": "U1",
+      "claim": "2025年末全国人口140489万人，城镇常住人口95380万人，占67.9%，乡村人口45109万人。",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "id": "U2",
+      "claim": "2025年全国农民工30115万人，其中本地12109万人、外出18006万人；外出农民工中省内流动占62.4%，跨省流动占37.6%。",
+      "source_ids": [
+        "S2"
+      ]
+    },
+    {
+      "id": "U3",
+      "claim": "2025年农民工平均年龄43.3岁，50岁以上占32.0%。",
+      "source_ids": [
+        "S2"
+      ]
+    },
+    {
+      "id": "U4",
+      "claim": "联合国对中国2010—2020年城市人口增长分解为迁移56%、行政重分类26%、自然增长18%。",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "id": "U5",
+      "claim": "国务院2024年城镇化五年行动计划提出经过五年努力将常住人口城镇化率提升至接近70%，并强调农业转移人口市民化与分类施策。",
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "id": "U6",
+      "claim": "2025年房地产开发投资同比下降17.2%，新建商品房销售面积下降8.7%，销售额下降12.6%，待售面积增长1.6%。",
+      "source_ids": [
+        "S5"
+      ]
+    },
+    {
+      "id": "U7",
+      "claim": "日本2025年人口普查速報显示1719个市町村中1558个（90.6%）人口较2020年下降；东京圈人口约占全国30.1%。",
+      "source_ids": [
+        "S6"
+      ]
+    },
+    {
+      "id": "U8",
+      "claim": "日本国土交通省公布截至2026年7月31日有972个城市制定或推进立地适正化计划。",
+      "source_ids": [
+        "S7"
+      ]
+    }
+  ],
+  "source_urls": [
+    {
+      "id": "S1",
+      "title": "中华人民共和国2025年国民经济和社会发展统计公报",
+      "publisher": "国家统计局",
+      "published": "2026-02-28",
+      "url": "https://www.stats.gov.cn/sj/zxfbhjd/202602/t20260228_1962662.html",
+      "type": "primary"
+    },
+    {
+      "id": "S2",
+      "title": "2025年农民工监测调查报告",
+      "publisher": "国家统计局",
+      "published": "2026-04-30",
+      "url": "https://www.stats.gov.cn/sj/zxfbhjd/202604/t20260430_1963472.html",
+      "type": "primary"
+    },
+    {
+      "id": "S3",
+      "title": "World Urbanization Prospects 2025: Summary of Results",
+      "publisher": "United Nations Department of Economic and Social Affairs, Population Division",
+      "published": "2025-11",
+      "url": "https://www.un.org/development/desa/pd/sites/www.un.org.development.desa.pd/files/undesa_pd_2025_wup2025_summary_of_results.pdf",
+      "type": "international-primary-research"
+    },
+    {
+      "id": "S4",
+      "title": "国务院关于印发《深入实施以人为本的新型城镇化战略五年行动计划》的通知",
+      "publisher": "国务院",
+      "published": "2024-07-28",
+      "url": "https://app.www.gov.cn/govdata/gov/202407/31/517833/article.html",
+      "type": "primary"
+    },
+    {
+      "id": "S5",
+      "title": "2025年全国房地产市场基本情况",
+      "publisher": "国家统计局",
+      "published": "2026-01-19",
+      "url": "https://www.stats.gov.cn/sj/zxfbhjd/202601/t20260119_1962324.html",
+      "type": "primary"
+    },
+    {
+      "id": "S6",
+      "title": "令和7年国势调查 人口速報集計結果",
+      "publisher": "日本总务省统计局",
+      "published": "2026-05-29",
+      "url": "https://www.stat.go.jp/data/kokusei/2025/kekka/pdf/summary.pdf",
+      "type": "primary-preliminary"
+    },
+    {
+      "id": "S7",
+      "title": "立地適正化計画とコンパクト・プラス・ネットワーク",
+      "publisher": "日本国土交通省",
+      "published": "2026-07-31",
+      "url": "https://www.mlit.go.jp/en/toshi/city_plan/compactcity_network.html",
+      "type": "primary"
+    }
+  ],
+  "limitations": [
+    "全国人口、农民工和房地产数据不能替代县级长期面板；对具体县城的结论必须补充当地统计公报、财政决算和企业就业数据。",
+    "联合国采用的城市/城镇地理分类与中国行政区划口径不同，不能把国际城市数量直接映射成中国县级行政单位数量。",
+    "日本2025年人口普查结果为速報，可能在后续正式统计中修订；市町村与中国县级行政单元不等价。",
+    "全国房地产投资与销售总量不能直接推导某一县城房价、库存或人口流向。"
+  ],
+  "next_actions": [
+    "建立县级常住人口、年龄结构、迁移、企业就业、工资、财政收入、土地出让、房地产库存和交通可达性面板。",
+    "按工业集群、都市圈通勤、资源型、行政服务、旅游农业和收缩型建立县域类型样本。",
+    "选取中国县城与日本地方城市进行可比案例研究，统一人口、行政边界和公共服务口径。"
+  ]
+}

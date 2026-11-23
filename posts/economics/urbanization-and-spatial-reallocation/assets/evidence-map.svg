@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 520" role="img" aria-labelledby="title desc">
+<title id="title">县域与城市功能类型矩阵</title><desc id="desc">六类县域：工业集群、都市圈通勤、资源型、行政服务、旅游农业和收缩型，各有不同的增长来源和风险。</desc>
+<rect width="1100" height="520" fill="#f6f8f4"/><text x="55" y="60" fill="#173d3b" font-size="28" font-family="serif">县城不是一种经济类型：六类功能节点</text>
+<g font-family="sans-serif" font-size="19" font-weight="700">
+<rect x="55" y="100" width="310" height="130" rx="10" fill="#dcebe3" stroke="#80a99b"/><text x="80" y="145" fill="#276b5f">工业集群型</text><text x="80" y="188" fill="#4f6d63" font-size="15" font-weight="400">专业制造 / 供应链 / 外部订单</text>
+<rect x="395" y="100" width="310" height="130" rx="10" fill="#e8eee5" stroke="#a8b9a9"/><text x="420" y="145" fill="#657b58">都市圈通勤型</text><text x="420" y="188" fill="#697b62" font-size="15" font-weight="400">就业外溢 / 交通 / 居住需求</text>
+<rect x="735" y="100" width="310" height="130" rx="10" fill="#f3e8df" stroke="#d1a98b"/><text x="760" y="145" fill="#a06b49">资源型</text><text x="760" y="188" fill="#8a735f" font-size="15" font-weight="400">矿产能源 / 价格周期 / 资源枯竭</text>
+<rect x="55" y="270" width="310" height="130" rx="10" fill="#e6edf0" stroke="#9db3bd"/><text x="80" y="315" fill="#456978">行政服务型</text><text x="80" y="358" fill="#607b86" font-size="15" font-weight="400">教育医疗 / 政务 / 县域商贸</text>
+<rect x="395" y="270" width="310" height="130" rx="10" fill="#eee8f1" stroke="#b9a9c3"/><text x="420" y="315" fill="#79638b">旅游与农业型</text><text x="420" y="358" fill="#84758f" font-size="15" font-weight="400">旅游 / 农产品加工 / 季节性</text>
+<rect x="735" y="270" width="310" height="130" rx="10" fill="#f1e5e3" stroke="#c99e98"/><text x="760" y="315" fill="#8a5149">收缩型</text><text x="760" y="358" fill="#8b7470" font-size="15" font-weight="400">人口外流 / 老龄化 / 财政与设施压力</text>
+</g>
+<text x="55" y="462" fill="#607774" font-size="15" font-family="sans-serif">分析分类示意，不是官方行政分类；同一县域可能同时具备多种功能。</text></svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+<title id="title">中国养老金体系三支柱结构</title><desc id="desc">第一支柱为职工和居民基本养老保险，第二支柱为职业年金和企业年金，第三支柱为个人养老金与商业养老金融。</desc>
+<rect width="1200" height="720" fill="#f4f5ef"/><text x="70" y="78" fill="#173d3b" font-size="23" font-family="sans-serif" font-weight="700">THINKING ATLAS / SOCIAL SECURITY</text>
+<text x="70" y="150" fill="#173d3b" font-size="48" font-family="serif">养老金不是一个账户</text><text x="70" y="194" fill="#607774" font-size="20" font-family="sans-serif">三支柱制度 × 多类人群 × 不同财政责任</text>
+<g font-family="sans-serif">
+<rect x="70" y="260" width="330" height="280" rx="14" fill="#dcebe3" stroke="#82aa9b" stroke-width="2"/>
+<text x="235" y="310" text-anchor="middle" fill="#276b5f" font-size="24" font-weight="700">第一支柱</text><text x="235" y="370" text-anchor="middle" fill="#173d3b" font-size="32">基本养老保险</text><text x="235" y="425" text-anchor="middle" fill="#496d64" font-size="19">城镇职工</text><text x="235" y="462" text-anchor="middle" fill="#496d64" font-size="19">城乡居民</text><text x="235" y="505" text-anchor="middle" fill="#496d64" font-size="16">缴费 + 财政补助 + 统筹</text>
+<rect x="435" y="260" width="330" height="280" rx="14" fill="#e9eee6" stroke="#a6b8a7" stroke-width="2"/>
+<text x="600" y="310" text-anchor="middle" fill="#657b58" font-size="24" font-weight="700">第二支柱</text><text x="600" y="370" text-anchor="middle" fill="#173d3b" font-size="32">补充养老</text><text x="600" y="425" text-anchor="middle" fill="#607774" font-size="19">机关事业单位职业年金</text><text x="600" y="462" text-anchor="middle" fill="#607774" font-size="19">企业年金</text><text x="600" y="505" text-anchor="middle" fill="#607774" font-size="16">单位/个人缴费 + 投资收益</text>
+<rect x="800" y="260" width="330" height="280" rx="14" fill="#f3e8df" stroke="#d1a98b" stroke-width="2"/>
+<text x="965" y="310" text-anchor="middle" fill="#a06b49" font-size="24" font-weight="700">第三支柱</text><text x="965" y="370" text-anchor="middle" fill="#173d3b" font-size="32">个人养老储备</text><text x="965" y="425" text-anchor="middle" fill="#7c6757" font-size="19">个人养老金</text><text x="965" y="462" text-anchor="middle" fill="#7c6757" font-size="19">商业养老金融</text><text x="965" y="505" text-anchor="middle" fill="#7c6757" font-size="16">个人自愿储蓄与投资</text>
+<path d="M400 400 H435 M765 400 H800" stroke="#2d766c" stroke-width="4" stroke-dasharray="8 8"/>
+</g>
+<rect x="70" y="590" width="1060" height="72" rx="10" fill="#173d3b"/><text x="600" y="635" text-anchor="middle" fill="#fff" font-size="25" font-family="sans-serif" font-weight="700">制度并轨 ≠ 待遇完全相同 ≠ 长期精算平衡</text></svg>

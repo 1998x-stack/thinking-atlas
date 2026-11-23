@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+<title id="title">干部任用公开程序与信息边界</title><desc id="desc">干部任用程序包括民主推荐、组织考察、集体讨论、任前公示和依法任命；内部考察和讨论材料并非全部公开。</desc>
+<rect width="1200" height="720" fill="#f4f5ef"/><text x="70" y="78" fill="#173d3b" font-size="23" font-family="sans-serif" font-weight="700">THINKING ATLAS / INSTITUTIONS</text>
+<text x="70" y="150" fill="#173d3b" font-size="48" font-family="serif">公开履历，不等于完整决策过程</text><text x="70" y="194" fill="#607774" font-size="20" font-family="sans-serif">制度程序 × 职业事件 × 证据边界</text>
+<g font-family="sans-serif">
+<rect x="60" y="270" width="190" height="150" rx="10" fill="#dcebe3" stroke="#80a99b"/><text x="155" y="315" text-anchor="middle" fill="#276b5f" font-size="20" font-weight="700">民主推荐</text><text x="155" y="365" text-anchor="middle" fill="#365c54" font-size="17">谈话 / 会议</text>
+<rect x="285" y="270" width="190" height="150" rx="10" fill="#e8eee5" stroke="#a8b9a9"/><text x="380" y="315" text-anchor="middle" fill="#657b58" font-size="20" font-weight="700">组织考察</text><text x="380" y="365" text-anchor="middle" fill="#697b62" font-size="17">档案 / 测评</text>
+<rect x="510" y="270" width="190" height="150" rx="10" fill="#f3e8df" stroke="#d1a98b"/><text x="605" y="315" text-anchor="middle" fill="#a06b49" font-size="20" font-weight="700">集体讨论</text><text x="605" y="365" text-anchor="middle" fill="#7c6757" font-size="17">管理权限 / 决定</text>
+<rect x="735" y="270" width="190" height="150" rx="10" fill="#e6edf0" stroke="#9db3bd"/><text x="830" y="315" text-anchor="middle" fill="#456978" font-size="20" font-weight="700">任前公示</text><text x="830" y="365" text-anchor="middle" fill="#607b86" font-size="17">监督 / 异议</text>
+<rect x="960" y="270" width="180" height="150" rx="10" fill="#eee8f1" stroke="#b9a9c3"/><text x="1050" y="315" text-anchor="middle" fill="#79638b" font-size="20" font-weight="700">依法任命</text><text x="1050" y="365" text-anchor="middle" fill="#84758f" font-size="17">选举 / 任命</text>
+<g stroke="#2d766c" stroke-width="4" fill="none"><path d="M250 345 H285 M475 345 H510 M700 345 H735 M925 345 H960"/><path d="M272 333 L286 345 L272 357 M497 333 L511 345 L497 357 M722 333 L736 345 L722 357 M947 333 L961 345 L947 357"/></g>
+<rect x="60" y="485" width="1080" height="130" rx="12" fill="#173d3b"/><text x="100" y="535" fill="#c5ddd1" font-size="18">公开记录通常可验证：</text><text x="100" y="580" fill="#fff" font-size="26" font-weight="700">岗位变化、公告日期、任命机关、法律程序节点</text><text x="100" y="605" fill="#c5ddd1" font-size="16">不能自动验证：内部讨论、私人关系、真实动机和未公开考察材料</text>
+</g></svg>

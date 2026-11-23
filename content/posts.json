@@ -493,5 +493,259 @@
       "src": "assets/mechanism.svg",
       "caption": "概念机制示意图；非实证统计数据"
     }
+  },
+  {
+    "slug": "game-theory-and-organizational-power",
+    "title": "博弈论与组织权力：九种经典博弈、收益矩阵及职场和历史案例",
+    "subtitle": "从囚徒困境、智猪博弈到信号博弈和委托代理，识别激励结构并设计更好的制度。",
+    "category": "methods",
+    "topic": "strategic-interaction",
+    "status": "published",
+    "research_status": "partial",
+    "published": "2026-11-22",
+    "updated": "2026-11-22",
+    "reading_minutes": 30,
+    "tags": [
+      "博弈论",
+      "囚徒困境",
+      "智猪博弈",
+      "纳什均衡",
+      "信号博弈",
+      "委托代理"
+    ],
+    "summary": "构建九种经典博弈的收益矩阵，结合职场和历史结构类比，解释个体理性、集体低效、信号、承诺和组织激励。",
+    "source_path": "posts/methods/game-theory-and-organizational-power/source.md",
+    "cover": {
+      "src": "assets/mechanism.svg",
+      "caption": "九种博弈结构对应不同的策略互动和制度解法"
+    }
+  },
+  {
+    "slug": "education-workload-sleep-and-wellbeing",
+    "title": "中国教育竞争与学生身心健康：江苏高中作息改革、睡眠证据与自杀统计的因果边界",
+    "subtitle": "核验江苏高中作息变化、睡眠政策和青少年死亡统计，区分相关性、年龄口径与因果关系。",
+    "category": "society",
+    "topic": "education-and-wellbeing",
+    "status": "published",
+    "research_status": "partial",
+    "published": "2026-11-22",
+    "updated": "2026-11-22",
+    "reading_minutes": 25,
+    "tags": [
+      "江苏高中",
+      "双休改革",
+      "睡眠管理",
+      "学生心理健康",
+      "自杀统计",
+      "教育政策"
+    ],
+    "summary": "结合教育部睡眠政策、江苏5—24岁伤害死亡研究和全国疾控数据，分析作息改革能证明什么、不能证明什么。",
+    "source_path": "posts/society/education-workload-sleep-and-wellbeing/source.md",
+    "cover": {
+      "src": "assets/mechanism.svg",
+      "caption": "学校作息可能影响睡眠，但心理健康和自杀受多层因素共同影响"
+    }
+  },
+  {
+    "slug": "12345-hotline-outsourcing-governance",
+    "title": "12345政务热线的外包治理：上海、北京、深圳的预算、人员、绩效与责任链",
+    "subtitle": "基于上海三年预算、北京年度报告、深圳绩效材料和国务院政策，拆解热线外包的成本和责任边界。",
+    "category": "institutions",
+    "topic": "public-service-outsourcing",
+    "status": "published",
+    "research_status": "partial",
+    "published": "2026-11-22",
+    "updated": "2026-11-22",
+    "reading_minutes": 26,
+    "tags": [
+      "12345",
+      "政府购买服务",
+      "热线外包",
+      "上海财政",
+      "公共服务",
+      "绩效考核"
+    ],
+    "summary": "区分预算、决算、席位、员工人数和个人工资，比较上海、北京、深圳热线业务数据，分析2025年主体业务不得外包的政策边界。",
+    "source_path": "posts/institutions/12345-hotline-outsourcing-governance/source.md",
+    "cover": {
+      "src": "assets/mechanism.svg",
+      "caption": "话务运营、热线管理、承办部门和群众反馈构成公共服务责任链"
+    }
+  },
+  {
+    "slug": "financial-crisis-liquidity-and-assets",
+    "title": "金融危机的两阶段资产定价：流动性冲击、偿付能力损失与现金、黄金、股票的不同角色",
+    "subtitle": "以2008年全球金融危机为案例，区分流动性挤兑、偿付能力重估和政策修复。",
+    "category": "economics",
+    "topic": "asset-pricing",
+    "status": "published",
+    "research_status": "partial",
+    "published": "2026-11-22",
+    "updated": "2026-11-22",
+    "reading_minutes": 25,
+    "tags": [
+      "金融危机",
+      "流动性风险",
+      "偿付能力",
+      "黄金",
+      "现金",
+      "资产配置"
+    ],
+    "summary": "核验雷曼破产、货币市场基金挤兑和黄金短期下跌，解释现金、国债、黄金、股票、信用债和房地产在不同风险阶段的作用。",
+    "source_path": "posts/economics/financial-crisis-liquidity-and-assets/source.md",
+    "cover": {
+      "src": "assets/mechanism.svg",
+      "caption": "危机从杠杆累积、流动性挤兑到偿付能力重估和政策修复"
+    }
+  },
+  {
+    "slug": "japan-consumption-reallocation",
+    "title": "日本长期停滞与逆势产业：消费结构迁移、零售革命及中国的适用边界",
+    "subtitle": "用OECD历史调查、日本银行研究和METI最新统计，拆解折扣零售、药妆、便利店与消费迁移。",
+    "category": "economics",
+    "topic": "consumption-reallocation",
+    "status": "published",
+    "research_status": "partial",
+    "published": "2026-11-22",
+    "updated": "2026-11-22",
+    "reading_minutes": 22,
+    "tags": [
+      "日本经济",
+      "失落三十年",
+      "消费结构",
+      "折扣零售",
+      "药妆店",
+      "消费降级"
+    ],
+    "summary": "验证1990年代日本折扣店增长与2025年零售业态分化，区分名义销售额、实际销量和利润，评估日本经验对中国的适用边界。",
+    "source_path": "posts/economics/japan-consumption-reallocation/source.md",
+    "cover": {
+      "src": "assets/mechanism.svg",
+      "caption": "收入预期、消费者替代和企业渠道效率共同推动消费结构迁移"
+    }
+  },
+  {
+    "slug": "ai-application-business-economics",
+    "title": "AI 应用创业的商业化门槛：工作流价值、单位经济与内部孵化",
+    "subtitle": "从企业采用率、生产率实验、任务成本和内部孵化控制权，判断 AI 产品能否形成可持续商业模式。",
+    "category": "economics",
+    "topic": "business-models",
+    "status": "published",
+    "research_status": "partial",
+    "published": "2026-11-21",
+    "updated": "2026-11-22",
+    "reading_minutes": 28,
+    "tags": [
+      "AI创业",
+      "企业软件",
+      "单位经济",
+      "工作流自动化",
+      "内部孵化",
+      "AI合规"
+    ],
+    "summary": "分析 AI 产品从 Demo 到付费的门槛，构建按成功任务核算的单位经济模型，比较内部孵化与独立创业，并核对中国生成式 AI 与内容标识规则。",
+    "cover": {
+      "src": "assets/mechanism.svg",
+      "caption": "AI 应用从客户问题、工作流、结果质量到单位经济和分发的商业化路径"
+    }
+  },
+  {
+    "slug": "cadre-selection-and-public-career-data",
+    "title": "干部任用与组织激励：制度程序、职业轨迹与公开信息的证据边界",
+    "subtitle": "从干部选拔任用条例和公务员法出发，建立可复核的人事事件数据库与异常调动分析框架。",
+    "category": "institutions",
+    "topic": "personnel-systems",
+    "status": "published",
+    "research_status": "partial",
+    "published": "2026-11-21",
+    "updated": "2026-11-22",
+    "reading_minutes": 24,
+    "tags": [
+      "干部任用",
+      "组织人事",
+      "公务员法",
+      "任前公示",
+      "职业轨迹",
+      "公开数据"
+    ],
+    "summary": "区分民主推荐、组织考察、集体讨论、任前公示、提名、当选和正式任命；说明公开履历能证明什么、不能证明什么，并连接官方公告爬虫与事件数据模型。",
+    "cover": {
+      "src": "assets/mechanism.svg",
+      "caption": "干部任用程序与公开人事事件的数据边界"
+    }
+  },
+  {
+    "slug": "urbanization-and-spatial-reallocation",
+    "title": "人口流动与城市分化：中国县城、都市圈与地方收缩",
+    "subtitle": "结合中国人口流动、县域产业、房地产与日本地方收缩，检验县城和内陆城市的发展边界。",
+    "category": "economics",
+    "topic": "urban-economics",
+    "status": "published",
+    "research_status": "partial",
+    "published": "2026-11-21",
+    "updated": "2026-11-22",
+    "reading_minutes": 27,
+    "tags": [
+      "人口流动",
+      "县城",
+      "都市圈",
+      "城市收缩",
+      "日本比较",
+      "房地产"
+    ],
+    "summary": "用人口、就业、产业链、公共服务、住房和财政能力解释城市分化，建立县域功能类型，并分析日本紧凑城市经验及其可比性边界。",
+    "cover": {
+      "src": "assets/mechanism.svg",
+      "caption": "城市分化由就业、产业链、公共服务、住房成本与财政能力共同决定"
+    }
+  },
+  {
+    "slug": "china-pension-system",
+    "title": "中国养老金体系：制度分层、财政统筹与代际可持续性",
+    "subtitle": "从机关事业单位改革、职工与居民养老、职业年金到延迟退休，拆解退休收入的真实结构。",
+    "category": "society",
+    "topic": "social-security",
+    "status": "published",
+    "research_status": "partial",
+    "published": "2026-11-21",
+    "updated": "2026-11-22",
+    "reading_minutes": 25,
+    "tags": [
+      "养老金",
+      "基本养老保险",
+      "职业年金",
+      "企业年金",
+      "延迟退休",
+      "长期护理保险"
+    ],
+    "summary": "梳理三支柱养老体系、体制内外制度差异、全国统筹、城乡居民基础养老金、高龄津贴与长期护理保险，并区分年度现金流和长期精算。",
+    "cover": {
+      "src": "assets/mechanism.svg",
+      "caption": "养老金三支柱与老年福利分层示意图"
+    }
+  },
+  {
+    "slug": "local-government-debt-resolution",
+    "title": "地方政府债务化解：置换、融资平台转型与财政关系重构",
+    "subtitle": "从债务置换、土地财政和融资平台现金流，判断地方债务究竟被消化还是重新分类。",
+    "category": "economics",
+    "topic": "public-finance",
+    "status": "published",
+    "research_status": "partial",
+    "published": "2026-11-21",
+    "updated": "2026-11-22",
+    "reading_minutes": 24,
+    "tags": [
+      "地方债务",
+      "债务置换",
+      "融资平台",
+      "土地财政",
+      "地方财政"
+    ],
+    "summary": "区分法定地方政府债务、经甄别隐性债务、融资平台企业债务和广义公共部门风险，分析置换政策、发行进度、土地收入和地方财政关系。",
+    "cover": {
+      "src": "assets/mechanism.svg",
+      "caption": "债务置换改变债务形式、利率和期限，不等于债务本金自动消失"
+    }
   }
 ]

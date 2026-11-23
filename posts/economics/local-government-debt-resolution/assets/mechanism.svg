@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+<title id="title">地方债务化解的资产负债表机制</title><desc id="desc">图示隐性债务经置换转为法定地方政府债务，利率和期限改善，但本金与财政偿付责任仍然存在；土地收入和地方预算影响偿债能力。</desc>
+<rect width="1200" height="720" fill="#f4f5ef"/>
+<text x="70" y="78" fill="#173d3b" font-size="23" font-family="sans-serif" font-weight="700">THINKING ATLAS / PUBLIC FINANCE</text>
+<text x="70" y="150" fill="#173d3b" font-size="48" font-family="serif">债务置换，不等于债务消失</text>
+<text x="70" y="193" fill="#607774" font-size="20" font-family="sans-serif">从隐性负担到预算内债务：风险如何迁移？</text>
+<rect x="72" y="270" width="300" height="190" rx="12" fill="#fff" stroke="#bdc9bf" stroke-width="2"/>
+<text x="222" y="315" text-anchor="middle" fill="#9b6747" font-size="23" font-family="sans-serif" font-weight="700">置换前</text>
+<text x="222" y="365" text-anchor="middle" fill="#173d3b" font-size="31" font-family="serif">隐性债务</text>
+<text x="222" y="408" text-anchor="middle" fill="#607774" font-size="18" font-family="sans-serif">短期限 · 高成本 · 低透明度</text>
+<path d="M390 365 H505" stroke="#2d766c" stroke-width="5" fill="none"/><path d="M492 349 L510 365 L492 381" stroke="#2d766c" stroke-width="5" fill="none"/>
+<rect x="525" y="270" width="250" height="190" rx="12" fill="#e2eee8" stroke="#8bb5a7" stroke-width="2"/>
+<text x="650" y="315" text-anchor="middle" fill="#2d766c" font-size="23" font-family="sans-serif" font-weight="700">置换工具</text>
+<text x="650" y="365" text-anchor="middle" fill="#173d3b" font-size="31" font-family="serif">地方债券</text>
+<text x="650" y="408" text-anchor="middle" fill="#607774" font-size="18" font-family="sans-serif">降息 · 展期 · 显性化</text>
+<path d="M793 365 H908" stroke="#2d766c" stroke-width="5" fill="none"/><path d="M895 349 L913 365 L895 381" stroke="#2d766c" stroke-width="5" fill="none"/>
+<rect x="930" y="270" width="200" height="190" rx="12" fill="#fff" stroke="#bdc9bf" stroke-width="2"/>
+<text x="1030" y="315" text-anchor="middle" fill="#9b6747" font-size="23" font-family="sans-serif" font-weight="700">置换后</text>
+<text x="1030" y="365" text-anchor="middle" fill="#173d3b" font-size="31" font-family="serif">本金仍在</text>
+<text x="1030" y="408" text-anchor="middle" fill="#607774" font-size="18" font-family="sans-serif">预算偿付 · 期限重排</text>
+<rect x="72" y="520" width="1058" height="110" rx="10" fill="#173d3b"/>
+<text x="110" y="565" fill="#c5ddd1" font-size="18" font-family="sans-serif">决定长期风险的不是置换额度本身，而是：</text>
+<text x="110" y="606" fill="#fff" font-size="27" font-family="sans-serif" font-weight="700">地方税基 × 土地收入 × 平台现金流 × 中央地方财政关系</text>
+</svg>
