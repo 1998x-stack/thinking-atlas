@@ -105,6 +105,13 @@
       "publisher": "延安大学人物资料",
       "published_at": "2024-10-20",
       "url": "https://yau.edu.cn/info/1064/343117.htm"
+    },
+    {
+      "id": "HIST-09",
+      "title": "9位中顾委的片断故事：王平智斗江青 陈再道的“三不”性格",
+      "publisher": "人民网党史频道；作者黎虹（曾任胡乔木秘书）",
+      "published_at": "2013-04-19",
+      "url": "https://dangshi.people.com.cn/n/2013/0419/c85037-21199538-2.html"
     }
   ],
   "verified_claims": [
@@ -116,7 +123,8 @@
     "ORG-03",
     "ORG-04",
     "ORG-05",
-    "HIST-07"
+    "HIST-07",
+    "HIST-09"
   ],
   "claims": [
     {
@@ -148,12 +156,12 @@
     },
     {
       "id": "HIST-04",
-      "claim": "《六大以来》的资料收集始于1940年下半年，胡乔木到任后逐步接手；档案类材料记载汇集本收录519篇。",
+      "claim": "公开来源对《六大以来》汇集本篇数存在518篇与519篇两种记载；未核对各版本原始目录前，无法给出单一确定数字。",
       "kind": "historical_fact",
       "source_url": "https://www.ccphistory.org.cn/shds/ssjc/content/0cc828c6-cb78-410b-adaf-28d6e29f0641.html",
       "locator": "第15—24行：征集文献、1941年12月编印、519篇及版本说明",
-      "status": "partially_verified",
-      "notes": "另有二手叙述出现518篇；版本与统计口径仍需以原始版本目录最终核对。"
+      "status": "unverified",
+      "notes": "中国档案报/上海党史网2025年档案类报道记为519篇；人民网2013年刊载胡乔木秘书黎虹的回忆记为518篇。差异是否来自版本、统计口径或转录误差尚未核实，正文因此只称“五百余篇”。"
     },
     {
       "id": "HIST-05",
@@ -161,8 +169,8 @@
       "kind": "retrospective_account",
       "source_url": "https://www.whb.cn/zhuzhan/dushu/20200115/314640.html",
       "locator": "2020年转载文章第68—83段，摘自2019年人物传记",
-      "status": "partially_verified",
-      "notes": "属于后出的回忆/传记叙述，不是1941年同期工作日志或逐字记录。"
+      "status": "unverified",
+      "notes": "该情节见于2019年人物传记、2020年文汇报转载的回忆性叙述；不是1941年同期工作日志或逐字记录，故保留来源但不标作独立核实。"
     },
     {
       "id": "HIST-06",
@@ -170,8 +178,8 @@
       "kind": "historical_interpretation",
       "source_url": "https://www.dswxyjy.org.cn/n1/2019/0228/c423725-30946693.html",
       "locator": "论文摘要及关于40年代文献出版与政治文化的分析",
-      "status": "partially_verified",
-      "notes": "这是基于文献分析的学术解释；本文不把它简化为单一动机，也不对所有编选细节作超出资料的推断。"
+      "status": "derived",
+      "notes": "本文对组织与政治背景的概括，综合档案材料与黄江军关于毛泽东著作经典化的文献研究；属于历史解释，不把它简化为单一动机。"
     },
     {
       "id": "ORG-01",
@@ -253,6 +261,15 @@
       "locator": "人民网党史频道《早年胡乔木》第5页相关段落",
       "status": "verified",
       "notes": "后出的党史叙述；任职月份另由延安大学人物资料和中国社会科学网生平材料交叉核对。"
+    },
+    {
+      "id": "HIST-09",
+      "claim": "人民网2013年刊载的胡乔木秘书黎虹回忆将《六大以来》汇集本记为518篇、280多万字。",
+      "kind": "retrospective_account",
+      "source_url": "https://dangshi.people.com.cn/n/2013/0419/c85037-21199538-2.html",
+      "locator": "文章“胡乔木与毛主席的结缘”部分关于《六大以来》的段落",
+      "status": "verified",
+      "notes": "此处核实的是该回忆来源确实报告518篇，不代表该数字已成为无争议的版本目录统计。"
     }
   ],
   "limitations": [
