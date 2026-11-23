@@ -1,0 +1,123 @@
+{
+  "schema_version": 1,
+  "source": {
+    "original_path": "User-provided multi-speaker industry-research transcript, segment 00:00–06:45; rewritten analytical notes, not verbatim republication",
+    "original_record_date": "2026-11-24",
+    "migrated_at": "2026-11-24"
+  },
+  "research_status": "partial",
+  "independent_recheck": "partial",
+  "source_urls": [
+    {
+      "id": "S1",
+      "publisher": "香港交易所／优必选",
+      "title": "优必选2025年度业绩公告",
+      "published_at": "2026-03-31",
+      "accessed_at": "2026-11-24",
+      "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0331/2026033102607.pdf",
+      "source_type": "primary publication",
+      "locator": "第1页财务概要"
+    },
+    {
+      "id": "S2",
+      "publisher": "Proceedings of Machine Learning Research",
+      "title": "RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control",
+      "published_at": "2023-11",
+      "accessed_at": "2026-11-24",
+      "url": "https://proceedings.mlr.press/v229/zitkovich23a.html",
+      "source_type": "primary publication",
+      "locator": "摘要、方法及实验"
+    },
+    {
+      "id": "S3",
+      "publisher": "宇树科技",
+      "title": "Unitree H1 / H1-2 product page",
+      "published_at": null,
+      "accessed_at": "2026-11-24",
+      "url": "https://www.unitree.com/h1/",
+      "source_type": "primary publication",
+      "locator": "公开产品说明"
+    },
+    {
+      "id": "S4",
+      "publisher": "傅利叶智能",
+      "title": "GR-2 Introduction",
+      "published_at": null,
+      "accessed_at": "2026-11-24",
+      "url": "https://support-old.fftai.com/docs/GR-X-Humanoid-Robot/GR2/GR-2_Introduction/",
+      "source_type": "primary publication",
+      "locator": "公开技术文档"
+    },
+    {
+      "id": "S5",
+      "publisher": "智元机器人",
+      "title": "智元远征A1产品介绍",
+      "published_at": null,
+      "accessed_at": "2026-11-24",
+      "url": "https://www.agibot.com/product/169/detail/1.html",
+      "source_type": "primary publication",
+      "locator": "官网产品规格与技术描述"
+    },
+    {
+      "id": "S6",
+      "publisher": "优必选",
+      "title": "Company Profile",
+      "published_at": null,
+      "accessed_at": "2026-11-24",
+      "url": "https://www.ubtrobot.com/en/about/company-profile",
+      "source_type": "primary publication",
+      "locator": "官网工业应用产品说明"
+    }
+  ],
+  "claims": [
+    {
+      "id": "C01",
+      "claim": "优必选2025年营业收入20.01亿元，全尺寸具身智能人形机器人业务收入8.206亿元，全年亏损7.898亿元",
+      "source_ids": [
+        "S1"
+      ],
+      "status": "verified",
+      "notes": "企业披露数据，不能跨公司直接推导市场排名"
+    },
+    {
+      "id": "C02",
+      "claim": "RT-2论文将视觉语言模型用于动作输出，提出VLA模型实现路径",
+      "source_ids": [
+        "S2"
+      ],
+      "status": "verified",
+      "notes": "论文提出的方法，不等于所有商业机器人的实现"
+    },
+    {
+      "id": "C03",
+      "claim": "宇树、智元、傅利叶、优必选公开产品分别呈现不同侧重",
+      "source_ids": [
+        "S1",
+        "S3",
+        "S4",
+        "S5",
+        "S6"
+      ],
+      "status": "derived",
+      "notes": "基于特定官网样本的比较框架，非全行业排名"
+    },
+    {
+      "id": "C04",
+      "claim": "企业招聘相关算法岗位可以准确预测后续商业产品成功",
+      "source_ids": [],
+      "status": "unverified",
+      "notes": "招聘仅是线索，不构成产品性能或出货结果证据"
+    },
+    {
+      "id": "C05",
+      "claim": "四家公司足以构成完整的人形机器人产业图谱",
+      "source_ids": [],
+      "status": "unverified",
+      "notes": "示范性抽样，不代表穷尽全部企业"
+    }
+  ],
+  "unverified_claims": [
+    "人才流动、在职个人信息及实时职位缺少系统核查，不披露私人名单",
+    "2026 年行业总出货量、市场份额及企业量产绝对排名未独立验证"
+  ]
+}

@@ -1,0 +1,196 @@
+{
+  "schema_version": 1,
+  "source": {
+    "original_path": "User-provided multi-speaker commentary, segment 21:09–25:29; transcript ends mid-sentence; analytically rewritten without republication",
+    "original_record_date": "2026-11-24",
+    "migrated_at": "2026-11-24"
+  },
+  "research_status": "partial",
+  "independent_recheck": "partial",
+  "source_urls": [
+    {
+      "id": "S1",
+      "publisher": "联合资信评估股份有限公司",
+      "title": "将珠海华发集团主体及债项列入负面观察名单的公告",
+      "published_at": "2026-11-04",
+      "accessed_at": "2026-11-24",
+      "url": "https://static.cninfo.com.cn/finalpage/2026-11-04/1225658466.PDF",
+      "locator": "负面观察决定、评级级别及三季报摘录",
+      "source_type": "official rating announcement"
+    },
+    {
+      "id": "S2",
+      "publisher": "联合资信评估股份有限公司",
+      "title": "珠海华发集团信用跟踪分析",
+      "published_at": "2026-11-10",
+      "accessed_at": "2026-11-24",
+      "url": "https://www.lhratings.com/uploads/file/20261111/g5116cbe293_202611110958456af3cbd52e190.pdf",
+      "locator": "2026年前三季度营业总收入、利润总额、现金流与资产负债率",
+      "source_type": "rating agency follow-up"
+    },
+    {
+      "id": "S3",
+      "publisher": "珠海华发投资控股集团有限公司",
+      "title": "关于出售转让资产及子公司股权质押的公告",
+      "published_at": "2026-10-29",
+      "accessed_at": "2026-11-24",
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-29/1225645851.PDF",
+      "locator": "拟转让铧创投资控股80%股权，对价合计45.70亿元",
+      "source_type": "issuer corporate filing"
+    },
+    {
+      "id": "S4",
+      "publisher": "珠海珠免集团股份有限公司",
+      "title": "控股股东及子公司股权结构变动的进展公告",
+      "published_at": "2026-11-12",
+      "accessed_at": "2026-11-24",
+      "url": "https://epaper.cs.com.cn/zgzqb/html/2026-11/12/nw.D110000zgzqb_20261112_4-B037.htm",
+      "locator": "海投公司96.28%股权转让的进展及条件",
+      "source_type": "issuer filing republished in designated newspaper"
+    },
+    {
+      "id": "S5",
+      "publisher": "珠海珠免集团股份有限公司",
+      "title": "收购报告书摘要",
+      "published_at": "2026-09-09",
+      "accessed_at": "2026-11-24",
+      "url": "https://static.cninfo.com.cn/finalpage/2026-09-09/1225554216.PDF",
+      "locator": "海投公司96.28%股权对应账面净值45.27亿元的框架作价",
+      "source_type": "official acquisition filing"
+    },
+    {
+      "id": "S6",
+      "publisher": "东方财富／新华社关联报道",
+      "title": "华发宣布兑付两笔公开债利息，业内称债市风险可控",
+      "published_at": "2026-11-02",
+      "accessed_at": "2026-11-24",
+      "url": "https://finance.eastmoney.com/a/202611023918993884.html",
+      "locator": "两笔公开债券付息公告、日期与利率；公告早于实际付息日",
+      "source_type": "contemporaneous finance reporting"
+    },
+    {
+      "id": "S7",
+      "publisher": "新浪财经市场资讯",
+      "title": "华发最新：逾期信托已兑付，但真正的考验才刚开始",
+      "published_at": "2026-11-04",
+      "accessed_at": "2026-11-24",
+      "url": "https://finance.sina.com.cn/roll/2026-11-04/doc-inixqxhu6619025.shtml",
+      "locator": "媒体称11月3日、4日公开债利息如期支付；非清算机构原始付款回执",
+      "source_type": "secondary reporting, independently unconfirmed settlement"
+    },
+    {
+      "id": "S8",
+      "publisher": "联合资信评估股份有限公司",
+      "title": "珠海华发综合发展有限公司主体与债项负面观察公告",
+      "published_at": "2026-11-12",
+      "accessed_at": "2026-11-24",
+      "url": "https://www.lhratings.com/uploads/file/20261113/20261113102803185449.pdf",
+      "locator": "华发综合作为不同实体的担保和外部支持结构",
+      "source_type": "rating agency report"
+    },
+    {
+      "id": "S9",
+      "publisher": "证券之星财经",
+      "title": "珠海华发，如何扰动债市定价？",
+      "published_at": "2026-11-19",
+      "accessed_at": "2026-11-24",
+      "url": "https://finance.stockstar.com/IG2026111900039922.shtml",
+      "locator": "集团层面资产负债率、融资市场变化等二次核验",
+      "source_type": "secondary market analysis"
+    }
+  ],
+  "claims": [
+    {
+      "id": "C01",
+      "claim": "联合资信2026年11月4日维持珠海华发集团AAA评级，同时将主体及相关债项列入负面观察名单",
+      "source_ids": [
+        "S1"
+      ],
+      "status": "verified",
+      "notes": "评级≠无风险，负面观察反映未来信用趋势的不确定性"
+    },
+    {
+      "id": "C02",
+      "claim": "华发集团2026年1—9月营业总收入1026.93亿元，利润总额-77.24亿元，经营活动净现金流-15亿元，资产负债率75.36%",
+      "source_ids": [
+        "S1",
+        "S2"
+      ],
+      "status": "verified",
+      "notes": "合并集团口径；利润总额不是净利润；比例为2026年9月末"
+    },
+    {
+      "id": "C03",
+      "claim": "华发投资控股拟转让铧创80%股权交易对价合计45.70亿元",
+      "source_ids": [
+        "S3"
+      ],
+      "status": "verified",
+      "notes": "公告为拟进行的交易，不证明全部价款已经到账；区分华发投资控股与母集团"
+    },
+    {
+      "id": "C04",
+      "claim": "海投公司96.28%股权框架作价45.27亿元",
+      "source_ids": [
+        "S4",
+        "S5"
+      ],
+      "status": "verified",
+      "notes": "框架协议作价，不应机械相加作为截至某日到账现金"
+    },
+    {
+      "id": "C05",
+      "claim": "两笔公开债各为10亿元，票息2.60%和2.90%，对应约2600万元与2900万元利息",
+      "source_ids": [
+        "S6"
+      ],
+      "status": "verified",
+      "notes": "基于公布的规模与年利率推算，应核对计息期是否整年"
+    },
+    {
+      "id": "C06",
+      "claim": "2026年11月3、4日两笔公开债实际完成利息支付",
+      "source_ids": [
+        "S7"
+      ],
+      "status": "partially_supported",
+      "notes": "媒体称已付，但未取得托管/登记结算机构资金划付原始回执"
+    },
+    {
+      "id": "C07",
+      "claim": "华发发生了所有公开债券的实质违约",
+      "source_ids": [
+        "S1",
+        "S7"
+      ],
+      "status": "refuted",
+      "notes": "检索到负面观察和按期付息报道，不能泛称所有债券违约"
+    },
+    {
+      "id": "C08",
+      "claim": "地方国资背景意味着国家或地方政府必然为全部企业债无条件兜底",
+      "source_ids": [],
+      "status": "unverified",
+      "notes": "没有法定或正式无条件保证文件；政府支持与法律保证不同"
+    },
+    {
+      "id": "C09",
+      "claim": "传言中的两笔信托逾期已逐笔独立核实",
+      "source_ids": [],
+      "status": "unverified",
+      "notes": "仅有二次报道与市场传言，缺信托公告、偿付通知及资金凭证"
+    },
+    {
+      "id": "C10",
+      "claim": "集团债券市场二级交易折价可直接代表债务回收率",
+      "source_ids": [],
+      "status": "unverified",
+      "notes": "价格包含流动性、风险偏好、持仓结构与交易深度，不能直接等同违约清偿率"
+    }
+  ],
+  "unverified_claims": [
+    "该文字材料在25:29处截断，不对未出现的结局补写原作者主张",
+    "信托兑付、非标贷款展期和成交价大跌等网传细节未获得逐项完整原始合同/结算凭证",
+    "资产交易约定价格不等于现金到账，需审计成交条件及资金流；集团与旗下上市企业独立核算"
+  ]
+}

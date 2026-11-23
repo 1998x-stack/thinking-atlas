@@ -386,5 +386,86 @@
       "src": "assets/mechanism.svg",
       "caption": "流动性冲击与被迫出售机制示意图；非实证统计数据"
     }
+  },
+  {
+    "slug": "industry-mapping-for-recruiters",
+    "title": "猎头如何快速研究陌生行业：人形机器人产业与人才地图",
+    "subtitle": "从岗位交付要求出发，建立产业链、技术路线、企业档案、人才技能矩阵和核验机制。",
+    "category": "methods",
+    "topic": "evidence-models",
+    "status": "published",
+    "research_status": "partial",
+    "published": "2026-11-24",
+    "updated": "2026-11-24",
+    "original_source_date": "2026-11-24",
+    "reading_minutes": 14,
+    "tags": [
+      "行业研究",
+      "猎头",
+      "人形机器人",
+      "具身智能",
+      "人才地图",
+      "方法论"
+    ],
+    "summary": "以人形机器人为例，展示岗位职责倒推、技术与公司比较、证据等级、公开招聘线索与可更新知识地图的完整工作流。",
+    "source_path": "posts/methods/industry-mapping-for-recruiters/source.md",
+    "cover": {
+      "src": "assets/mechanism.svg",
+      "caption": "行业知识图谱六层关系的概念示意；非市场份额或人才统计"
+    }
+  },
+  {
+    "slug": "nvidia-congress-accountability-2026",
+    "title": "英伟达与美国国会问责：把政治叙事还原成可核验的事件链",
+    "subtitle": "用国会文件、SEC备案和白宫政策，区分时间线、调查程序、关税、能源价格与历史隐喻。",
+    "category": "institutions",
+    "topic": "institutional-design",
+    "status": "published",
+    "research_status": "partial",
+    "published": "2026-11-24",
+    "updated": "2026-11-24",
+    "original_source_date": "2026-11-24",
+    "reading_minutes": 16,
+    "tags": [
+      "英伟达",
+      "美国国会",
+      "出口管制",
+      "政治经济学",
+      "证据核验",
+      "叙事审计"
+    ],
+    "summary": "重建2026年11月英伟达与国会事件；核验黄仁勋辞任与复任、芯片关税及PJM容量价，反驳把调查和政治类比当作定罪证据。",
+    "source_path": "posts/institutions/nvidia-congress-accountability-2026/source.md",
+    "cover": {
+      "src": "assets/mechanism.svg",
+      "caption": "调查程序与证据标准分层图；不代表案件证据或结论"
+    }
+  },
+  {
+    "slug": "huafa-liquidity-credit-2026",
+    "title": "珠海华发信用震荡：付息5500万元之后，还要看哪三本账？",
+    "subtitle": "从公开债付息、股权交易到集团利润现金流和负面评级观察，分析地方国企的流动性风险。",
+    "category": "economics",
+    "topic": "asset-pricing",
+    "status": "published",
+    "research_status": "partial",
+    "published": "2026-11-24",
+    "updated": "2026-11-24",
+    "original_source_date": "2026-11-24",
+    "reading_minutes": 15,
+    "tags": [
+      "珠海华发",
+      "地方国企",
+      "信用债",
+      "再融资",
+      "资产处置",
+      "政府支持"
+    ],
+    "summary": "对照华发集团评级报告、前三季业绩、付息公告及资产转让文件；区分当期付息、资产交易价格、现金到账和无条件政府担保。",
+    "source_path": "posts/economics/huafa-liquidity-credit-2026/source.md",
+    "cover": {
+      "src": "assets/mechanism.svg",
+      "caption": "经营现金、资产处置与再融资的流动性机制示意；非实际资金流数据"
+    }
   }
 ]
