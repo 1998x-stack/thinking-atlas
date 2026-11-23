@@ -747,5 +747,32 @@
       "src": "assets/mechanism.svg",
       "caption": "债务置换改变债务形式、利率和期限，不等于债务本金自动消失"
     }
+  },
+  {
+    "slug": "one-person-department",
+    "title": "一个人，一个新部门：直接向大领导汇报，究竟是机会还是陷阱？",
+    "subtitle": "以胡乔木历史案例和组织社会化研究为参照，拆解新部门的授权、交付、关系网络与90天建设路径。",
+    "category": "institutions",
+    "topic": "institutional-design",
+    "status": "published",
+    "research_status": "partial",
+    "published": "2026-11-24",
+    "updated": "2026-11-24",
+    "original_source_date": "2026-11-17",
+    "reading_minutes": 20,
+    "tags": [
+      "职场",
+      "向上管理",
+      "新部门",
+      "角色清晰度",
+      "组织设计",
+      "胡乔木"
+    ],
+    "summary": "校招新人独自负责新部门，直属大领导并不自动等于资源和授权。本文考证胡乔木案例，结合组织社会化元分析，给出岗位章程、90天计划、汇报模板和风险识别方法。",
+    "source_path": "posts/institutions/one-person-department/source.md",
+    "cover": {
+      "src": "assets/mechanism.svg",
+      "caption": "历史案例与现代新部门建设的机制示意；非实证数据"
+    }
   }
 ]
