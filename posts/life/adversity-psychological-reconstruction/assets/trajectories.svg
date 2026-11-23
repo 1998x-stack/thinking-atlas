@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 430" role="img" aria-labelledby="trajectory-title trajectory-desc">
+<title id="trajectory-title">重大压力后的四种概念性适应轨迹</title>
+<desc id="trajectory-desc">横轴为事件发生后的时间，纵轴为心理与日常功能水平。四条概念曲线分别表示相对稳定、逐渐恢复、持续困扰和延迟反应。曲线没有真实数据点，不用于预测个体。</desc>
+<rect x="1" y="1" width="918" height="428" rx="18" fill="#fbfcf9" stroke="#dce5df"/>
+<text x="34" y="38" font-family="sans-serif" font-size="13" letter-spacing="2" fill="#6d827a">ILLUSTRATIVE TRAJECTORIES · NOT FITTED DATA</text>
+<g stroke="#dce5df" stroke-width="1">
+<path d="M112 92H850M112 168H850M112 244H850M112 320H850" stroke-dasharray="4 6"/>
+</g>
+<g stroke="#617a75" stroke-width="2" fill="none">
+<path d="M112 75V345H858"/>
+</g>
+<g font-family="sans-serif" fill="#5f7771">
+<text x="42" y="86" font-size="13">较高</text>
+<text x="42" y="338" font-size="13">较低</text>
+<text x="115" y="376" font-size="13">事件发生</text>
+<text x="483" y="405" font-size="13" text-anchor="middle">事件发生后的时间 →</text>
+<text x="25" y="218" font-size="13" transform="rotate(-90 25 218)" text-anchor="middle">心理与日常功能水平</text>
+</g>
+<path d="M220 74V345" stroke="#b97657" stroke-width="1.8" stroke-dasharray="6 6"/>
+<text x="232" y="94" font-family="sans-serif" font-size="12" fill="#9b6348">重大事件</text>
+<g fill="none" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+<path d="M112 142C160 142 183 140 220 142S410 144 510 142S710 141 845 142" stroke="#277a73"/>
+<path d="M112 142C160 142 184 148 220 272C280 310 350 270 410 228C500 175 580 146 680 142S790 142 845 142" stroke="#bd8155"/>
+<path d="M112 142C160 142 184 150 220 275C300 298 420 300 520 300S720 300 845 300" stroke="#786aa9"/>
+<path d="M112 142C160 142 184 142 220 142S390 142 480 148C560 152 585 232 630 260S760 282 845 286" stroke="#6b8db4"/>
+</g>
+<g font-family="sans-serif" font-size="14" font-weight="700">
+<text x="690" y="125" fill="#277a73">相对稳定</text>
+<text x="650" y="174" fill="#bd8155">逐渐恢复</text>
+<text x="650" y="325" fill="#786aa9">持续困扰</text>
+<text x="650" y="270" fill="#6b8db4">延迟反应</text>
+</g>
+<text x="35" y="414" font-family="sans-serif" font-size="11" fill="#80918b">示意曲线用于解释群体研究中可能识别的模式；不是样本统计、诊断工具或个人预后。</text>
+</svg>
