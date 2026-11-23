@@ -23,7 +23,7 @@
     "slug": "history",
     "title": "历史机制",
     "english": "Historical Mechanisms",
-    "description": "以原始记载为界，分析政治承诺、财政改革与历史比较。",
+    "description": "以原始记载为界，分析政治承诺、军事组织、战争社会与财政改革。",
     "topics": [
       {
         "slug": "credible-commitment",
@@ -32,6 +32,14 @@
       {
         "slug": "fiscal-reforms",
         "title": "财政改革比较"
+      },
+      {
+        "slug": "military-organization",
+        "title": "军事组织与干部训练"
+      },
+      {
+        "slug": "wartime-civil-military-relations",
+        "title": "战争社会与军民关系"
       }
     ]
   },

@@ -1,0 +1,129 @@
+{
+  "schema_version": 1,
+  "source": {
+    "original_path": "user-provided excerpt in conversation",
+    "original_source_url": null,
+    "original_publication_date": "unknown",
+    "notes": "用户提供两段有关白求恩、聂荣臻和树叶训令的摘录，第二段未提供可定位的原始答案URL。"
+  },
+  "research_status": "partial",
+  "independent_recheck": "targeted_memoir_quotation_and_official_history_review_2026-11-24",
+  "checked_at": "2026-11-24",
+  "source_urls": [
+    "https://dangshi.people.com.cn/n1/2020/0106/c85037-31535479.html",
+    "https://www.tjjw.gov.cn/lswh/2025/07/30/detail_2025073086398.html",
+    "https://wenhui.whb.cn/third/jinri/201912/11/308125.html",
+    "https://cnki.istiz.org.cn/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFD2024&filename=DSZL202412013",
+    "https://cpc.people.com.cn/n1/2025/0809/c443712-40539162.html"
+  ],
+  "claims": [
+    {
+      "id": "L-001",
+      "claim": "1942年春晋察冀根据地遭遇春荒，群众和部队发生粮荒，树叶成为重要口粮。",
+      "kind": "memoir_quotation",
+      "source_url": "https://www.tjjw.gov.cn/lswh/2025/07/30/detail_2025073086398.html",
+      "locator": "中央纪委国家监委网站，2025-07-30，转引聂荣臻回忆录",
+      "status": "verified",
+      "notes": "核验到回忆录引文和后出官方文章；没有独立量化粮荒程度。"
+    },
+    {
+      "id": "L-002",
+      "claim": "聂荣臻要求军区政治部发训令，禁止部队伙食单位在村庄附近采摘杨树叶、榆树叶，把树叶留给群众。",
+      "kind": "memoir_quotation",
+      "source_url": "https://dangshi.people.com.cn/n1/2020/0106/c85037-31535479.html",
+      "locator": "人民网党史频道文章引用聂荣臻回忆录",
+      "status": "verified",
+      "notes": "核心训令内容由回忆录引文支持；当前未取得训令原件影印件。"
+    },
+    {
+      "id": "L-003",
+      "claim": "训令规定村庄方圆15里以内的树叶全部让给群众。",
+      "kind": "later_detail",
+      "source_url": "https://www.tjjw.gov.cn/lswh/2025/07/30/detail_2025073086398.html",
+      "locator": "中央纪委国家监委网站文章正文",
+      "status": "unverified",
+      "notes": "后出文章载有15里细节，但可见的回忆录引文仅称村庄附近；原始训令具体边界未核。"
+    },
+    {
+      "id": "L-004",
+      "claim": "1942年各部队通过节粮计划节约出14万斤粮食用于救济受灾百姓。",
+      "kind": "reported_statistic",
+      "source_url": "https://dangshi.people.com.cn/n1/2020/0106/c85037-31535479.html",
+      "locator": "人民网党史频道文章；中央纪委国家监委网站亦重复该数字",
+      "status": "verified",
+      "notes": "已核实后出官方文章如此报告；尚未取得原始粮食统计账册，不能称为独立审计。"
+    },
+    {
+      "id": "L-005",
+      "claim": "白求恩于1938年6月17日抵达晋察冀军区所在地，并于1939年11月12日去世。",
+      "kind": "biographical_memoir",
+      "source_url": "https://wenhui.whb.cn/third/jinri/201912/11/308125.html",
+      "locator": "聂力回忆文章第17—29行附近",
+      "status": "verified",
+      "notes": "回忆文章明确记载到达和去世日期。"
+    },
+    {
+      "id": "L-006",
+      "claim": "聂荣臻曾为白求恩安排加菜和会烤面包的师傅；白求恩拒绝特殊待遇，要求与八路军战士同等待遇；聂荣臻本人吃小米饭配咸菜。",
+      "kind": "retrospective_memoir",
+      "source_url": "https://wenhui.whb.cn/third/jinri/201912/11/308125.html",
+      "locator": "聂力回忆文章及其转引三团团长纪亭榭回忆",
+      "status": "verified",
+      "notes": "核验的是回忆者所叙述的内容，不将对话视为现场逐字记录。"
+    },
+    {
+      "id": "L-007",
+      "claim": "白求恩每顿只吃面包牛奶、聂荣臻躲起来吃饭、白求恩推门发现红薯和玉米稀饭的完整情节。",
+      "kind": "viral_anecdote",
+      "source_url": null,
+      "locator": "用户提供摘录；未找到对应原始回忆、档案或可定位文章",
+      "status": "unverified",
+      "notes": "现有聂力回忆文章细节与此版本不同；不将其写成已证实事实。"
+    },
+    {
+      "id": "L-008",
+      "claim": "白求恩不可能亲历1942年春树叶训令，因为他于1939年11月12日去世。",
+      "kind": "chronological_inference",
+      "source_url": "https://wenhui.whb.cn/third/jinri/201912/11/308125.html",
+      "locator": "白求恩到达和去世日期，与1942年训令资料对照",
+      "status": "derived",
+      "notes": "由可核时间线直接推出。"
+    },
+    {
+      "id": "L-009",
+      "claim": "军队主动限制近村采叶、承担更远采集成本，可能强化群众对纪律的信任。",
+      "kind": "analytical_inference",
+      "source_url": "https://dangshi.people.com.cn/n1/2020/0106/c85037-31535479.html",
+      "locator": "训令、村民回应和节粮叙述",
+      "status": "derived",
+      "notes": "合理的机制解释；单一回忆案例不足以识别训令的独立因果效应。"
+    },
+    {
+      "id": "L-010",
+      "claim": "树叶训令证明晋察冀根据地没有发生饥饿死亡、所有单位都完全执行或所有军民关系都融洽。",
+      "kind": "overgeneralization",
+      "source_url": null,
+      "locator": "未找到支持此类全称判断的同期人口、粮食或部队执行档案",
+      "status": "unverified",
+      "notes": "不能由一项训令和后出纪念文章推出全地区、全单位结论。"
+    },
+    {
+      "id": "L-011",
+      "claim": "SVG所示稀缺资源、纪律与互助关系是解释性概念图。",
+      "kind": "diagram",
+      "source_url": null,
+      "locator": "本文章原创SVG",
+      "status": "illustrative",
+      "notes": "不表示因果效应或统计关系。"
+    }
+  ],
+  "limitations": [
+    "未取得1942年树叶训令原件影印件及其完整附件。",
+    "《聂荣臻回忆录》具体版本与页码尚未确认，当前主要通过后出官方文章转引。",
+    "15里范围和14万斤节粮数字未找到原始训令或同期统计账册。",
+    "白求恩故事来自多年后的回忆文章，不能将引语视为逐字现场记录。",
+    "用户摘录中的牛奶、红薯、玉米稀饭、躲起来吃饭及配图出处均未独立核实。",
+    "未取得1942年县级人口、粮食、救济和死亡数据，不能评估整个地区饥荒的量化影响。"
+  ],
+  "next_action": "获取聂荣臻回忆录原版页码、1942年训令影印件、同期报纸与节粮账册，并追溯15里和14万斤数字的最早出处。"
+}
