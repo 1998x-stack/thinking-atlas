@@ -1,5 +1,30 @@
 [
   {
+    "slug": "liaoshen-strategic-decisions",
+    "title": "辽沈战役：锦州决策、长春围困与战略指挥的真实博弈",
+    "subtitle": "从1948年电报与战场交通约束出发，厘清战略分歧、跨战区协同以及长春围困的平民代价。",
+    "category": "history",
+    "topic": "military-decision-making",
+    "status": "published",
+    "research_status": "partial",
+    "published": "2026-11-24",
+    "updated": "2026-11-24",
+    "original_source_date": "unknown",
+    "reading_minutes": 25,
+    "tags": [
+      "辽沈战役",
+      "锦州",
+      "长春围困",
+      "战略决策",
+      "史料核验"
+    ],
+    "summary": "以中央军委电报、外交档案和史学研究交叉核验1948年辽沈战役的指挥争论、人道后果与国际因素；纠正口播稿中的重要误述。",
+    "cover": {
+      "src": "assets/mechanism.svg",
+      "caption": "东北三城交通与攻锦争议的概念图，非比例地图"
+    }
+  },
+  {
     "slug": "labor-dispatch",
     "title": "中国劳务派遣：三方用工中的控制权、成本与责任",
     "subtitle": "对照法律条文与个案，辨别用工控制权、劳动合同责任和真实外包的界线。",

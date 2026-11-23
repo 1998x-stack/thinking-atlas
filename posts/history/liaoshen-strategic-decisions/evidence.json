@@ -1,0 +1,332 @@
+{
+  "schema_version": 1,
+  "research_status": "partial",
+  "source": {
+    "original_path": "user-provided Liaoshen campaign narration transcript (not stored in public repository)",
+    "original_record_date": "not specified",
+    "migrated_at": "2026-11-24",
+    "transformation": "independently researched synthesis, not verbatim transcript"
+  },
+  "independent_recheck": "targeted_cross_source_check_2026-11-24",
+  "checked_at": "2026-11-24",
+  "source_urls": [
+    "https://www.81.mil.cn/2018byzt/2018-07/31/content_9238264.htm",
+    "https://www.dswxyjy.org.cn/BIG5/n/2015/0408/c244514-26815256.html",
+    "https://www.ssmzd.com/content/645546/50/12851035.html",
+    "https://www.ssmzd.com/content/645546/50/12851032.html",
+    "https://www.dswxyjy.org.cn/n1/2019/0625/c219021-31192843.html",
+    "https://cpc.people.com.cn/GB/64162/64164/4416006.html",
+    "https://history.state.gov/historicaldocuments/frus1948v07/d314",
+    "https://toaj.stpi.niar.org.tw/index/journal/volume/article/4b1141f98ca700b2018ca91c5d600034",
+    "https://news.enorth.com.cn/system/2011/04/22/006418757.shtml",
+    "https://history.state.gov/historicaldocuments/frus1948v08/d180",
+    "https://history.state.gov/historicaldocuments/frus1948v08/d159",
+    "https://cpc.people.com.cn/n1/2023/0917/c443712-40079365.html",
+    "https://www.hbdsw.org.cn/tbgz/dsxxjy/dszs/202105/t4589360.shtml",
+    "https://www.81.cn/js_208592/10026091.html",
+    "https://dangshi.people.com.cn/n1/2016/0715/c85037-28556435.html"
+  ],
+  "sources": [
+    {
+      "id": "S01",
+      "title": "中国军网：《辽沈战役（1948年）》",
+      "url": "https://www.81.mil.cn/2018byzt/2018-07/31/content_9238264.htm",
+      "accessed_at": "2026-11-24",
+      "type": "secondary_or_institutional_synthesis"
+    },
+    {
+      "id": "S02",
+      "title": "中央党史和文献研究院：林彪为何徘徊于攻长春和南下之间",
+      "url": "https://www.dswxyjy.org.cn/BIG5/n/2015/0408/c244514-26815256.html",
+      "accessed_at": "2026-11-24",
+      "type": "secondary_or_institutional_synthesis"
+    },
+    {
+      "id": "S03",
+      "title": "韶山毛泽东同志纪念馆：《力争于十天内外攻取锦州》（1948-10-03电报）",
+      "url": "https://www.ssmzd.com/content/645546/50/12851035.html",
+      "accessed_at": "2026-11-24",
+      "type": "published_primary_document"
+    },
+    {
+      "id": "S04",
+      "title": "韶山毛泽东同志纪念馆：《把作战重点放在锦州锦西方面是正确的》（1948-10-04电报）",
+      "url": "https://www.ssmzd.com/content/645546/50/12851032.html",
+      "accessed_at": "2026-11-24",
+      "type": "published_primary_document"
+    },
+    {
+      "id": "S05",
+      "title": "中央党史和文献研究院：《解放战争时期南渡长江计划的提出与演变》",
+      "url": "https://www.dswxyjy.org.cn/n1/2019/0625/c219021-31192843.html",
+      "accessed_at": "2026-11-24",
+      "type": "secondary_or_institutional_synthesis"
+    },
+    {
+      "id": "S06",
+      "title": "中共党史大事记·1948年",
+      "url": "https://cpc.people.com.cn/GB/64162/64164/4416006.html",
+      "accessed_at": "2026-11-24",
+      "type": "secondary_or_institutional_synthesis"
+    },
+    {
+      "id": "S07",
+      "title": "美国国务院FRUS 1948卷VII，第314件：驻沈阳领事1948-08-11电报",
+      "url": "https://history.state.gov/historicaldocuments/frus1948v07/d314",
+      "accessed_at": "2026-11-24",
+      "type": "published_primary_document"
+    },
+    {
+      "id": "S08",
+      "title": "许浩：《1948年长春战役——以国民党政府为中心的考察》学术论文摘要",
+      "url": "https://toaj.stpi.niar.org.tw/index/journal/volume/article/4b1141f98ca700b2018ca91c5d600034",
+      "accessed_at": "2026-11-24",
+      "type": "academic_research"
+    },
+    {
+      "id": "S09",
+      "title": "罗荣桓《关于围困长春的报告》转录（北方网，非档案影印）",
+      "url": "https://news.enorth.com.cn/system/2011/04/22/006418757.shtml",
+      "accessed_at": "2026-11-24",
+      "type": "secondary_transcription"
+    },
+    {
+      "id": "S10",
+      "title": "美国国务院FRUS 1948卷VIII，第180件：1948年10月20日杜鲁门信函",
+      "url": "https://history.state.gov/historicaldocuments/frus1948v08/d180",
+      "accessed_at": "2026-11-24",
+      "type": "published_primary_document"
+    },
+    {
+      "id": "S11",
+      "title": "美国国务院FRUS 1948卷VIII，第159件：1948年11月12日致蒋介石复函",
+      "url": "https://history.state.gov/historicaldocuments/frus1948v08/d159",
+      "accessed_at": "2026-11-24",
+      "type": "published_primary_document"
+    },
+    {
+      "id": "S12",
+      "title": "济南战役始末：中国共产党新闻网",
+      "url": "https://cpc.people.com.cn/n1/2023/0917/c443712-40079365.html",
+      "accessed_at": "2026-11-24",
+      "type": "secondary_or_institutional_synthesis"
+    },
+    {
+      "id": "S13",
+      "title": "中共湖北省委党史研究室：《为什么辽沈战役必须攻占锦州》",
+      "url": "https://www.hbdsw.org.cn/tbgz/dsxxjy/dszs/202105/t4589360.shtml",
+      "accessed_at": "2026-11-24",
+      "type": "secondary_or_institutional_synthesis"
+    },
+    {
+      "id": "S14",
+      "title": "中国军网：《扼住咽喉：东北野战军攻占锦州之决策》",
+      "url": "https://www.81.cn/js_208592/10026091.html",
+      "accessed_at": "2026-11-24",
+      "type": "secondary_or_institutional_synthesis"
+    },
+    {
+      "id": "S15",
+      "title": "中国共产党新闻网：《豫东战役：粟裕斗胆直陈战中原》",
+      "url": "https://dangshi.people.com.cn/n1/2016/0715/c85037-28556435.html",
+      "accessed_at": "2026-11-24",
+      "type": "secondary_or_institutional_synthesis"
+    }
+  ],
+  "verified_claims": [
+    {
+      "id": "LS-001",
+      "claim": "辽沈战役1948-09-12开始，1948-11-02结束，历时52天",
+      "status": "SUPPORTED",
+      "source_ids": [
+        "S01",
+        "S06"
+      ],
+      "scope": "战役时段",
+      "limitations": "此处52天使用战史通行口径",
+      "polarity": "support"
+    },
+    {
+      "id": "LS-002",
+      "claim": "东北冬季攻势属于1947年末至1948年3月，不是1944年",
+      "status": "SUPPORTED",
+      "source_ids": [
+        "S01",
+        "S14"
+      ],
+      "scope": "时间纠错",
+      "limitations": "不保证口播所有细节均对应相同战斗",
+      "polarity": "support"
+    },
+    {
+      "id": "LS-003",
+      "claim": "1948-02-07中央提出南下北宁路封闭东北国民党军陆退通道",
+      "status": "SUPPORTED",
+      "source_ids": [
+        "S01",
+        "S02"
+      ],
+      "scope": "战略预案",
+      "limitations": "中共中央文献研究机构后出编纂，需继续检索电报手稿",
+      "polarity": "support"
+    },
+    {
+      "id": "LS-004",
+      "claim": "1948-04-18林彪提议先取长春；4月22日中央表示同意",
+      "status": "SUPPORTED",
+      "source_ids": [
+        "S02"
+      ],
+      "scope": "方案流变",
+      "limitations": "研究性梳理引电报，需核对完整电报",
+      "polarity": "support"
+    },
+    {
+      "id": "LS-005",
+      "claim": "1948年5月下旬试攻长春后改长期围困，7月20—22日再转南下",
+      "status": "SUPPORTED",
+      "source_ids": [
+        "S02"
+      ],
+      "scope": "长春与锦州选择",
+      "limitations": "不同文献将正式封锁起点定为6月不同日期",
+      "polarity": "support"
+    },
+    {
+      "id": "LS-006",
+      "claim": "1948-10-03电报明确反对回师长春，1948-10-04确认集中锦州方向",
+      "status": "SUPPORTED",
+      "source_ids": [
+        "S03",
+        "S04"
+      ],
+      "scope": "关键电报",
+      "limitations": "引用出版文本，仍需注意编纂与摘选",
+      "polarity": "support"
+    },
+    {
+      "id": "LS-007",
+      "claim": "锦州是关内与东北间重要陆路交通节点，攻锦意在影响敌撤退通道",
+      "status": "SUPPORTED",
+      "source_ids": [
+        "S01",
+        "S13"
+      ],
+      "scope": "战略地理",
+      "limitations": "附图不是等比例地图",
+      "polarity": "support"
+    },
+    {
+      "id": "LS-008",
+      "claim": "1948年4月末粟裕赴阜平城南庄会议，提出暂缓渡江方案获采纳",
+      "status": "SUPPORTED",
+      "source_ids": [
+        "S05",
+        "S15"
+      ],
+      "scope": "地名与政策纠错",
+      "limitations": "研究引用年谱回忆录等，不等于全体内部意见都可验证",
+      "polarity": "support"
+    },
+    {
+      "id": "LS-009",
+      "claim": "济南战役约14万人攻城和18万人打援，不能把14万当总兵力",
+      "status": "SUPPORTED",
+      "source_ids": [
+        "S06",
+        "S12"
+      ],
+      "scope": "参战兵力统计口径",
+      "limitations": "数字来自战史编纂，需校正部队编成与后备",
+      "polarity": "support"
+    },
+    {
+      "id": "LS-010",
+      "claim": "1948-08-11美国领事记录长春平民严重缺粮和守军补给恶化",
+      "status": "SUPPORTED",
+      "source_ids": [
+        "S07"
+      ],
+      "scope": "同时期独立观察",
+      "limitations": "外交电报为领事观察，不是城内全体人口统计",
+      "polarity": "support"
+    },
+    {
+      "id": "LS-011",
+      "claim": "1948长春围困存在大量平民非正常死亡，国军粮政和封锁需同时分析",
+      "status": "SUPPORTED",
+      "source_ids": [
+        "S07",
+        "S08",
+        "S09"
+      ],
+      "scope": "人道后果",
+      "limitations": "论文摘要和报告转录不能推出精确死者总数",
+      "polarity": "support"
+    },
+    {
+      "id": "LS-012",
+      "claim": "《关于围困长春的报告》的媒体转录记载难民被拦与部分放行",
+      "status": "PARTIALLY_SUPPORTED",
+      "source_ids": [
+        "S09"
+      ],
+      "scope": "媒体所刊文本",
+      "limitations": "尚未从独立馆藏影印核对逐字准确性",
+      "polarity": "support"
+    },
+    {
+      "id": "LS-013",
+      "claim": "1948年10月20日杜鲁门要求加速对华军需交运，11月仍讨论军援",
+      "status": "SUPPORTED",
+      "source_ids": [
+        "S10",
+        "S11"
+      ],
+      "scope": "美援真实存在",
+      "limitations": "不等于军事援助足以逆转战争",
+      "polarity": "support"
+    },
+    {
+      "id": "LS-014",
+      "claim": "蒋介石用美国援助经费支持杜威竞选并交换保证",
+      "status": "UNVERIFIED",
+      "source_ids": [],
+      "scope": "针对口播材料的强指控",
+      "limitations": "本轮未找到可追溯交易记录、竞选财务、外交或私人档案",
+      "polarity": "no_corroboration"
+    },
+    {
+      "id": "LS-015",
+      "claim": "1948年3至9月东北军队完全无行动",
+      "status": "REFUTED",
+      "source_ids": [
+        "S02"
+      ],
+      "scope": "字面说法",
+      "limitations": "存在试攻、围困、演训等；是否延误不应混成未行动",
+      "polarity": "refute"
+    },
+    {
+      "id": "LS-016",
+      "claim": "毛泽东对前线只建议绝不命令，蒋介石只任用听话者",
+      "status": "UNVERIFIED",
+      "source_ids": [
+        "S03",
+        "S04"
+      ],
+      "scope": "人物/组织全称判断",
+      "limitations": "10月3日电报明确否决改计划，无法用数封电报推导心理动机",
+      "polarity": "mixed"
+    }
+  ],
+  "limitations": [
+    "未逐件获取和校勘所有1948年军委与战区电报的手稿/原档",
+    "长春平民伤亡的准确规模尚无统一统计口径，故刻意不写确定总数",
+    "S09媒体转录尚未逐字核实原件",
+    "关于杜威竞选资助的故事没有可核实交易证据",
+    "人物动机与反事实情景均不能由结果倒推",
+    "研究仍属partial，页面发布不代表全部论断均已核验"
+  ],
+  "next_action": "逐件档案核对：电报版本、长春难民与死亡登记、国府军需及美援/杜威竞选财务记录"
+}
