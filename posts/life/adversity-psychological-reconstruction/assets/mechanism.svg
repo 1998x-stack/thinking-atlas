@@ -9,29 +9,29 @@
 <g font-family="sans-serif">
 <rect x="35" y="83" width="164" height="122" rx="12" fill="#fff" stroke="#8fb6a6" stroke-width="2"/>
 <text x="117" y="119" text-anchor="middle" font-size="19" font-weight="700" fill="#1d4b4c">原有反馈</text>
-<text x="117" y="150" text-anchor="middle" font-size="13" fill="#607975">行动 → 结果</text>
-<text x="117" y="174" text-anchor="middle" font-size="12" fill="#607975">能力感 · 预期</text>
+<text x="117" y="150" text-anchor="middle" font-size="15" fill="#607975">行动 → 结果</text>
+<text x="117" y="174" text-anchor="middle" font-size="14" fill="#607975">能力感 · 预期</text>
 <path d="M202 144H235" stroke="#9b735b" stroke-width="2.5" fill="none" marker-end="url(#m-arrow)"/>
 <rect x="244" y="83" width="164" height="122" rx="12" fill="#fff" stroke="#d5a17f" stroke-width="2"/>
 <text x="326" y="119" text-anchor="middle" font-size="19" font-weight="700" fill="#794c39">重大冲击</text>
-<text x="326" y="150" text-anchor="middle" font-size="13" fill="#78675f">资源 · 关系</text>
-<text x="326" y="174" text-anchor="middle" font-size="12" fill="#78675f">角色 · 安全感</text>
+<text x="326" y="150" text-anchor="middle" font-size="15" fill="#78675f">资源 · 关系</text>
+<text x="326" y="174" text-anchor="middle" font-size="14" fill="#78675f">角色 · 安全感</text>
 <path d="M411 144H444" stroke="#9b735b" stroke-width="2.5" fill="none" marker-end="url(#m-arrow)"/>
 <rect x="453" y="83" width="164" height="122" rx="12" fill="#fff" stroke="#c3ad7d" stroke-width="2"/>
 <text x="535" y="119" text-anchor="middle" font-size="19" font-weight="700" fill="#6c572a">失控与震荡</text>
-<text x="535" y="150" text-anchor="middle" font-size="13" fill="#756b55">行动—结果脱节</text>
-<text x="535" y="174" text-anchor="middle" font-size="12" fill="#756b55">身份 · 预期变化</text>
+<text x="535" y="150" text-anchor="middle" font-size="15" fill="#756b55">行动—结果脱节</text>
+<text x="535" y="174" text-anchor="middle" font-size="14" fill="#756b55">身份 · 预期变化</text>
 <path d="M620 144H653" stroke="#9b735b" stroke-width="2.5" fill="none" marker-end="url(#m-arrow)"/>
 <rect x="662" y="83" width="145" height="122" rx="12" fill="#fff" stroke="#9b9ac6" stroke-width="2"/>
 <text x="734" y="119" text-anchor="middle" font-size="18" font-weight="700" fill="#514b83">适应轨迹</text>
-<text x="734" y="150" text-anchor="middle" font-size="12" fill="#686581">稳定 · 恢复</text>
-<text x="734" y="174" text-anchor="middle" font-size="12" fill="#686581">持续 · 延迟</text>
+<text x="734" y="150" text-anchor="middle" font-size="14" fill="#686581">稳定 · 恢复</text>
+<text x="734" y="174" text-anchor="middle" font-size="14" fill="#686581">持续 · 延迟</text>
 <path d="M810 144H841" stroke="#9b735b" stroke-width="2.5" fill="none" marker-end="url(#m-arrow)"/>
 <rect x="850" y="83" width="115" height="122" rx="12" fill="#dcebe1" stroke="#8fb6a6" stroke-width="2"/>
 <text x="907" y="119" text-anchor="middle" font-size="17" font-weight="700" fill="#1d4b4c">重建条件</text>
-<text x="907" y="150" text-anchor="middle" font-size="12" fill="#456d63">安全 · 支持</text>
-<text x="907" y="174" text-anchor="middle" font-size="12" fill="#456d63">行动 · 价值</text>
+<text x="907" y="150" text-anchor="middle" font-size="14" fill="#456d63">安全 · 支持</text>
+<text x="907" y="174" text-anchor="middle" font-size="14" fill="#456d63">行动 · 价值</text>
 <path d="M907 214V260H117V214" fill="none" stroke="#6f9990" stroke-width="2" stroke-dasharray="7 6" marker-end="url(#m-arrow)"/>
-<text x="511" y="287" text-anchor="middle" font-size="13" fill="#58776e">新的可控反馈逐步形成；现实资源与社会支持贯穿全程</text>
+<text x="511" y="287" text-anchor="middle" font-size="15" fill="#58776e">新的可控反馈逐步形成；现实资源与社会支持贯穿全程</text>
 </g>
 </svg>
