@@ -115,6 +115,15 @@
       "locator": "本文章原创SVG",
       "status": "illustrative",
       "notes": "不表示因果效应或统计关系。"
+    },
+    {
+      "id": "L-012",
+      "claim": "用户摘录所描述的白求恩剥红薯皮、喝玉米稀饭的照片能够对应到特定拍摄时间和历史场景。",
+      "kind": "image_provenance",
+      "source_url": null,
+      "locator": "用户提供的文字说明未附原始照片、摄影者、馆藏编号或拍摄时间",
+      "status": "unverified",
+      "notes": "不能仅凭文字说明确认照片内容、出处或拍摄时间。"
     }
   ],
   "limitations": [
