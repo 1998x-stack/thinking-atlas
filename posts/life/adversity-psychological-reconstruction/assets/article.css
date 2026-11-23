@@ -10,3 +10,4 @@
 @media(max-width:520px){
   .mobile-toc ol{columns:1}
 }
+.concept-figure picture{display:block;width:100%}
