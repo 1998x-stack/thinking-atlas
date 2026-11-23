@@ -14,7 +14,9 @@
 4. **交付**：什么结果能证明部门产生了价值；
 5. **反馈**：谁提供专业校准、优先级和阶段性评价。
 
-工作塑造（job crafting）理论认为，员工可以通过调整任务、认知和关系边界主动塑造工作；但这不意味着可以自行扩大授权或接管其他部门职责。更稳妥的做法是在使命和边界内提出小范围改进，并取得负责人确认。\n\n可以把它们记成一个概念性检查式：
+工作塑造（job crafting）理论认为，员工可以通过调整任务、认知和关系边界主动塑造工作；但这不意味着可以自行扩大授权或接管其他部门职责。更稳妥的做法是在使命和边界内提出小范围改进，并取得负责人确认。
+
+可以把它们记成一个概念性检查式：
 
 `岗位可持续性 ≈ 使命清晰度 × 决策权限 × 资源可得性 × 反馈质量`
 
@@ -276,7 +278,12 @@ Morrison（1993）对135名新入职会计人员进行了前六个月的信息�
 - Tubre & Collins (2000), *Jackson and Schuler (1985) Revisited*, Journal of Management. DOI: 10.1177/014920630002600104.
 - Morrison (1993), *Longitudinal Study of the Effects of Information Seeking on Newcomer Socialization*, Journal of Applied Psychology. DOI: 10.1037/0021-9010.78.2.173.
 - Wrzesniewski & Dutton (2001), *Crafting a Job*, Academy of Management Review. DOI: 10.5465/amr.2001.4378011.
-- Graen & Uhl-Bien (1995), *Relationship-Based Approach to Leadership*, The Leadership Quarterly. DOI: 10.1016/1048-9843(95)90036-5.\n\n### 补充史料入口\n\n- 延安大学人物资料：《胡乔木》，2024年。https://yau.edu.cn/info/1064/343117.htm\n- 人民网党史频道：《早年胡乔木》，2013年9月13日。https://dangshi.people.com.cn/n/2013/0913/c85037-22914915-5.html
+- Graen & Uhl-Bien (1995), *Relationship-Based Approach to Leadership*, The Leadership Quarterly. DOI: 10.1016/1048-9843(95)90036-5.
+
+### 补充史料入口
+
+- 延安大学人物资料：《胡乔木》，2024年。https://yau.edu.cn/info/1064/343117.htm
+- 人民网党史频道：《早年胡乔木》，2013年9月13日。https://dangshi.people.com.cn/n/2013/0913/c85037-22914915-5.html
 
 ---
 
