@@ -361,5 +361,57 @@
       "src": "assets/mechanism.svg",
       "caption": "流动性冲击与被迫出售机制示意图；非实证统计数据"
     }
+  },
+  {
+    "slug": "taiyue-command-training",
+    "title": "从扩军到能战：太岳根据地基层指挥能力的断层与补课",
+    "subtitle": "以关家垴柳树垴、1942年干部教育指示和太岳军政学校为线索，分析连排干部如何从战斗经验走向专业化指挥。",
+    "category": "history",
+    "topic": "military-organization",
+    "status": "draft",
+    "research_status": "partial",
+    "published": "2026-11-24",
+    "updated": "2026-11-24",
+    "reading_minutes": 18,
+    "tags": [
+      "太岳根据地",
+      "八路军",
+      "基层军官",
+      "抗大",
+      "军事教育",
+      "关家垴"
+    ],
+    "summary": "从柳树垴夜间换防失误、1942年中央军委干部教育指示与太岳军政学校，分析快速扩军如何造成基层指挥能力断层，以及训练、文化教育和实战反馈如何把个人经验转化为组织能力。",
+    "source_path": "posts/history/taiyue-command-training/source.md",
+    "cover": {
+      "src": "assets/mechanism.svg",
+      "caption": "任务转化、干部训练与战斗复盘的概念机制图；非实证统计数据"
+    }
+  },
+  {
+    "slug": "tree-leaf-order",
+    "title": "树叶训令：1942年晋察冀春荒中的军民资源分配与组织纪律",
+    "subtitle": "从聂荣臻回忆录、树叶训令和白求恩往事的时间线，区分可核史实、后世讲述与未经证实的网络细节。",
+    "category": "history",
+    "topic": "wartime-civil-military-relations",
+    "status": "draft",
+    "research_status": "partial",
+    "published": "2026-11-24",
+    "updated": "2026-11-24",
+    "reading_minutes": 13,
+    "tags": [
+      "晋察冀",
+      "聂荣臻",
+      "白求恩",
+      "树叶训令",
+      "军民关系",
+      "1942年"
+    ],
+    "summary": "以1942年晋察冀春荒中的树叶训令为中心，分析极端稀缺下军民资源分配、纪律约束、互助与政治信任；同时纠正白求恩故事与1942年事件的时间混淆。",
+    "source_path": "posts/history/tree-leaf-order/source.md",
+    "cover": {
+      "src": "assets/mechanism.svg",
+      "caption": "极端稀缺下的资源约束、纪律与互助机制；非实证统计数据"
+    }
   }
 ]

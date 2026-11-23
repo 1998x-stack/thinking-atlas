@@ -1,0 +1,254 @@
+{
+  "schema_version": 1,
+  "source": {
+    "original_path": "user-provided excerpt in conversation",
+    "original_source_url": "https://www.zhihu.com/question/266680247/answer/1970651494538785183",
+    "supplied_edit_date": "2025-11-10",
+    "original_publication_date": "unknown"
+  },
+  "research_status": "partial",
+  "independent_recheck": "targeted_primary_document_and_secondary_history_review_2026-11-24",
+  "checked_at": "2026-11-24",
+  "source_urls": [
+    "https://www.marxists.org/chinese/pdf/ccp/3/19.pdf",
+    "https://www.nids.mod.go.jp/publication/joint_research/series19/pdf/series19-1-4.pdf",
+    "https://m.krzzjn.com/show-607-27055.html",
+    "https://m.krzzjn.com/show-41-63615.html",
+    "https://m.krzzjn.com/show-1267-61825.html",
+    "https://m.krzzjn.com/show-607-11601_2.html",
+    "https://m.krzzjn.com/show-2798-126897.html",
+    "https://m.krzzjn.com/show-2690-126403.html",
+    "https://m.krzzjn.com/show-2678-126536.html",
+    "https://m.krzzjn.com/show-2691-126406.html",
+    "https://www.jcgov.gov.cn/dtxx/ztzl/2016nzt/sxsgmyztl/qsx/201310/t20131030_129674.shtml",
+    "https://wudongfeng.blog.caixin.com/archives/191495"
+  ],
+  "claims": [
+    {
+      "id": "T-001",
+      "claim": "1942年2月11日中央军委、总政治部干部教育第一号指示承认军事业务教育、文化教育及正规军事教育制度存在明显缺陷。",
+      "kind": "primary_document",
+      "source_url": "https://www.marxists.org/chinese/pdf/ccp/3/19.pdf",
+      "locator": "《建党以来重要文献选编》相关文件，页85—87",
+      "status": "verified",
+      "notes": "文件原文可查；此处核验的是文件确实作出该诊断，不将其自动等同于每支部队的实际水平。"
+    },
+    {
+      "id": "T-002",
+      "claim": "1942年第二号指示规定班长、副班长4—6个月、连排干部约1年、营团干部约1年半的分层培养安排，并列出战术、兵器、射击、工事、伪装、测绘、步炮协同、参谋工作等课程。",
+      "kind": "primary_document",
+      "source_url": "https://www.marxists.org/chinese/pdf/ccp/3/19.pdf",
+      "locator": "第二号《军事教育》，页88—95",
+      "status": "verified",
+      "notes": "课程规定不代表所有地区都按计划完整实施。"
+    },
+    {
+      "id": "T-003",
+      "claim": "抗大总校1942年2月22日欢送太岳大队赴太岳办学。",
+      "kind": "institutional_chronology",
+      "source_url": "https://m.krzzjn.com/show-2798-126897.html",
+      "locator": "《抗大大事记（1942年）》2月22日条",
+      "status": "verified",
+      "notes": "后出校史年表记录；尚未核对当日原始电报。"
+    },
+    {
+      "id": "T-004",
+      "claim": "太岳大队初期设五个学员队、约600—700人，学员大多数为连排干部。",
+      "kind": "secondary_history",
+      "source_url": "https://m.krzzjn.com/show-2690-126403.html",
+      "locator": "《革命熔炉：抗大太岳分校》正文",
+      "status": "unverified",
+      "notes": "后出校史整理记载约600—700人及连排干部占多数；原始学员名册未取得，精确人数尚未独立核验。"
+    },
+    {
+      "id": "T-005",
+      "claim": "1942年春太岳军区创办太岳陆军中学，陈赓兼任校长，军政训练与文化教育并重。",
+      "kind": "secondary_history",
+      "source_url": "https://m.krzzjn.com/show-2678-126536.html",
+      "locator": "《抗大总校及各分校情况简介》陆军中学与附设中学部分；并参见 https://m.krzzjn.com/show-2691-126406.html",
+      "status": "verified",
+      "notes": "两份校史整理相互印证基本沿革；未取得原始学员名册或校务档案。"
+    },
+    {
+      "id": "T-006",
+      "claim": "抗大太岳分校于1944年10月以太岳大队为基础组建。",
+      "kind": "institutional_history",
+      "source_url": "https://m.krzzjn.com/show-2678-126536.html",
+      "locator": "抗大太岳分校条目；晋城市政府旧址资料提供补充沿革",
+      "status": "verified",
+      "notes": "机构成立时间可由校史和地方政府旧址资料交叉支持。"
+    },
+    {
+      "id": "T-007",
+      "claim": "1940年6月前后第三八六旅辖772、16、17、18团，决死第一纵队另辖多个团。",
+      "kind": "order_of_battle",
+      "source_url": "https://m.krzzjn.com/show-607-27055.html",
+      "locator": "八路军第129师暨晋冀鲁豫边区部队序列",
+      "status": "verified",
+      "notes": "来源页面标注资料来自八路军太行纪念馆；需注意时间截面。"
+    },
+    {
+      "id": "T-008",
+      "claim": "1940年11月太岳反扫荡期间，第三八六旅第16、第772团及决死第一纵队第25、第38团赴太行未归，太岳区兵力薄弱。",
+      "kind": "military_history",
+      "source_url": "https://m.krzzjn.com/show-1267-61825.html",
+      "locator": "《中国抗日战争全史》第四编第二十五章第二节，太岳地区段",
+      "status": "verified",
+      "notes": "后出战史文本；说明特定时点兵力状况，不能泛化为整个抗战阶段只有772团。"
+    },
+    {
+      "id": "T-009",
+      "claim": "第二十五团于1940年1月由游击第一团和第三总队合编。",
+      "kind": "unit_history",
+      "source_url": "https://m.krzzjn.com/show-41-63615.html",
+      "locator": "《八路军一二九师的战斗历程（二）》关于1940年1月合编的记载",
+      "status": "verified",
+      "notes": "二手部队沿革资料；足以说明其前身并非单一新兵来源，不能据此推断每名士兵的实弹经历。"
+    },
+    {
+      "id": "T-010",
+      "claim": "柳树垴夜间换防时，第二十五团第二营被转引的回忆称未核验口令和番号，误把日军当作接防部队。",
+      "kind": "memoir_quotation",
+      "source_url": "https://m.krzzjn.com/show-607-11601_2.html",
+      "locator": "页面引用李懋之《二十五团在百团大战中经历的考验与锻炼》及《山西新军决死第一纵队回忆录》第567页",
+      "status": "verified",
+      "notes": "核验的是二手页面确实转引该回忆；尚未取得原书影印件和当日命令、日志。不能由此推出全营未打过实弹。"
+    },
+    {
+      "id": "T-011",
+      "claim": "日本陆军1922年前后演习暴露小部队计划粗疏、基层指挥判断不足、步炮协同和通信不足等问题。",
+      "kind": "military_research",
+      "source_url": "https://www.nids.mod.go.jp/publication/joint_research/series19/pdf/series19-1-4.pdf",
+      "locator": "日本防卫研究所研究，页78—80",
+      "status": "verified",
+      "notes": "基于日本防卫研究所对日军内部演习材料的研究。"
+    },
+    {
+      "id": "T-012",
+      "claim": "日本陆军1927年设立三所陆军教导学校以强化下士官培养，并同步推进操典和教育制度改革。",
+      "kind": "military_research",
+      "source_url": "https://www.nids.mod.go.jp/publication/joint_research/series19/pdf/series19-1-4.pdf",
+      "locator": "日本防卫研究所研究，页82—83",
+      "status": "verified",
+      "notes": "制度改革存在不等于每名士兵实际达到同等熟练度。"
+    },
+    {
+      "id": "T-013",
+      "claim": "日本陆军1940年步兵操典吸收了日中战争初期战斗经验，1937年小队编制与轻机枪、掷弹筒协同有所调整。",
+      "kind": "military_research",
+      "source_url": "https://www.nids.mod.go.jp/publication/joint_research/series19/pdf/series19-1-4.pdf",
+      "locator": "日本防卫研究所研究，页84—85",
+      "status": "verified",
+      "notes": "用于说明操典与组织编制更新，不证明每个日军单位均完整执行。"
+    },
+    {
+      "id": "T-014",
+      "claim": "1937年淞沪战场的中国军队在德国军事顾问协助下进行了周密准备，说明中国军队训练水平具有显著异质性。",
+      "kind": "comparative_evidence",
+      "source_url": "https://www.nids.mod.go.jp/publication/joint_research/series19/pdf/series19-1-4.pdf",
+      "locator": "日本防卫研究所研究，页84",
+      "status": "verified",
+      "notes": "该战场与太岳敌后部队的组织环境不同，不能直接替代对太岳部队的研究。"
+    },
+    {
+      "id": "T-015",
+      "claim": "任意一名日军老兵都能回答原文列举的全部连级地图、火力、工事、后勤和应变问题。",
+      "kind": "generalization",
+      "source_url": null,
+      "locator": "用户提供的知乎摘录；无独立数据集或比较标准",
+      "status": "unverified",
+      "notes": "把士兵、下士官、排连军官职责混为一谈，且缺乏可检验的样本与指标。"
+    },
+    {
+      "id": "T-016",
+      "claim": "关家垴柳树垴事件中的第二十五团第二营从未进行过实弹训练。",
+      "kind": "unit_training_claim",
+      "source_url": null,
+      "locator": "用户提供的知乎摘录；未找到训练记录、弹药账册或部队回忆支持",
+      "status": "unverified",
+      "notes": "不能由一次换防失误推断此前全部训练经历。"
+    },
+    {
+      "id": "T-017",
+      "claim": "向守志为研究打汽车方法试验五六次、数月摸索并因迫击炮和掷弹筒反击规律牺牲多名机枪手。",
+      "kind": "personal_memoir_claim",
+      "source_url": "https://wudongfeng.blog.caixin.com/archives/191495",
+      "locator": "财新博客回忆文章记载其机枪连经历与1938年战斗，但未见上述具体试验次数和伤亡细节",
+      "status": "unverified",
+      "notes": "现有来源只能支持其任机枪连连长并参加相关战斗，不能支持原文所述的具体试验过程。"
+    },
+    {
+      "id": "T-018",
+      "claim": "陈赓首次办教导队授课时因口音和学员文盲导致教学失败。",
+      "kind": "anecdote",
+      "source_url": null,
+      "locator": "用户提供的知乎摘录；未找到可定位的原始回忆或档案",
+      "status": "unverified",
+      "notes": "不得将戏剧化叙述作为历史事实。"
+    },
+    {
+      "id": "T-019",
+      "claim": "1947—1952年多位将领训练基层部队的具体轶事均按用户摘录所述发生。",
+      "kind": "anecdote_cluster",
+      "source_url": null,
+      "locator": "用户提供的知乎摘录；未逐条追溯原始出处",
+      "status": "unverified",
+      "notes": "本文未把这些后续轶事用于证明抗战时期的结论。"
+    },
+    {
+      "id": "T-020",
+      "claim": "基层指挥能力差距与训练制度、文化基础、教员供给、实战经验和组织反馈能力有关。",
+      "kind": "analytical_inference",
+      "source_url": "https://www.marxists.org/chinese/pdf/ccp/3/19.pdf",
+      "locator": "1942年干部教育第一号、第二号与日本防卫研究所关于下士官改革的研究",
+      "status": "derived",
+      "notes": "这是基于制度材料的解释性推论，不是对各军队战斗力的量化因果估计。"
+    },
+    {
+      "id": "T-021",
+      "claim": "SVG所示任务转化和组织学习闭环是帮助读者理解的概念机制。",
+      "kind": "diagram",
+      "source_url": null,
+      "locator": "本文章原创SVG",
+      "status": "illustrative",
+      "notes": "不表达实证测量或因果效应。"
+    },
+    {
+      "id": "T-022",
+      "claim": "太岳陆军中学初期学员约300余名。",
+      "kind": "secondary_history",
+      "source_url": "https://m.krzzjn.com/show-2678-126536.html",
+      "locator": "《抗大总校及各分校情况简介》陆军中学与附设中学部分",
+      "status": "unverified",
+      "notes": "后出校史整理有该人数记载，但尚未取得原始学员名册。"
+    },
+    {
+      "id": "T-023",
+      "claim": "1940年6月太岳军区成立，由第三八六旅兼军区。",
+      "kind": "institutional_history",
+      "source_url": "https://m.krzzjn.com/show-41-63615.html",
+      "locator": "《八路军一二九师的战斗历程（二）》关于1940年6月整编的记载",
+      "status": "verified",
+      "notes": "后出部队沿革资料记载；同页也列出第三八六旅772、16、17、18团的序列。"
+    },
+    {
+      "id": "T-024",
+      "claim": "1942年6月精兵简政后，太岳军区辖两个旅、四个军分区、七个团，第三八六旅辖772、16团，决死第一旅辖25、38团，另有分区基干团和营。",
+      "kind": "order_of_battle",
+      "source_url": "https://m.krzzjn.com/show-41-63615.html",
+      "locator": "《八路军一二九师的战斗历程（二）》1942年6月编制段",
+      "status": "verified",
+      "notes": "后出部队沿革资料记载的特定编制截面；用于反驳将“仅有772团”泛化为长期固定事实。"
+    }
+  ],
+  "limitations": [
+    "尚未取得《山西新军决死第一纵队回忆录》第567页原书影印件。",
+    "尚未取得太岳陆军中学原始校务档案、学员名册和课程表；学校人数来自后出校史整理。",
+    "太岳大队600—700人等数字尚未由原始名册独立复核。",
+    "未找到第二十五团第二营实弹训练记录；不得将训练不足写成确定事实。",
+    "没有可比较的中日基层军官技能测量数据，不能给出整体差距数值。",
+    "向守志五六次试验、陈赓口音教学轶事及1947—1952年后续训练轶事仍未核实。",
+    "日本防卫研究所论文可支持制度与训练改革分析，但不能证明每个日军单位的实际训练执行程度。"
+  ],
+  "next_action": "获取柳树垴原始回忆录、太岳学校档案与日军步兵操典原件；逐条追溯向守志及1947—1952年轶事。"
+}
