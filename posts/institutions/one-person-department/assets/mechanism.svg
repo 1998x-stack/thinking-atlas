@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 470" role="img" aria-labelledby="mechanism-title mechanism-desc">
+<title id="mechanism-title">历史案例与现代新部门建设的双路径机制图</title>
+<desc id="mechanism-desc">上方历史案例路径：既有积累、主动接手、系统编辑、信任与视野。下方现代岗位建设路径：使命与授权、小步交付、横向协作、制度化与评审。底部提示责任大于权限和资源会导致角色模糊与个人透支。两条路径只是机制比较，不代表历史岗位与现代企业部门等同。</desc>
+<defs>
+<marker id="hist-arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0 0L10 5L0 10Z" fill="#b47758"/></marker>
+<marker id="modern-arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0 0L10 5L0 10Z" fill="#397f79"/></marker>
+</defs>
+<rect width="900" height="470" rx="18" fill="#f4f6f0"/>
+<text x="46" y="42" font-family="sans-serif" font-size="20" font-weight="700" fill="#66756c" letter-spacing="1">TWO PATHS · A MECHANISM COMPARISON</text>
+<text x="48" y="88" font-family="sans-serif" font-size="27" font-weight="700" fill="#243e3d">历史案例：先有积累，再进入高密度任务</text>
+<path d="M210 164H260M420 164H470M630 164H680" fill="none" stroke="#b47758" stroke-width="4" marker-end="url(#hist-arrow)"/>
+<g font-family="sans-serif" text-anchor="middle">
+<rect x="48" y="116" width="162" height="98" rx="13" fill="#fff" stroke="#c89b7d" stroke-width="2"/>
+<text x="129" y="155" font-size="27" font-weight="700" fill="#304847">既有积累</text><text x="129" y="187" font-size="18" fill="#647873">编辑 / 组织经验</text>
+<rect x="258" y="116" width="162" height="98" rx="13" fill="#fff" stroke="#c89b7d" stroke-width="2"/>
+<text x="339" y="155" font-size="27" font-weight="700" fill="#304847">主动接手</text><text x="339" y="187" font-size="18" fill="#647873">发现真实任务</text>
+<rect x="468" y="116" width="162" height="98" rx="13" fill="#fff" stroke="#c89b7d" stroke-width="2"/>
+<text x="549" y="155" font-size="27" font-weight="700" fill="#304847">系统编辑</text><text x="549" y="187" font-size="18" fill="#647873">整理 / 筛选 / 校勘</text>
+<rect x="678" y="116" width="174" height="98" rx="13" fill="#ead8c9" stroke="#c89b7d" stroke-width="2"/>
+<text x="765" y="155" font-size="27" font-weight="700" fill="#304847">信任与视野</text><text x="765" y="187" font-size="18" fill="#647873">理解组织全貌</text>
+</g>
+<text x="48" y="278" font-family="sans-serif" font-size="27" font-weight="700" fill="#243e3d">现代岗位：先把职能建成可运转的系统</text>
+<path d="M210 354H260M420 354H470M630 354H680" fill="none" stroke="#397f79" stroke-width="4" marker-end="url(#modern-arrow)"/>
+<g font-family="sans-serif" text-anchor="middle">
+<rect x="48" y="306" width="162" height="98" rx="13" fill="#fff" stroke="#80aaa1" stroke-width="2"/>
+<text x="129" y="345" font-size="26" font-weight="700" fill="#304847">使命授权</text><text x="129" y="377" font-size="18" fill="#647873">目标 / 边界 / 权限</text>
+<rect x="258" y="306" width="162" height="98" rx="13" fill="#fff" stroke="#80aaa1" stroke-width="2"/>
+<text x="339" y="345" font-size="26" font-weight="700" fill="#304847">小步交付</text><text x="339" y="377" font-size="18" fill="#647873">低成本验证价值</text>
+<rect x="468" y="306" width="162" height="98" rx="13" fill="#fff" stroke="#80aaa1" stroke-width="2"/>
+<text x="549" y="345" font-size="26" font-weight="700" fill="#304847">横向协作</text><text x="549" y="377" font-size="18" fill="#647873">信息 / 反馈 / 支持</text>
+<rect x="678" y="306" width="174" height="98" rx="13" fill="#d3e7df" stroke="#80aaa1" stroke-width="2"/>
+<text x="765" y="345" font-size="26" font-weight="700" fill="#304847">制度化评审</text><text x="765" y="377" font-size="18" fill="#647873">复用 / 扩大 / 停止</text>
+</g>
+<text x="450" y="448" font-family="sans-serif" font-size="20" text-anchor="middle" fill="#8c5c4a">风险：责任大于权限与资源 → 角色模糊 → 个人透支</text>
+</svg>

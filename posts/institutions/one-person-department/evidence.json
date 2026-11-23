@@ -1,0 +1,284 @@
+{
+  "schema_version": 1,
+  "source": {
+    "original_path": "user-provided Zhihu question and answer excerpt (2026-11-17; supplied in conversation)",
+    "original_record_date": "2026-11-17",
+    "migrated_at": "2026-11-24"
+  },
+  "research_status": "partial",
+  "independent_recheck": "partial",
+  "source_urls": [
+    {
+      "id": "HIST-01",
+      "title": "胡乔木与《解放日报》",
+      "publisher": "清华大学校史馆；作者程中原，来源《晋阳学刊》2013年第3期",
+      "published_at": "2013",
+      "url": "https://xsg.tsinghua.edu.cn/info/1004/1604.htm"
+    },
+    {
+      "id": "HIST-02",
+      "title": "第一次给主席当秘书，是什么体验？主席竟一句任务也没派，只顾自己忙",
+      "publisher": "文汇报；作者丁晓平，摘自人民出版社2019年出版的胡乔木传记",
+      "published_at": "2020-01-15",
+      "url": "https://www.whb.cn/zhuzhan/dushu/20200115/314640.html"
+    },
+    {
+      "id": "HIST-03",
+      "title": "隐秘的使命——1945年中央文库“千里调档”始末",
+      "publisher": "中国档案报 / 上海党史网",
+      "published_at": "2025-05-15",
+      "url": "https://www.ccphistory.org.cn/shds/ssjc/content/0cc828c6-cb78-410b-adaf-28d6e29f0641.html"
+    },
+    {
+      "id": "HIST-04",
+      "title": "中共执政以前毛泽东著作的经典化",
+      "publisher": "中共中央党史和文献研究院网站；作者黄江军",
+      "published_at": "2017-08-23",
+      "url": "https://www.dswxyjy.org.cn/n1/2019/0228/c423725-30946693.html"
+    },
+    {
+      "id": "HIST-05",
+      "title": "胡乔木：高扬党史国史理论的科学伟力",
+      "publisher": "中国社会科学网；作者宋月红、周进",
+      "published_at": "2021-06-22",
+      "url": "https://www.cssn.cn/dfpd/djyx/202506/t20250619_5881876.shtml"
+    },
+    {
+      "id": "HIST-06",
+      "title": "风云才子故乡情：胡乔木与盐城",
+      "publisher": "盐城市史志网；作者茆贵鸣",
+      "published_at": "2015-10-20",
+      "url": "https://szw.yancheng.gov.cn/art/2015/10/20/art_532_551589.html"
+    },
+    {
+      "id": "ORG-01",
+      "title": "New Horizons for Newcomer Organizational Socialization: A Review, Meta-Analysis, and Future Research Directions",
+      "publisher": "Journal of Management; Bauer et al.",
+      "published_at": "2025",
+      "url": "https://doi.org/10.1177/01492063241277168"
+    },
+    {
+      "id": "ORG-02",
+      "title": "Jackson and Schuler (1985) Revisited: A Meta-Analysis of the Relationships Between Role Ambiguity, Role Conflict, and Job Performance",
+      "publisher": "Journal of Management; Tubre & Collins",
+      "published_at": "2000",
+      "url": "https://doi.org/10.1177/014920630002600104"
+    },
+    {
+      "id": "ORG-03",
+      "title": "Longitudinal Study of the Effects of Information Seeking on Newcomer Socialization",
+      "publisher": "Journal of Applied Psychology; Morrison",
+      "published_at": "1993",
+      "url": "https://doi.org/10.1037/0021-9010.78.2.173"
+    },
+    {
+      "id": "ORG-04",
+      "title": "Crafting a Job: Revisioning Employees as Active Crafters of Their Work",
+      "publisher": "Academy of Management Review; Wrzesniewski & Dutton",
+      "published_at": "2001",
+      "url": "https://doi.org/10.5465/amr.2001.4378011"
+    },
+    {
+      "id": "ORG-05",
+      "title": "Relationship-Based Approach to Leadership: Development of Leader-Member Exchange Theory",
+      "publisher": "The Leadership Quarterly; Graen & Uhl-Bien",
+      "published_at": "1995",
+      "url": "https://doi.org/10.1016/1048-9843(95)90036-5"
+    },
+    {
+      "id": "ORG-06",
+      "title": "Newcomer adjustment during organizational socialization: a meta-analytic review",
+      "publisher": "Journal of Applied Psychology; Bauer et al.",
+      "published_at": "2007",
+      "url": "https://doi.org/10.1037/0021-9010.92.3.707"
+    },
+    {
+      "id": "HIST-07",
+      "title": "早年胡乔木",
+      "publisher": "人民网党史频道",
+      "published_at": "2013-09-13",
+      "url": "https://dangshi.people.com.cn/n/2013/0913/c85037-22914915-5.html"
+    },
+    {
+      "id": "HIST-08",
+      "title": "胡乔木",
+      "publisher": "延安大学人物资料",
+      "published_at": "2024-10-20",
+      "url": "https://yau.edu.cn/info/1064/343117.htm"
+    },
+    {
+      "id": "HIST-09",
+      "title": "9位中顾委的片断故事：王平智斗江青 陈再道的“三不”性格",
+      "publisher": "人民网党史频道；作者黎虹（曾任胡乔木秘书）",
+      "published_at": "2013-04-19",
+      "url": "https://dangshi.people.com.cn/n/2013/0419/c85037-21199538-2.html"
+    }
+  ],
+  "verified_claims": [
+    "HIST-01",
+    "HIST-02",
+    "HIST-03",
+    "ORG-01",
+    "ORG-02",
+    "ORG-03",
+    "ORG-04",
+    "ORG-05",
+    "HIST-07",
+    "HIST-09"
+  ],
+  "claims": [
+    {
+      "id": "HIST-01",
+      "claim": "胡乔木1912年6月出生，1941年任毛泽东秘书和中央政治局秘书；任职时按周岁约28岁。",
+      "kind": "historical_fact",
+      "source_url": "https://yau.edu.cn/info/1064/343117.htm",
+      "locator": "生平简介；出生年月与1941年任职记录",
+      "status": "verified",
+      "notes": "延安大学资料记载1912年6月1日出生、1941年2月任毛泽东秘书；周岁约28为根据出生日期与任职月份计算。人民网党史资料进一步记载1941年2月19日中央政治局会议提名。"
+    },
+    {
+      "id": "HIST-02",
+      "claim": "胡乔木在任毛泽东秘书前已有宣传、青年工作和刊物编辑经历。",
+      "kind": "historical_fact",
+      "source_url": "https://szw.yancheng.gov.cn/art/2015/10/20/art_532_551589.html",
+      "locator": "人物生平与早年编辑工作章节",
+      "status": "verified",
+      "notes": "地方史志文章为二手传记性资料；与中国社会科学网生平材料交叉。"
+    },
+    {
+      "id": "HIST-03",
+      "claim": "胡乔木为《解放日报》撰写的第一篇社论是1941年6月8日《救救大后方的青年》，《苏必胜，德必败》发表于6月29日。",
+      "kind": "historical_fact",
+      "source_url": "https://xsg.tsinghua.edu.cn/info/1004/1604.htm",
+      "locator": "文章第一节及1941年6月8日、10日、17日、29日的社论顺序",
+      "status": "verified",
+      "notes": "需区分第一篇社论与后续被毛泽东交办的具体写作任务。"
+    },
+    {
+      "id": "HIST-04",
+      "claim": "公开来源对《六大以来》汇集本篇数存在518篇与519篇两种记载；未核对各版本原始目录前，无法给出单一确定数字。",
+      "kind": "historical_fact",
+      "source_url": "https://www.ccphistory.org.cn/shds/ssjc/content/0cc828c6-cb78-410b-adaf-28d6e29f0641.html",
+      "locator": "第15—24行：征集文献、1941年12月编印、519篇及版本说明",
+      "status": "unverified",
+      "notes": "中国档案报/上海党史网2025年档案类报道记为519篇；人民网2013年刊载胡乔木秘书黎虹的回忆记为518篇。差异是否来自版本、统计口径或转录误差尚未核实，正文因此只称“五百余篇”。"
+    },
+    {
+      "id": "HIST-05",
+      "claim": "胡乔木主动承担《六大以来》清样校对；该工作包括检查文献遗漏和编选是否合适，而非仅仅改正文字。",
+      "kind": "retrospective_account",
+      "source_url": "https://www.whb.cn/zhuzhan/dushu/20200115/314640.html",
+      "locator": "2020年转载文章第68—83段，摘自2019年人物传记",
+      "status": "unverified",
+      "notes": "该情节见于2019年人物传记、2020年文汇报转载的回忆性叙述；不是1941年同期工作日志或逐字记录，故保留来源但不标作独立核实。"
+    },
+    {
+      "id": "HIST-06",
+      "claim": "《六大以来》的编印与七大准备、党史经验总结和高级干部学习有关；文献选择具有组织和政治背景。",
+      "kind": "historical_interpretation",
+      "source_url": "https://www.dswxyjy.org.cn/n1/2019/0228/c423725-30946693.html",
+      "locator": "论文摘要及关于40年代文献出版与政治文化的分析",
+      "status": "derived",
+      "notes": "本文对组织与政治背景的概括，综合档案材料与黄江军关于毛泽东著作经典化的文献研究；属于历史解释，不把它简化为单一动机。"
+    },
+    {
+      "id": "ORG-01",
+      "claim": "2025年新人组织社会化综述回顾256项研究，其中183项进入元分析；角色清晰度、任务掌握和社会接纳与不同新人结果相关。",
+      "kind": "peer_reviewed_meta_analysis",
+      "source_url": "https://doi.org/10.1177/01492063241277168",
+      "locator": "摘要、元分析结果表及角色清晰度/任务掌握/社会接纳小节",
+      "status": "verified",
+      "notes": "研究对象是一般组织新人，不是专门针对单人新部门；相关系数不能解释为因果效应。"
+    },
+    {
+      "id": "ORG-02",
+      "claim": "角色模糊与工作绩效存在负相关，Tubre与Collins 2000年元分析报告约r=-0.21。",
+      "kind": "peer_reviewed_meta_analysis",
+      "source_url": "https://doi.org/10.1177/014920630002600104",
+      "locator": "摘要",
+      "status": "verified",
+      "notes": "关系受到工作类型和评价来源等因素调节。"
+    },
+    {
+      "id": "ORG-03",
+      "claim": "Morrison对135名新入职会计人员的纵向研究发现，前六个月的信息搜寻与任务掌握、角色定义、文化学习和社会融入有关。",
+      "kind": "peer_reviewed_longitudinal_study",
+      "source_url": "https://doi.org/10.1037/0021-9010.78.2.173",
+      "locator": "摘要",
+      "status": "verified",
+      "notes": "职业样本为新入职会计人员，不能无条件推广到所有行业。"
+    },
+    {
+      "id": "ORG-04",
+      "claim": "Job crafting理论提出员工可通过调整任务、认知和关系边界塑造工作。",
+      "kind": "theoretical_framework",
+      "source_url": "https://doi.org/10.5465/amr.2001.4378011",
+      "locator": "论文摘要",
+      "status": "verified",
+      "notes": "理论模型，不是对本类岗位成功率的直接实证估计。"
+    },
+    {
+      "id": "ORG-05",
+      "claim": "LMX理论将领导关系视为持续发展的上下级交换关系，而非仅由汇报层级决定。",
+      "kind": "theoretical_framework",
+      "source_url": "https://doi.org/10.1016/1048-9843(95)90036-5",
+      "locator": "论文摘要",
+      "status": "verified",
+      "notes": "理论框架不能证明某个直接汇报安排必然带来高质量支持。"
+    },
+    {
+      "id": "INFER-01",
+      "claim": "单人新部门应先澄清使命、授权、资源、交付与反馈，再决定是否扩编或制度化。",
+      "kind": "synthesis_recommendation",
+      "source_url": "https://doi.org/10.1177/01492063241277168",
+      "locator": "组织社会化研究中角色清晰、任务掌握、社会接纳和组织支持的综合解释",
+      "status": "derived",
+      "notes": "实践框架，尚无针对该精确岗位类型的直接随机或准实验研究。"
+    },
+    {
+      "id": "INFER-02",
+      "claim": "前90天分阶段建立岗位章程、试点交付、协作网络和复盘机制。",
+      "kind": "practical_heuristic",
+      "source_url": "https://doi.org/10.1037/0021-9010.78.2.173",
+      "locator": "信息搜寻与新人适应研究；结合组织设计实践推导",
+      "status": "illustrative",
+      "notes": "时间节点为实践建议，不是研究证明的统一最优时间表。"
+    },
+    {
+      "id": "UNKNOWN-01",
+      "claim": "题目所述具体企业设立新部门的真实动机、预算、决策权限、扩编计划和绩效评价规则。",
+      "kind": "unknown",
+      "source_url": null,
+      "locator": "缺少企业内部岗位说明、组织架构、目标文件和管理层访谈",
+      "status": "unverified",
+      "notes": "本文不对具体企业的领导意图作推测。"
+    },
+    {
+      "id": "HIST-07",
+      "claim": "人民网党史频道的党史文章记载，1941年2月19日中央政治局会议上，毛泽东提名胡乔木任毛泽东秘书和中央政治局秘书。",
+      "kind": "historical_fact",
+      "source_url": "https://dangshi.people.com.cn/n/2013/0913/c85037-22914915-5.html",
+      "locator": "人民网党史频道《早年胡乔木》第5页相关段落",
+      "status": "verified",
+      "notes": "后出的党史叙述；任职月份另由延安大学人物资料和中国社会科学网生平材料交叉核对。"
+    },
+    {
+      "id": "HIST-09",
+      "claim": "人民网2013年刊载的胡乔木秘书黎虹回忆将《六大以来》汇集本记为518篇、280多万字。",
+      "kind": "retrospective_account",
+      "source_url": "https://dangshi.people.com.cn/n/2013/0419/c85037-21199538-2.html",
+      "locator": "文章“胡乔木与毛主席的结缘”部分关于《六大以来》的段落",
+      "status": "verified",
+      "notes": "此处核实的是该回忆来源确实报告518篇，不代表该数字已成为无争议的版本目录统计。"
+    }
+  ],
+  "limitations": [
+    "胡乔木到任、校对和编辑《六大以来》的细节主要来自后出的回忆、人物传记和党史研究，不等同于1941年同期的完整工作记录。",
+    "《六大以来》不同版本有增删，部分二手材料的文献篇数出现518与519之别；本文采用档案类研究常见的519篇记载，同时披露统计口径问题。",
+    "胡乔木与现代校招新人的经历并不等价；胡乔木到任前已有多年政治、宣传、编辑和组织经验。",
+    "组织社会化元分析覆盖一般新人样本，不能直接给出单人新部门或直接向最高层汇报岗位的成功概率。",
+    "元分析中的相关系数不是因果效应；研究结果受行业、评价来源、文化分类和样本构成影响。",
+    "具体企业的组织使命、预算、权限、领导动机、业务资源和人员扩编安排均未核实。"
+  ],
+  "next_action": "若要把本文升级为针对某一企业的岗位诊断，需要取得岗位说明、部门目标、汇报机制、预算与系统权限、跨部门依赖清单及前90天绩效口径。"
+}
