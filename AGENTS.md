@@ -29,7 +29,7 @@ Thinking Atlas 的目标是将复杂问题组织为可追溯、可反驳、可�
 - **分类或网站任务**：`docs/ARCHITECTURE.md`、`content/categories.json`、`content/posts.json`、相关构建/校验代码。
 - **写作 Skill 任务**：`skills/olah-style-paper-posts/SKILL.md` 及相关 references。
 
-当前基线（2026-11-24，合并 PR #2、#4、#5、#6 后）是 30 篇公开文章、7 个领域、21 个二级主题；研究状态为 24 篇 `partial`、6 篇 `outline`、0 篇 `verified`。近期新增的历史、行业、政治经济、信用风险和个人适应专题均保持 `partial`；不因排版、引用整理或网站发布而升级为 `verified`。这是内容注册表和审计文件记录的状态，不得把它描述成全部研究已完成。
+当前基线（2026-11-24，合并 PR #2、#4、#5、#6、#8 后）是 31 篇公开文章、7 个领域、21 个二级主题；研究状态为 25 篇 `partial`、6 篇 `outline`、0 篇 `verified`。近期新增的历史、行业、政治经济、信用风险、个人适应和新部门组织机制专题均保持 `partial`；不因排版、引用整理或网站发布而升级为 `verified`。这是内容注册表和审计文件记录的状态，不得把它描述成全部研究已完成。
 
 ## 3. 不可破坏的数据与架构契约
 
