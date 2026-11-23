@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 390 520" role="img" aria-labelledby="tm-title tm-desc">
+<title id="tm-title">重大压力后的四种概念性适应轨迹：移动版</title>
+<desc id="tm-desc">横轴为事件后的时间，纵轴为心理与日常功能水平。四种曲线分别表示相对稳定、逐渐恢复、持续困扰和延迟反应。无真实数据点。</desc>
+<rect x="1" y="1" width="388" height="518" rx="16" fill="#fbfcf9" stroke="#dce5df"/>
+<text x="22" y="34" font-family="sans-serif" font-size="13" letter-spacing="1.2" fill="#6d827a">ILLUSTRATIVE TRAJECTORIES</text>
+<text x="24" y="69" font-family="sans-serif" font-size="15" fill="#5f7771">功能水平</text>
+<g stroke="#dce5df" stroke-width="1">
+<path d="M62 110H365M62 180H365M62 250H365M62 320H365" stroke-dasharray="4 6"/>
+</g>
+<g stroke="#617a75" stroke-width="2" fill="none">
+<path d="M62 92V338H365"/>
+</g>
+<g font-family="sans-serif" fill="#5f7771" font-size="14">
+<text x="22" y="116">较高</text>
+<text x="22" y="330">较低</text>
+<text x="310" y="360">事件后时间 →</text>
+</g>
+<path d="M125 92V338" stroke="#b97657" stroke-width="1.8" stroke-dasharray="6 6"/>
+<text x="135" y="106" font-family="sans-serif" font-size="14" fill="#9b6348">事件</text>
+<g fill="none" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+<path d="M62 165C88 165 105 164 125 165S220 165 270 165S330 165 365 165" stroke="#277a73"/>
+<path d="M62 165C90 165 108 175 125 278C160 307 195 267 225 225C265 180 300 165 365 165" stroke="#bd8155"/>
+<path d="M62 165C90 165 108 175 125 278C170 300 230 300 275 300S330 300 365 300" stroke="#786aa9"/>
+<path d="M62 165C90 165 108 165 125 165S190 165 220 172C260 185 268 250 295 274S335 292 365 296" stroke="#6b8db4"/>
+</g>
+<g font-family="sans-serif" font-size="16" fill="#304749">
+<path d="M34 397H58" stroke="#277a73" stroke-width="4" stroke-linecap="round"/><text x="68" y="402">相对稳定</text>
+<path d="M208 397H232" stroke="#bd8155" stroke-width="4" stroke-linecap="round"/><text x="242" y="402">逐渐恢复</text>
+<path d="M34 445H58" stroke="#786aa9" stroke-width="4" stroke-linecap="round"/><text x="68" y="450">持续困扰</text>
+<path d="M208 445H232" stroke="#6b8db4" stroke-width="4" stroke-linecap="round"/><text x="242" y="450">延迟反应</text>
+</g>
+<text x="22" y="493" font-family="sans-serif" font-size="12" fill="#80918b">概念示意，不是样本统计或个人预后。</text>
+</svg>
