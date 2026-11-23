@@ -50,8 +50,8 @@
       "kind": "reported_statistic",
       "source_url": "https://dangshi.people.com.cn/n1/2020/0106/c85037-31535479.html",
       "locator": "人民网党史频道文章；中央纪委国家监委网站亦重复该数字",
-      "status": "verified",
-      "notes": "已核实后出官方文章如此报告；尚未取得原始粮食统计账册，不能称为独立审计。"
+      "status": "unverified",
+      "notes": "后出官方文章报告该数字，但尚未取得原始粮食统计账册，数字暂不作为已独立核验的事实。"
     },
     {
       "id": "L-005",

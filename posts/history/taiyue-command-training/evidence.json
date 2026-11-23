@@ -57,12 +57,12 @@
       "kind": "secondary_history",
       "source_url": "https://m.krzzjn.com/show-2690-126403.html",
       "locator": "《革命熔炉：抗大太岳分校》正文",
-      "status": "verified",
-      "notes": "核验到后出校史整理的明确记载；人数未通过原始学员名册独立复核。"
+      "status": "unverified",
+      "notes": "后出校史整理记载约600—700人及连排干部占多数；原始学员名册未取得，精确人数尚未独立核验。"
     },
     {
       "id": "T-005",
-      "claim": "1942年春太岳军区从第三八六旅和决死纵队精兵简政编余人员中选拔300余人创办太岳陆军中学，陈赓兼任校长。",
+      "claim": "1942年春太岳军区创办太岳陆军中学，陈赓兼任校长，军政训练与文化教育并重。",
       "kind": "secondary_history",
       "source_url": "https://m.krzzjn.com/show-2678-126536.html",
       "locator": "《抗大总校及各分校情况简介》陆军中学与附设中学部分；并参见 https://m.krzzjn.com/show-2691-126406.html",
@@ -212,6 +212,15 @@
       "locator": "本文章原创SVG",
       "status": "illustrative",
       "notes": "不表达实证测量或因果效应。"
+    },
+    {
+      "id": "T-022",
+      "claim": "太岳陆军中学初期学员约300余名。",
+      "kind": "secondary_history",
+      "source_url": "https://m.krzzjn.com/show-2678-126536.html",
+      "locator": "《抗大总校及各分校情况简介》陆军中学与附设中学部分",
+      "status": "unverified",
+      "notes": "后出校史整理有该人数记载，但尚未取得原始学员名册。"
     }
   ],
   "limitations": [
