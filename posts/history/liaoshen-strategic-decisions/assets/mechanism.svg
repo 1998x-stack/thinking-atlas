@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 430" role="img" aria-labelledby="title desc">
+<title id="title">东北三城与锦州战略关系示意</title><desc id="desc">不按实际比例排列的概念示意：长春连接沈阳，沈阳连接锦州，锦州连接关内；锦州方向在铁路陆上通道形成关口，且面对锦西援军和沈阳方向增援。</desc>
+<rect width="900" height="430" rx="22" fill="#f7faf8"/>
+<g font-family="Arial,PingFang SC,Microsoft YaHei,sans-serif">
+<text x="35" y="38" font-size="21" font-weight="700" fill="#203d37">为什么争夺锦州？</text>
+<text x="35" y="63" font-size="14" fill="#63766d">节点与交通逻辑概念图 · 非比例地图</text>
+<path d="M150 150 L370 150 L590 150 L760 150" fill="none" stroke="#6a9a90" stroke-width="10" stroke-linecap="round"/>
+<path d="M150 150 L370 150 L590 150 L760 150" fill="none" stroke="#fff" stroke-width="2" stroke-dasharray="10 9"/>
+<rect x="62" y="105" width="176" height="86" rx="14" fill="#dcefe9" stroke="#82b5aa" stroke-width="2"/>
+<rect x="290" y="105" width="160" height="86" rx="14" fill="#dcefe9" stroke="#82b5aa" stroke-width="2"/>
+<rect x="505" y="102" width="170" height="92" rx="15" fill="#d37b55" stroke="#9f5233" stroke-width="2"/>
+<rect x="716" y="105" width="145" height="86" rx="14" fill="#e8ebe8" stroke="#afbcb8" stroke-width="2"/>
+<g text-anchor="middle"><text x="150" y="140" font-size="24" font-weight="700" fill="#214f49">长春</text><text x="150" y="165" font-size="15" fill="#4b6e64">围城方向</text>
+<text x="370" y="140" font-size="24" font-weight="700" fill="#214f49">沈阳</text><text x="370" y="165" font-size="15" fill="#4b6e64">守军主力</text>
+<text x="590" y="138" font-size="26" font-weight="700" fill="#fff">锦州</text><text x="590" y="167" font-size="15" fill="#fff">通道关口</text>
+<text x="787" y="140" font-size="23" font-weight="700" fill="#40514d">关内</text><text x="787" y="165" font-size="14" fill="#596a64">陆上方向</text></g>
+<path d="M590 195 V268" stroke="#bf674a" stroke-width="3" stroke-dasharray="8 7"/>
+<path d="M370 193 V266" stroke="#538d80" stroke-width="3" stroke-dasharray="8 7"/>
+<rect x="472" y="272" width="220" height="74" rx="13" fill="#f7e5dd" stroke="#ddb39e"/>
+<text x="582" y="301" text-anchor="middle" font-size="19" font-weight="700" fill="#8f492e">锦西 / 葫芦岛</text>
+<text x="582" y="325" text-anchor="middle" font-size="15" fill="#92583d">另一方向的援军压力</text>
+<rect x="242" y="272" width="194" height="74" rx="13" fill="#dcece7" stroke="#9cbfb5"/>
+<text x="339" y="301" text-anchor="middle" font-size="17" font-weight="700" fill="#24594e">沈阳出援路径</text>
+<text x="339" y="325" text-anchor="middle" font-size="14" fill="#4a6e63">需专门阻援兵力</text>
+<text x="36" y="400" font-size="13" fill="#60766c">箭头与线条仅表达战役关系；不呈现位置、距离或实际兵力。</text>
+</g></svg>

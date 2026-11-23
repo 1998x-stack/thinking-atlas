@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 405" role="img" aria-labelledby="title desc">
+<title id="title">攻锦州与围长春的条件链对比</title><desc id="desc">左侧锦州路径包括南下和准备、攻城与阻援、封闭陆退通道、获得主动权；右侧长春路径包括围城与军事封锁、等待援军或守军变化、可能减少立即攻坚风险，但持续占用主力并造成平民粮荒风险。均为分析模型不是因果证明。</desc>
+<rect width="900" height="405" rx="20" fill="#f7faf8"/>
+<g font-family="Arial,PingFang SC,Microsoft YaHei,sans-serif">
+<text x="36" y="40" fill="#243c37" font-size="22" font-weight="700">两条作战路径 · 条件与代价</text>
+<g fill="#fff" stroke-width="1.5"><rect x="35" y="68" width="405" height="285" rx="16" stroke="#8fb5a6"/><rect x="458" y="68" width="407" height="285" rx="16" stroke="#d1b79b"/></g>
+<rect x="35" y="68" width="405" height="57" rx="16" fill="#deeee8"/><rect x="458" y="68" width="407" height="57" rx="16" fill="#f2e6d9"/>
+<text x="237" y="103" text-anchor="middle" font-size="21" font-weight="700" fill="#226d5e">方案 A：集中于锦州</text><text x="661" y="103" text-anchor="middle" font-size="21" font-weight="700" fill="#8b6240">方案 B：继续围困长春</text>
+<g font-size="17" text-anchor="middle" fill="#354d45"><text x="237" y="162">南下补给、攻坚准备、阻援配置</text><text x="661" y="162">围城、经济封锁、等待变化</text></g>
+<g stroke-width="3" fill="none"><path d="M237 173 V202" stroke="#5a9d8b"/><path d="M661 173 V202" stroke="#c49b75"/></g>
+<path d="M231 198 l6 9 6-9" fill="#5a9d8b"/><path d="M655 198 l6 9 6-9" fill="#c49b75"/>
+<g font-size="18" text-anchor="middle" fill="#354d45"><text x="237" y="236">争取切断陆上退路</text><text x="661" y="236">等待守军或援军行动</text></g>
+<g stroke-width="3" fill="none"><path d="M237 248 V280" stroke="#5a9d8b"/><path d="M661 248 V280" stroke="#c49b75"/></g>
+<path d="M231 276 l6 9 6-9" fill="#5a9d8b"/><path d="M655 276 l6 9 6-9" fill="#c49b75"/>
+<g text-anchor="middle" font-size="16" font-weight="700"><text x="237" y="314" fill="#237565">潜在收益：更早取得战役主动</text><text x="661" y="314" fill="#8a613c">潜在风险：长期僵持与平民代价</text></g>
+<text x="37" y="385" font-size="14" fill="#687e75">两条路径都存在风险；箭头为条件性推论，不是概率、时长或伤亡预测。</text>
+</g></svg>
