@@ -1,0 +1,185 @@
+{
+  "schema_version": 1,
+  "source": {
+    "original_path": "user-provided essay in conversation; original author, URL and publication date were not supplied",
+    "source_commit": null,
+    "source_blob_sha": null,
+    "original_record_date": null,
+    "migrated_at": "2026-11-24"
+  },
+  "research_status": "partial",
+  "independent_recheck": "targeted_literature_review_2026-11-24_not_systematic_review",
+  "source_urls": [
+    "https://doi.org/10.1037/0003-066X.44.3.513",
+    "https://repub.eur.nl/pub/22671",
+    "https://ppc.sas.upenn.edu/sites/default/files/lhreformulation.pdf",
+    "https://doi.org/10.1111/bjc.12523",
+    "https://doi.org/10.1037/0003-066X.59.1.20",
+    "https://doi.org/10.1016/j.cpr.2018.05.008",
+    "https://doi.org/10.1080/10615806.2026.2705416",
+    "https://doi.org/10.1080/074811899201046",
+    "https://doi.org/10.1016/j.cpr.2024.102432",
+    "https://doi.org/10.1038/s44271-025-00313-7",
+    "https://doi.org/10.1037/pspi0000459",
+    "https://doi.org/10.1037/bul0000173",
+    "https://doi.org/10.1177/21677026231182329",
+    "https://www.ptsd.va.gov/professional/treat/essentials/dsm5_ptsd.asp",
+    "https://www.nimh.nih.gov/health/publications/my-mental-health-do-i-need-help",
+    "https://www.psychiatry.org/patients-families/prolonged-grief-disorder"
+  ],
+  "claims": [
+    {
+      "id": "APR-001",
+      "claim": "资源保存理论将压力与有价值资源的实际损失、损失威胁或资源投入无法获得回报联系起来。",
+      "kind": "theoretical_claim",
+      "source_url": "https://doi.org/10.1037/0003-066X.44.3.513",
+      "locator": "Hobfoll (1989), American Psychologist 44(3), pp. 513-524; abstract and theoretical model",
+      "status": "verified",
+      "notes": "理论框架，不是对所有个体压力反应的唯一解释。"
+    },
+    {
+      "id": "APR-002",
+      "claim": "荷兰农业经营者纵向研究发现企业财务问题与心理困扰存在相互影响的路径。",
+      "kind": "longitudinal_empirical_study",
+      "source_url": "https://repub.eur.nl/pub/22671",
+      "locator": "Gorgievski et al. (2010), Journal of Occupational and Organizational Psychology 83(2), pp. 513-530; three-wave study",
+      "status": "verified",
+      "notes": "特定行业、特定国家样本，不应推广为所有破产者的普遍因果规律。"
+    },
+    {
+      "id": "APR-003",
+      "claim": "习得性无助的人类理论修订区分普遍/个人无助，以及内在/外在、稳定/不稳定、普遍/具体归因。",
+      "kind": "primary_theory",
+      "source_url": "https://ppc.sas.upenn.edu/sites/default/files/lhreformulation.pdf",
+      "locator": "Abramson, Seligman & Teasdale (1978), Journal of Abnormal Psychology 87(1), pp. 49-74",
+      "status": "verified",
+      "notes": "理论历史文献；不能据此诊断某个经历重大挫折的人。"
+    },
+    {
+      "id": "APR-004",
+      "claim": "童年逆境与成年心理困扰的关系可能部分经由自我概念清晰度和自尊等变量体现。",
+      "kind": "cross_sectional_empirical_study",
+      "source_url": "https://doi.org/10.1111/bjc.12523",
+      "locator": "Sharratt & Ridout (2025), British Journal of Clinical Psychology 64(2), pp. 539-552; community sample N=159",
+      "status": "partially_verified",
+      "notes": "样本量较小且研究童年逆境；不能直接推断成年突发破产、丧亲或家庭破裂的因果路径。"
+    },
+    {
+      "id": "APR-005",
+      "claim": "韧性与恢复是重大压力后不同的适应轨迹，不应把所有人视为先崩溃再恢复。",
+      "kind": "review",
+      "source_url": "https://doi.org/10.1037/0003-066X.59.1.20",
+      "locator": "Bonanno (2004), American Psychologist 59(1), pp. 20-28",
+      "status": "verified",
+      "notes": "综述性理论与证据整合，适用范围需结合事件和样本。"
+    },
+    {
+      "id": "APR-006",
+      "claim": "54项研究的综述识别出韧性、恢复、持续困扰和延迟困扰等轨迹，韧性在该综述中是最常见轨迹。",
+      "kind": "systematic_review_and_statistical_evaluation",
+      "source_url": "https://doi.org/10.1016/j.cpr.2018.05.008",
+      "locator": "Galatzer-Levy, Huang & Bonanno (2018), Clinical Psychology Review 63, pp. 41-55; abstract and results",
+      "status": "verified",
+      "notes": "轨迹比例受样本、事件、测量时点和模型影响，不能用于个体预后；文中不将平均比例作为个人预测。"
+    },
+    {
+      "id": "APR-007",
+      "claim": "丧亲成年人轨迹综述纳入13篇文章、12项研究和14个分析，报告平均韧性约55%、恢复约33%、持续性哀伤约10%。",
+      "kind": "systematic_review",
+      "source_url": "https://doi.org/10.1080/10615806.2026.2705416",
+      "locator": "Eisma et al. (2026), Anxiety, Stress, & Coping; published online 2026-08-16; abstract",
+      "status": "verified",
+      "notes": "仅适用于纳入的丧亲成年人研究；比例为不同轨迹分析的汇总结果，不是普遍人口参数。"
+    },
+    {
+      "id": "APR-008",
+      "claim": "哀伤双过程模型区分面向失去的压力源与面向恢复生活的压力源，并强调二者之间的动态摆动。",
+      "kind": "theoretical_model",
+      "source_url": "https://doi.org/10.1080/074811899201046",
+      "locator": "Stroebe & Schut (1999), Death Studies 23(3), pp. 197-224",
+      "status": "verified",
+      "notes": "模型专门讨论丧亲适应；应用到其他重大挫折仅作为启发，不是普遍定律。"
+    },
+    {
+      "id": "APR-009",
+      "claim": "ACT相关研究中，心理灵活性/僵化指标变化与心理困扰下降相关。",
+      "kind": "systematic_review_and_meta_analysis",
+      "source_url": "https://doi.org/10.1016/j.cpr.2024.102432",
+      "locator": "Macri & Rogge (2024), Clinical Psychology Review 110, 102432; 67 unique studies, N=9,123",
+      "status": "verified",
+      "notes": "研究的是ACT干预与机制，不意味着一般读者可用自助技巧替代临床治疗。"
+    },
+    {
+      "id": "APR-010",
+      "claim": "在日常压力记录中，个体内感受到的压力可控程度高于平常时，与更高的压力源解决概率相关。",
+      "kind": "longitudinal_observational_study",
+      "source_url": "https://doi.org/10.1038/s44271-025-00313-7",
+      "locator": "Witzel et al. (2025), Communications Psychology 3, 130; within-person OR=1.66",
+      "status": "verified",
+      "notes": "观察性关联，研究日常压力源，不证明控制感可以单独解决重大人生危机。"
+    },
+    {
+      "id": "APR-011",
+      "claim": "他人对自主、胜任和关系需要的支持与主观幸福感呈正相关，并与表现呈小到中等程度正相关。",
+      "kind": "meta_analysis",
+      "source_url": "https://doi.org/10.1037/pspi0000459",
+      "locator": "Slemp et al. (2024), Journal of Personality and Social Psychology 127(5), pp. 1012-1037; 4,561 effect sizes, 881 samples, N=443,556",
+      "status": "verified",
+      "notes": "元分析的关联结果不保证某个具体支持关系一定有效，也不单独证明因果方向。"
+    },
+    {
+      "id": "APR-012",
+      "claim": "纵向元分析没有发现负性生活事件普遍比正性生活事件带来更强成长的证据，且多数有对照组研究中组间变化差异不显著。",
+      "kind": "systematic_review_and_meta_analysis",
+      "source_url": "https://doi.org/10.1037/bul0000173",
+      "locator": "Mangelsdorf, Eid & Luhmann (2019), Psychological Bulletin 145(3), pp. 302-338; 122 longitudinal studies, N=98,436",
+      "status": "verified",
+      "notes": "检验的是特定心理幸福感维度的纵向变化；不等于否认任何个体可能发生真实成长。"
+    },
+    {
+      "id": "APR-013",
+      "claim": "在一项多波中年样本研究中，事后自评的创伤后成长没有预测随后观察到的成长变化。",
+      "kind": "longitudinal_empirical_study",
+      "source_url": "https://doi.org/10.1177/21677026231182329",
+      "locator": "Gangel et al. (2024), Clinical Psychological Science 12(3); Wave 1 N=804",
+      "status": "verified",
+      "notes": "研究针对短期预测和特定测量设计，不应夸大为所有主观成长叙事都没有价值。"
+    },
+    {
+      "id": "APR-014",
+      "claim": "PTSD诊断需满足特定创伤暴露条件以及多个症状维度、持续时间和功能损害要求。",
+      "kind": "official_clinical_guidance",
+      "source_url": "https://www.ptsd.va.gov/professional/treat/essentials/dsm5_ptsd.asp",
+      "locator": "U.S. Department of Veterans Affairs, National Center for PTSD; DSM-5 criteria summary; updated 2026-09",
+      "status": "verified",
+      "notes": "用于区分重大生活挫折与PTSD诊断，不提供个人诊断。"
+    },
+    {
+      "id": "APR-015",
+      "claim": "严重情绪症状持续两周或更久、或妨碍日常功能时，应考虑专业帮助；自伤或自杀想法需要立即支持。",
+      "kind": "official_health_guidance",
+      "source_url": "https://www.nimh.nih.gov/health/publications/my-mental-health-do-i-need-help",
+      "locator": "U.S. National Institute of Mental Health, revised 2025",
+      "status": "verified",
+      "notes": "两周是该官方材料的求助提示，不是所有心理问题的统一诊断阈值。"
+    },
+    {
+      "id": "APR-016",
+      "claim": "延长哀伤障碍的判断需考虑持续时间、显著痛苦、功能损害和文化社会规范；成人通常要求死亡至少发生一年。",
+      "kind": "official_clinical_guidance",
+      "source_url": "https://www.psychiatry.org/patients-families/prolonged-grief-disorder",
+      "locator": "American Psychiatric Association, Prolonged Grief Disorder patient information",
+      "status": "verified",
+      "notes": "诊断标准不应被误读为建议所有丧亲者等待一年才寻求帮助。"
+    }
+  ],
+  "limitations": [
+    "原始网络文章未提供作者、原始链接或发布日期，传播来源和图片来源无法核验。",
+    "本文是定向文献检索与综合，不是注册方案的系统综述，也没有覆盖所有语言和数据库。",
+    "“心气”不是标准化心理学构念；六维拆解和重建框架属于解释性综合，未经独立量表验证。",
+    "不同研究涉及丧亲、潜在创伤、童年逆境、日常压力和经营财务困境，不能视为同一暴露或同一人群。",
+    "群体轨迹比例受样本、测量时间和统计模型影响，不可用于个体预后。",
+    "部分身份研究为小样本或横断面设计；观察性关联不自动证明因果关系。"
+  ],
+  "next_action": "继续补充针对成年丧亲、离婚/家庭破裂、失业与破产的纵向研究，并比较资源损失、身份变化、社会支持和心理适应的时间顺序。"
+}
