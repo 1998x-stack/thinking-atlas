@@ -774,5 +774,30 @@
       "src": "assets/mechanism.svg",
       "caption": "历史案例与现代新部门建设的机制示意；非实证数据"
     }
+  },
+  {
+    "slug": "iauto-shanghai-hong-kong-ipo",
+    "title": "上海商泰汽车与港股上市：股权穿透、同名主体与证据链",
+    "subtitle": "从境内经营主体到潜在发行人，区分产业能力、上市线索与监管确认。",
+    "category": "economics",
+    "topic": "business-models",
+    "status": "published",
+    "research_status": "partial",
+    "published": "2026-11-25",
+    "updated": "2026-11-25",
+    "reading_minutes": 12,
+    "tags": [
+      "商泰汽车",
+      "iAUTO",
+      "港股IPO",
+      "汽车软件",
+      "股权穿透",
+      "SDV"
+    ],
+    "summary": "以工商线索、港交所与证监会披露、行业协会材料和同行年报交叉核验，分辨上海商泰经营主体、同名企业与潜在发行人，并建立上市证据阶梯和估值假设模型。",
+    "cover": {
+      "src": "assets/mechanism.svg",
+      "caption": "上海商泰汽车控制链的现有线索、未核验上层股权及同名主体边界"
+    }
   }
 ]
