@@ -774,5 +774,32 @@
       "src": "assets/mechanism.svg",
       "caption": "历史案例与现代新部门建设的机制示意；非实证数据"
     }
+  },
+  {
+    "slug": "shen-zhihua-cold-war",
+    "title": "沈志华的冷战史：国家利益、同盟结构与决策转向",
+    "subtitle": "从朝鲜战争、中苏决裂和中朝关系入手，区分档案事实、历史解释与现实政策判断。",
+    "category": "history",
+    "topic": "military-decision-making",
+    "status": "draft",
+    "research_status": "partial",
+    "published": "2026-11-25",
+    "updated": "2026-11-25",
+    "reading_minutes": 18,
+    "tags": [
+      "沈志华",
+      "冷战史",
+      "朝鲜战争",
+      "中苏关系",
+      "中朝关系",
+      "结构失衡",
+      "经济冷战"
+    ],
+    "summary": "基于公开论文、讲座纪要、解密电报译本和独立学术评论，考察沈志华的主要历史解释及2017年半岛政策言论，区分史实、作者观点、竞争机制和待核问题。",
+    "source_path": "posts/history/shen-zhihua-cold-war/source.md",
+    "cover": {
+      "src": "assets/mechanism.svg",
+      "caption": "国家利益、党际权威、安全风险与经济依赖：四类候选解释，非实证数据"
+    }
   }
 ]
