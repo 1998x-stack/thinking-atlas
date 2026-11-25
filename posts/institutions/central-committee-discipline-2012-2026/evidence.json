@@ -1,0 +1,232 @@
+{
+  "schema_version": 1,
+  "source": {
+    "original_path": "posts/institutions/central-committee-discipline-2012-2026/source.md",
+    "original_record_date": "2026-11-25",
+    "type": "new_public_source_research"
+  },
+  "research_status": "partial",
+  "independent_recheck": "partial",
+  "source_urls": [
+    "https://www.court.gov.cn/zixun/xiangqing/8368.html",
+    "https://cs.fudan.edu.cn/18/a9/c24288a268457/page.htm",
+    "https://politics.people.com.cn/GB/n1/2016/1027/c1001-28814133.html",
+    "https://app.www.gov.cn/govdata/gov/201710/14/413441/article.html",
+    "https://www.12371.cn/2019/10/31/ARTI1572515554956816.shtml",
+    "https://m.ccdi.gov.cn/content/e6/dc/50285.html",
+    "https://www.locpg.gov.cn/jsdt/2022-10/12/c_1211692208.htm",
+    "https://www.ccdi.gov.cn/specialn/esjzyscqh/gbesjzyscqh/202407/t20240718_362650.html",
+    "https://www.ndcpa.gov.cn/jbkzzx/c100007/common/content/content_1981313585638707200.html",
+    "https://www.cac.gov.cn/2026-10/29/c_1795027528325786.htm",
+    "https://www.ccdi.gov.cn/xxgk/hyzl/201710/t20171031_114178.html",
+    "https://news.sina.cn/gn/2022-10-17/detail-imqqsmrp2869897.d.html?vt=4",
+    "https://cpc.people.com.cn/19th/n1/2017/1024/c414305-29606849.html",
+    "https://dangjian.people.com.cn/n1/2022/1023/c117092-32549992.html",
+    "https://cpc.people.com.cn/20th/n1/2022/1022/c448334-32549723.html",
+    "https://cpc.people.com.cn/GB/64162/448263/index.html"
+  ],
+  "sources": [
+    {
+      "id": "S1",
+      "title": "十八届四中全会公报",
+      "date": "2014-10-23",
+      "url": "https://www.court.gov.cn/zixun/xiangqing/8368.html",
+      "locator": "确认处分段：6人",
+      "accessed": "2026-11-25"
+    },
+    {
+      "id": "S2",
+      "title": "十八届五中全会公报",
+      "date": "2015-10-29",
+      "url": "https://cs.fudan.edu.cn/18/a9/c24288a268457/page.htm",
+      "locator": "确认处分段：10人",
+      "accessed": "2026-11-25"
+    },
+    {
+      "id": "S3",
+      "title": "十八届六中全会公报",
+      "date": "2016-10-27",
+      "url": "https://politics.people.com.cn/GB/n1/2016/1027/c1001-28814133.html",
+      "locator": "确认处分段：4人",
+      "accessed": "2026-11-25"
+    },
+    {
+      "id": "S4",
+      "title": "十八届七中全会公报",
+      "date": "2017-10-14",
+      "url": "https://app.www.gov.cn/govdata/gov/201710/14/413441/article.html",
+      "locator": "确认处分段：15人",
+      "accessed": "2026-11-25"
+    },
+    {
+      "id": "S5",
+      "title": "十九届四中全会公报",
+      "date": "2019-10-31",
+      "url": "https://www.12371.cn/2019/10/31/ARTI1572515554956816.shtml",
+      "locator": "刘士余留党察看二年",
+      "accessed": "2026-11-25"
+    },
+    {
+      "id": "S6",
+      "title": "中央纪委国家监委：刘士余处分决定",
+      "date": "2019-10-05",
+      "url": "https://m.ccdi.gov.cn/content/e6/dc/50285.html",
+      "locator": "另有政务撤职",
+      "accessed": "2026-11-25"
+    },
+    {
+      "id": "S7",
+      "title": "十九届七中全会公报",
+      "date": "2022-10-12",
+      "url": "https://www.locpg.gov.cn/jsdt/2022-10/12/c_1211692208.htm",
+      "locator": "确认处分段：4人",
+      "accessed": "2026-11-25"
+    },
+    {
+      "id": "S8",
+      "title": "二十届三中全会公报",
+      "date": "2024-07-18",
+      "url": "https://www.ccdi.gov.cn/specialn/esjzyscqh/gbesjzyscqh/202407/t20240718_362650.html",
+      "locator": "确认处分段：军委3人",
+      "accessed": "2026-11-25"
+    },
+    {
+      "id": "S9",
+      "title": "二十届四中全会公报",
+      "date": "2025-10-23",
+      "url": "https://www.ndcpa.gov.cn/jbkzzx/c100007/common/content/content_1981313585638707200.html",
+      "locator": "确认处分段：纪委5、军委9",
+      "accessed": "2026-11-25"
+    },
+    {
+      "id": "S10",
+      "title": "二十届五中全会公报",
+      "date": "2026-10-29",
+      "url": "https://www.cac.gov.cn/2026-10/29/c_1795027528325786.htm",
+      "locator": "确认处分段：纪委18、军委16",
+      "accessed": "2026-11-25"
+    },
+    {
+      "id": "S11",
+      "title": "十八届中央纪委工作报告",
+      "date": "2017-10-31",
+      "url": "https://www.ccdi.gov.cn/xxgk/hyzl/201710/t20171031_114178.html",
+      "locator": "立案审查中央委员和候补委员43人",
+      "accessed": "2026-11-25"
+    },
+    {
+      "id": "S12",
+      "title": "二十大新闻中心记者会：肖培答问（媒体报道）",
+      "date": "2022-10-17",
+      "url": "https://news.sina.cn/gn/2022-10-17/detail-imqqsmrp2869897.d.html?vt=4",
+      "locator": "十八届49、十九届12；待补官方全文",
+      "accessed": "2026-11-25"
+    },
+    {
+      "id": "S13",
+      "title": "十九届中央委员会诞生记",
+      "date": "2017-10-24",
+      "url": "https://cpc.people.com.cn/19th/n1/2017/1024/c414305-29606849.html",
+      "locator": "候选人中新提名244、继续提名132",
+      "accessed": "2026-11-25"
+    },
+    {
+      "id": "S14",
+      "title": "二十届中央委员会诞生记",
+      "date": "2022-10-23",
+      "url": "https://dangjian.people.com.cn/n1/2022/1023/c117092-32549992.html",
+      "locator": "候选人中新提名246、继续提名130",
+      "accessed": "2026-11-25"
+    },
+    {
+      "id": "S15",
+      "title": "二十大闭幕报道",
+      "date": "2022-10-22",
+      "url": "https://cpc.people.com.cn/20th/n1/2022/1022/c448334-32549723.html",
+      "locator": "当选205名委员和171名候补委员",
+      "accessed": "2026-11-25"
+    },
+    {
+      "id": "S16",
+      "title": "中央委员会历届全会资料索引",
+      "date": "2026-11-25",
+      "url": "https://cpc.people.com.cn/GB/64162/448263/index.html",
+      "locator": "十九届当选204名委员、172名候补委员；检索日期",
+      "accessed": "2026-11-25"
+    }
+  ],
+  "claims": [
+    {
+      "id": "C1",
+      "claim": "十八届公报计数6+10+4+15=35",
+      "sources": [
+        "S1",
+        "S2",
+        "S3",
+        "S4"
+      ],
+      "status": "SUPPORTED"
+    },
+    {
+      "id": "C2",
+      "claim": "十九届1+4=5；刘士余另受政务撤职",
+      "sources": [
+        "S5",
+        "S6",
+        "S7"
+      ],
+      "status": "SUPPORTED"
+    },
+    {
+      "id": "C3",
+      "claim": "二十届3+14+34=51，军委28、纪委23",
+      "sources": [
+        "S8",
+        "S9",
+        "S10"
+      ],
+      "status": "SUPPORTED"
+    },
+    {
+      "id": "C4",
+      "claim": "91/1128=8.07%，不是独立自然人率",
+      "sources": [
+        "S1",
+        "S2",
+        "S3",
+        "S4",
+        "S5",
+        "S7",
+        "S8",
+        "S9",
+        "S10"
+      ],
+      "status": "SUPPORTED"
+    },
+    {
+      "id": "C5",
+      "claim": "新提名比例64.9%和65.4%，非名单去重结果",
+      "sources": [
+        "S13",
+        "S14"
+      ],
+      "status": "SUPPORTED"
+    },
+    {
+      "id": "C6",
+      "claim": "2022年报道的立案调查49和12",
+      "sources": [
+        "S12"
+      ],
+      "status": "PARTIALLY_SUPPORTED"
+    }
+  ],
+  "limitations": [
+    "全会确认口径不覆盖全部政务处分、离任后查处或尚未确认个案",
+    "未逐人匹配1128条当选名单，866和10.51%仅条件演算",
+    "各届观察期不同；二十届右删失",
+    "来源转载不代表独立证据",
+    "真实违纪率、因果机制、各系统在险人口未知"
+  ],
+  "next_action": "建立三届逐人名单和全量党纪政务处分事件台账，按固定观察窗复算，补充官方记者会原文。"
+}
