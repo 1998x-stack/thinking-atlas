@@ -774,5 +774,30 @@
       "src": "assets/mechanism.svg",
       "caption": "历史案例与现代新部门建设的机制示意；非实证数据"
     }
+  },
+  {
+    "slug": "bystander-effect-responsibility",
+    "title": "为什么人越多，越可能没人出手？旁观者效应、责任扩散与明确求助",
+    "subtitle": "从群体观望、直接点名、个体与群体概率到组织责任闭环。",
+    "category": "society",
+    "topic": "norms-and-family",
+    "status": "draft",
+    "research_status": "partial",
+    "published": "2026-11-25",
+    "updated": "2026-11-25",
+    "reading_minutes": 12,
+    "tags": [
+      "旁观者效应",
+      "责任扩散",
+      "社会心理学",
+      "组织管理",
+      "直接求助"
+    ],
+    "summary": "复核1968年经典实验、2000年聊天室点名研究、2011年元分析与2020年公共冲突观察，区分个体响应和群体获助概率，提出明确责任的实践框架与研究限制。",
+    "source_path": "posts/society/bystander-effect-responsibility/source.md",
+    "cover": {
+      "src": "assets/mechanism.svg",
+      "caption": "泛化求助与明确接收对象的责任归属对比（机制示意）"
+    }
   }
 ]
