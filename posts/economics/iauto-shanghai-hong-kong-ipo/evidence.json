@@ -1,0 +1,187 @@
+{
+  "research_status": "partial",
+  "source": {
+    "original_path": "project-research/2026-11-25/iauto-shanghai-hong-kong-ipo",
+    "original_date": "2026-11-25",
+    "provenance": "公开资料专题研究与本次重新检索；不保留私人聊天原文"
+  },
+  "independent_recheck": {
+    "status": "partial",
+    "checked_at": "2026-11-25",
+    "method": "交叉检索公司资料、协会名单、港交所公告和证监会规则；媒体工商数据非原始档案。"
+  },
+  "verified_claims": [
+    {
+      "id": "C1",
+      "claim": "2013年Linux基金会公告确认Suntec Software加入。",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "id": "C2",
+      "claim": "软件协会名单列有商泰汽车SOME/IP和SDV Studio产品。",
+      "source_ids": [
+        "S4",
+        "S13"
+      ]
+    },
+    {
+      "id": "C3",
+      "claim": "正道2023年公告中的iAuto Group Inc.注册于美国特拉华州，拟议交易尚须正式协议。",
+      "source_ids": [
+        "S5"
+      ]
+    },
+    {
+      "id": "C4",
+      "claim": "港交所2026年7月24日咨询总结扩展保密递表选项。",
+      "source_ids": [
+        "S7"
+      ]
+    },
+    {
+      "id": "C5",
+      "claim": "适用备案制度的首次境外上市提交后原则上三工作日内备案。",
+      "source_ids": [
+        "S8",
+        "S9"
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "id": "P1",
+      "claim": "商泰科技（上海）有限公司直接持股100%。",
+      "status": "PARTIALLY_SUPPORTED",
+      "source_ids": [
+        "S1"
+      ],
+      "limitations": "媒体转引工商数据，未获原始档案"
+    },
+    {
+      "id": "U1",
+      "claim": "上海商泰已正式递交港股上市申请。",
+      "status": "UNVERIFIED",
+      "source_ids": [],
+      "limitations": "发行人未确认，公开检索不能排除保密提交"
+    }
+  ],
+  "source_urls": [
+    {
+      "id": "S1",
+      "title": "新浪财经：商泰汽车工时许可及工商资料",
+      "url": "https://finance.sina.cn/2026-10-18/detail-inivqtzw1183572.d.html",
+      "published": "2026-10-18",
+      "type": "secondary",
+      "locator": "股东信息表；工商数据来自天眼查，非原始登记档案"
+    },
+    {
+      "id": "S2",
+      "title": "吉林大学就业网：上海商泰汽车公司介绍",
+      "url": "https://jdjyw.jlu.edu.cn/mportal/company/details?id=1519",
+      "published": null,
+      "type": "company-profile",
+      "locator": "公司介绍；2015年业务转移，企业自述"
+    },
+    {
+      "id": "S3",
+      "title": "Linux Foundation：Suntec Software 加入基金会",
+      "url": "https://www.linuxfoundation.org/press/press-release/linux-foundation-adds-new-members-from-car-software-and-gaming-industries",
+      "published": "2013-05-28",
+      "type": "primary",
+      "locator": "公告中的 Suntec Software 段落"
+    },
+    {
+      "id": "S4",
+      "title": "上海市软件行业协会：2026年3月第四批软件产品评估名单",
+      "url": "https://www.softline.org.cn/News/ADetail/1590",
+      "published": "2026-03",
+      "type": "primary",
+      "locator": "沪RC-2026-0434，SDV Studio V1.0"
+    },
+    {
+      "id": "S5",
+      "title": "正道集团：独家经营权谅解备忘录",
+      "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2023/0929/2023092900548_c.pdf",
+      "published": "2023-09-29",
+      "type": "primary",
+      "locator": "第1页，特拉华州注册主体及交易不确定性"
+    },
+    {
+      "id": "S6",
+      "title": "每日经济新闻：高合融资报道与 iAuto Group 实益拥有人",
+      "url": "https://www.nbd.com.cn/articles/2024-05-21/3398238.html",
+      "published": "2024-05-21",
+      "type": "secondary",
+      "locator": "引述正道公告；不是独立股权档案，也不证明融资到账"
+    },
+    {
+      "id": "S7",
+      "title": "港交所：上市制度竞争力改革咨询总结",
+      "url": "https://www.hkex.com.hk/News/Regulatory-Announcements/2026/260724news?sc_lang=en",
+      "published": "2026-07-24",
+      "type": "primary",
+      "locator": "Confidential filing and enhanced Return Mechanism"
+    },
+    {
+      "id": "S8",
+      "title": "证监会：境内企业境外发行证券和上市管理试行办法",
+      "url": "https://www.csrc.gov.cn/csrc/c101954/c7124478/content.shtml",
+      "published": "2023-02-17",
+      "type": "primary",
+      "locator": "第43号公告；2023-03-31起施行"
+    },
+    {
+      "id": "S9",
+      "title": "山西证监局：关于境外上市备案的说明",
+      "url": "https://www.csrc.gov.cn/shanxi/c106408/c7479240/content.shtml",
+      "published": null,
+      "type": "primary",
+      "locator": "援引试行办法第十六条，首次境外提交后三个工作日内备案"
+    },
+    {
+      "id": "S10",
+      "title": "博泰车联2025年年度报告",
+      "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0428/2026042804606_c.pdf",
+      "published": "2026-04-28",
+      "type": "primary",
+      "locator": "主席报告，2025年度营业收入及交付量"
+    },
+    {
+      "id": "S11",
+      "title": "证券时报：博泰车联2025年报",
+      "url": "https://www.stcn.com/article/detail/3871592.html",
+      "published": "2026-04-29",
+      "type": "secondary",
+      "locator": "年度财报转述，非独立财务数据"
+    },
+    {
+      "id": "S12",
+      "title": "商泰汽车官网",
+      "url": "https://www.iauto.com/",
+      "published": null,
+      "type": "company",
+      "locator": "公司产品与战略自述"
+    },
+    {
+      "id": "S13",
+      "title": "上海市软件行业协会：2022年4月第二周软件产品评估名单",
+      "url": "https://www.softline.org.cn/News/ADetail/828",
+      "published": "2022-04",
+      "type": "primary",
+      "locator": "沪RC-2022-0861，SOME/IP软件"
+    }
+  ],
+  "limitations": [
+    "未取得原始工商历史档案、完整最新证监会备案表和商泰审计财务。",
+    "未确认最终发行人或其合并范围。",
+    "原研究中的埃泰克预付款、装机量及车型线索未取得充分原始定位，未作为确定事实刊载。",
+    "同名不构成关联证据；估值输入为演示假设。"
+  ],
+  "next_actions": [
+    "穿透商泰科技股东与境外公司",
+    "按发行人及境内实体检索港交所及证监会",
+    "取得财务报表及员工持股和知识产权归属材料"
+  ]
+}
