@@ -1,0 +1,110 @@
+{
+  "research_status": "partial",
+  "source": {
+    "original_path": "project-research/2026-11-25/bystander-effect-responsibility",
+    "original_date": "2026-11-25",
+    "provenance": "由一般性社会心理学问题独立撰写；不保存私人对话原文。"
+  },
+  "independent_recheck": "partial",
+  "sources": [
+    {
+      "id": "S1",
+      "title": "Darley & Latané (1968). Bystander intervention in emergencies: Diffusion of responsibility. JPSP 8(4), 377–383.",
+      "url": "https://www.ucdenver.edu/docs/librariesprovider102/default-document-library/bystander-intervention-john-darley-and-bibb-latane.pdf",
+      "locator": "Table 1, p. 380；方法 pp. 378–379",
+      "accessed_at": "2026-11-25"
+    },
+    {
+      "id": "S2",
+      "title": "Markey (2000). Bystander intervention in computer-mediated communication. Computers in Human Behavior 16, 183–188.",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0747563299000564",
+      "locator": "Results；点名与未点名的平均响应时间",
+      "accessed_at": "2026-11-25"
+    },
+    {
+      "id": "S3",
+      "title": "Fischer et al. (2011). The bystander-effect: a meta-analytic review on bystander intervention in dangerous and non-dangerous emergencies. Psychological Bulletin.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21534650/",
+      "locator": "Abstract；固定效应汇总及危险情境调节",
+      "accessed_at": "2026-11-25"
+    },
+    {
+      "id": "S4",
+      "title": "Philpot et al. (2020). Would I be helped? Cross-national CCTV footage shows that intervention is the norm in public conflicts. American Psychologist 75(1), 66–75.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31157529/",
+      "locator": "Abstract；219个公共冲突事件",
+      "accessed_at": "2026-11-25"
+    },
+    {
+      "id": "S5",
+      "title": "American Red Cross. Sudden Cardiac Arrest: How to Respond.",
+      "url": "https://www.redcross.org/take-a-class/resources/articles/sudden-cardiac-arrest-how-to-respond",
+      "locator": "急救呼叫及AED指引；不属于效果实验",
+      "accessed_at": "2026-11-25"
+    }
+  ],
+  "claims": [
+    {
+      "id": "C1",
+      "claim": "经典实验中三组及时报告比例85%、62%、31%",
+      "source": "S1",
+      "status": "SUPPORTED",
+      "limitations": "实验表1；模拟情境，不是群体实际获救率。",
+      "polarity": "support or contextual as specified"
+    },
+    {
+      "id": "C2",
+      "claim": "聊天室点名请求平均响应时间36.38秒，未点名51.53秒",
+      "source": "S2",
+      "status": "SUPPORTED",
+      "limitations": "出版商结果段；网络非紧急任务。",
+      "polarity": "support or contextual as specified"
+    },
+    {
+      "id": "C3",
+      "claim": "2011年元分析105个独立效应量，固定效应g=-0.35，危险等条件调节",
+      "source": "S3",
+      "status": "SUPPORTED",
+      "limitations": "摘要；未复算原始效应量。",
+      "polarity": "support or contextual as specified"
+    },
+    {
+      "id": "C4",
+      "claim": "219个公共冲突事件中约九成有至少一人干预",
+      "source": "S4",
+      "status": "SUPPORTED",
+      "limitations": "摘要；观察性事件样本，不是跌倒样本。",
+      "polarity": "support or contextual as specified"
+    },
+    {
+      "id": "C5",
+      "claim": "指定个人可普遍提高街头跌倒救援成功率",
+      "source": "S1,S2,S5",
+      "status": "PARTIALLY_SUPPORTED",
+      "limitations": "机制和跨情境线索，缺乏直接同类现场实验。",
+      "polarity": "support or contextual as specified"
+    },
+    {
+      "id": "C6",
+      "claim": "责任人制度能普遍改善组织绩效",
+      "source": "S2",
+      "status": "UNVERIFIED",
+      "limitations": "组织类比；未检索直接组织干预研究。",
+      "polarity": "support or contextual as specified"
+    }
+  ],
+  "verified_claims": [
+    "C1: 经典实验中三组及时报告比例85%、62%、31%",
+    "C2: 聊天室点名请求平均响应时间36.38秒，未点名51.53秒",
+    "C3: 2011年元分析105个独立效应量，固定效应g=-0.35，危险等条件调节",
+    "C4: 219个公共冲突事件中约九成有至少一人干预"
+  ],
+  "limitations": [
+    "未获得真实街头跌倒的点名随机试验；Markey结果仅核对出版商页面；元分析与CCTV研究核对摘要，未复算原数据。",
+    "概率示例为独立同质假设下的教学计算；组织管理迁移仅为推论。"
+  ],
+  "next_steps": [
+    "阅读后续研究完整方法与附录，寻找直接求助现场研究。",
+    "设计伦理合规的非紧急任务2×2实验。"
+  ]
+}
