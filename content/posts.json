@@ -774,5 +774,32 @@
       "src": "assets/mechanism.svg",
       "caption": "历史案例与现代新部门建设的机制示意；非实证数据"
     }
+  },
+  {
+    "slug": "secondment-career-capital",
+    "title": "不要害怕，但要看懂规则",
+    "subtitle": "普通家庭子女的体制内发展、借调风险与职业资本积累",
+    "category": "institutions",
+    "topic": "personnel-systems",
+    "status": "published",
+    "research_status": "outline",
+    "published": "2026-11-25",
+    "updated": "2026-11-25",
+    "original_source_date": "unknown",
+    "reading_minutes": 15,
+    "tags": [
+      "借调",
+      "组织人事",
+      "职业发展",
+      "信息差",
+      "组织激励",
+      "职业资本"
+    ],
+    "summary": "以匿名借调经历为未核实案例，讨论劳动使用与人事归属、评价和贡献的错配、机会成本与合理交涉，并提供交互式决策核查清单。",
+    "source_path": "posts/institutions/secondment-career-capital/source.md",
+    "cover": {
+      "src": "assets/02-secondment.svg",
+      "caption": "原单位与借调单位的双重关系：人事归属与工作安排的概念模型，非实证数据"
+    }
   }
 ]
