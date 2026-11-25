@@ -1,0 +1,40 @@
+{
+  "schema_version": 1,
+  "source": {
+    "original_path": "用户提供的匿名个人经历（原始公开出处、作者及日期不明；不保存原文）",
+    "original_record_date": "unknown",
+    "accessed_at": "2026-11-25"
+  },
+  "research_status": "outline",
+  "independent_recheck": "not_performed",
+  "source_urls": [],
+  "claims": [
+    {
+      "id": "C1",
+      "claim": "作者自述借调两年并经历奖励和岗位安排变化",
+      "status": "UNVERIFIED",
+      "limitations": "单方面叙述，无任免文件、考核记录或独立采访"
+    },
+    {
+      "id": "C2",
+      "claim": "双重组织关系可能造成贡献与评价错配",
+      "status": "UNVERIFIED",
+      "type": "HYPOTHESIS",
+      "limitations": "机制解释，不是发生率或因果估计"
+    },
+    {
+      "id": "C3",
+      "claim": "明确期限、退出路径与审批权限有助于梳理借调决策",
+      "status": "UNVERIFIED",
+      "type": "PRACTICAL_FRAMEWORK",
+      "limitations": "不代表适用法律规定或晋升预测"
+    }
+  ],
+  "limitations": [
+    "不确定原作者、日期、地区与具体身份",
+    "未检索现行地区人事规则或独立核实个案",
+    "六幅图是概念示意，非测量结果",
+    "交涉成功叙事可能有选择偏差；不存在可推广的必然成功策略"
+  ],
+  "next_action": "核验适用范围内的借调规定、调任程序、考核记录与有对照的失败案例。"
+}
