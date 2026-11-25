@@ -1,0 +1,274 @@
+{
+  "schema_version": 1,
+  "source": {
+    "original_path": "https://www.zhihu.com/question/2106013584778175176/answer/2108685699734041892",
+    "original_record_date": "2026-11-24",
+    "research_date": "2026-11-25"
+  },
+  "research_status": "partial",
+  "independent_recheck": "partial",
+  "source_urls": [
+    "https://www.helgilibrary.com/companies/jetbrains",
+    "https://braindetox.kr/en/posts/jetbrains_2025_net_loss_czech_filing_2026.html",
+    "https://www.jetbrains.com/lp/annualreport-2026/",
+    "https://blog.jetbrains.com/fleet/2025/12/the-future-of-fleet/",
+    "https://blog.jetbrains.com/blog/2026/09/22/introducing-jetbrains-air/",
+    "https://www.jetbrains.com/help/air/air-in-ides-overview.html",
+    "https://blog.jetbrains.com/junie/2026/06/junie-coding-agent-out-of-beta/",
+    "https://blog.jetbrains.com/ai/2025/04/mellum-goes-open-source-a-purpose-built-llm-for-developers-now-on-hugging-face/",
+    "https://plugins.jetbrains.com/docs/intellij/indexing-and-psi-stubs.html",
+    "https://www.jetbrains.com/help/idea/mcp-server.html",
+    "https://www.jetbrains.com/help/qodana/quick-start.html",
+    "https://code.visualstudio.com/api/language-extensions/language-server-extension-guide",
+    "https://cursor.com/en-US/blog/joining-spacex",
+    "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/",
+    "https://blog.jetbrains.com/blog/2022/12/06/update-on-jetbrains-statement-on-ukraine/",
+    "https://arxiv.org/abs/2507.09089",
+    "https://metr.org/blog/2026-02-24-uplift-update/",
+    "https://d3.harvard.edu/platform-digit/submission/bye-bye-britannica-hey-siri/index.html",
+    "https://www.jetbrains.com/store/ai/",
+    "https://www.zhihu.com/question/2106013584778175176/answer/2108685699734041892"
+  ],
+  "limitations": [
+    "财务数据主要为二手整理；未取得原始单体财务报表及附注",
+    "未取得集团合并报表；不可直接将捷克法人净亏损外推为集团亏损",
+    "缺乏成本分项及可识别因果证据；情景与交互模型为示意"
+  ],
+  "next_action": "查验原始捷克法人财务报告及附注、集团合并范围、AI 成本分项和产品续费指标",
+  "claims": [
+    {
+      "id": "financial",
+      "claim": "捷克单体 2025 营收 160.08 亿、净利 −3.15 亿、EBIT 7.51 亿、净财务费用 10.78 亿",
+      "kind": "financial",
+      "source_url": "https://www.helgilibrary.com/companies/jetbrains",
+      "locator": "单体财务，2021–2025",
+      "status": "verified",
+      "notes": "二手整理表核实；非原件审计"
+    },
+    {
+      "id": "series",
+      "claim": "2021–25 营收、毛利、EBIT、净利润和毛利率系列",
+      "kind": "financial",
+      "source_url": "https://braindetox.kr/en/posts/jetbrains_2025_net_loss_czech_filing_2026.html",
+      "locator": "转引 Helgi；非原始报表",
+      "status": "verified",
+      "notes": "Helgi 数据转录；其他报道早年口径有差异"
+    },
+    {
+      "id": "bridge",
+      "claim": "税前非营业项目变化约 −20.16 亿，营业利润变化 −12.91 亿，税项改善 5.13 亿",
+      "kind": "financial",
+      "source_url": "https://braindetox.kr/en/posts/jetbrains_2025_net_loss_czech_filing_2026.html",
+      "locator": "转引 Helgi；非原始报表",
+      "status": "derived",
+      "notes": "根据 2024 与 2025 利润表计算，舍入差"
+    },
+    {
+      "id": "cash",
+      "claim": "现金 14.44 亿、经营现金流 63.53 亿、投资现金流 −102.73 亿、融资 −16.13 亿、权益 19.74 亿、股利 16.65 亿",
+      "kind": "financial",
+      "source_url": "https://braindetox.kr/en/posts/jetbrains_2025_net_loss_czech_filing_2026.html",
+      "locator": "转引 Helgi；非原始报表",
+      "status": "verified",
+      "notes": "二手标准化单体报表"
+    },
+    {
+      "id": "ownership",
+      "claim": "捷克法人由荷兰 JetBrains N.V. 持有",
+      "kind": "financial",
+      "source_url": "https://braindetox.kr/en/posts/jetbrains_2025_net_loss_czech_filing_2026.html",
+      "locator": "转引 Helgi；非原始报表",
+      "status": "verified",
+      "notes": "二手登记研究，未直接核实原件"
+    },
+    {
+      "id": "group",
+      "claim": "集团合并净亏损和历史首次",
+      "kind": "financial",
+      "source_url": "https://braindetox.kr/en/posts/jetbrains_2025_net_loss_czech_filing_2026.html",
+      "locator": "转引 Helgi；非原始报表",
+      "status": "unverified",
+      "notes": "无集团合并报表"
+    },
+    {
+      "id": "adoption",
+      "claim": "Junie 34.3 万，2025-03-26 起统计；1250 万+ 经常活跃用户、88 家 Fortune Global Top 100",
+      "kind": "analysis",
+      "source_url": "https://www.jetbrains.com/lp/annualreport-2026/",
+      "locator": "2025 用户、Junie、企业及地区指标；公司自报",
+      "status": "verified",
+      "notes": "公司自报；不可推算付费转化"
+    },
+    {
+      "id": "fleet",
+      "claim": "Fleet 2025-12-22 停止分发，2026-05 演变为 Air",
+      "kind": "analysis",
+      "source_url": "https://blog.jetbrains.com/fleet/2025/12/the-future-of-fleet/",
+      "locator": "2025-12；2026-05 更新",
+      "status": "verified",
+      "notes": "官方博客及更新"
+    },
+    {
+      "id": "air",
+      "claim": "2026-09-22 Air 多产品战略",
+      "kind": "analysis",
+      "source_url": "https://blog.jetbrains.com/blog/2026/09/22/introducing-jetbrains-air/",
+      "locator": "2026-09-22",
+      "status": "verified",
+      "notes": "部分是计划，不是全交付"
+    },
+    {
+      "id": "air-ide",
+      "claim": "Air 2026.2 插件、2026.3 IDE 集成",
+      "kind": "analysis",
+      "source_url": "https://www.jetbrains.com/help/air/air-in-ides-overview.html",
+      "locator": "2026.2 插件 / 2026.3 集成",
+      "status": "verified",
+      "notes": "官方文档"
+    },
+    {
+      "id": "junie",
+      "claim": "Junie GA、CLI、ACP",
+      "kind": "analysis",
+      "source_url": "https://blog.jetbrains.com/junie/2026/06/junie-coding-agent-out-of-beta/",
+      "locator": "2026-06；CLI、ACP",
+      "status": "verified",
+      "notes": "官方公告"
+    },
+    {
+      "id": "mellum",
+      "claim": "专用代码补全模型开源",
+      "kind": "analysis",
+      "source_url": "https://blog.jetbrains.com/ai/2025/04/mellum-goes-open-source-a-purpose-built-llm-for-developers-now-on-hugging-face/",
+      "locator": "2025-04；代码补全模型",
+      "status": "verified",
+      "notes": "官方公告"
+    },
+    {
+      "id": "psi",
+      "claim": "stub index 查询 PSI 元素",
+      "kind": "analysis",
+      "source_url": "https://plugins.jetbrains.com/docs/intellij/indexing-and-psi-stubs.html",
+      "locator": "SDK 技术文档",
+      "status": "verified",
+      "notes": "SDK 文档"
+    },
+    {
+      "id": "mcp",
+      "claim": "IDE MCP 支持语义重命名",
+      "kind": "analysis",
+      "source_url": "https://www.jetbrains.com/help/idea/mcp-server.html",
+      "locator": "可调用工具及语义重命名",
+      "status": "verified",
+      "notes": "官方工具说明"
+    },
+    {
+      "id": "qodana",
+      "claim": "CLI 和 CI 静态检查",
+      "kind": "analysis",
+      "source_url": "https://www.jetbrains.com/help/qodana/quick-start.html",
+      "locator": "CI / CLI 静态检查",
+      "status": "verified",
+      "notes": "官方文档"
+    },
+    {
+      "id": "lsp",
+      "claim": "LSP 是语言服务协议",
+      "kind": "analysis",
+      "source_url": "https://code.visualstudio.com/api/language-extensions/language-server-extension-guide",
+      "locator": "LSP 与语言服务",
+      "status": "verified",
+      "notes": "官方指南"
+    },
+    {
+      "id": "cursor",
+      "claim": "2026-08-14 Cursor 并入 SpaceX",
+      "kind": "analysis",
+      "source_url": "https://cursor.com/en-US/blog/joining-spacex",
+      "locator": "2026-08-14",
+      "status": "verified",
+      "notes": "公司公告，C2 SEC 季报支持"
+    },
+    {
+      "id": "model-contract",
+      "claim": "OpenAI 公告拟停止供应 Cursor",
+      "kind": "analysis",
+      "source_url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/",
+      "locator": "拟终止模型供应的公告；不等于已实际停止",
+      "status": "verified",
+      "notes": "公告意向，未核验执行"
+    },
+    {
+      "id": "russia",
+      "claim": "2022 年停止俄罗斯研发",
+      "kind": "analysis",
+      "source_url": "https://blog.jetbrains.com/blog/2022/12/06/update-on-jetbrains-statement-on-ukraine/",
+      "locator": "2022-12-06",
+      "status": "verified",
+      "notes": "官方公告，具体人数和金额未知"
+    },
+    {
+      "id": "rct",
+      "claim": "16 人 246 任务，早期 2025 实验耗时增加 19%",
+      "kind": "analysis",
+      "source_url": "https://arxiv.org/abs/2507.09089",
+      "locator": "16 人、246 个任务；2025 年早期模型",
+      "status": "verified",
+      "notes": "研究样本，不外推"
+    },
+    {
+      "id": "rct-update",
+      "claim": "2026 年调整实验设计",
+      "kind": "analysis",
+      "source_url": "https://metr.org/blog/2026-02-24-uplift-update/",
+      "locator": "选择偏差与后续设计",
+      "status": "verified",
+      "notes": "研究者更新"
+    },
+    {
+      "id": "history",
+      "claim": "Britannica 1990 收入约 6.5 亿美元",
+      "kind": "analysis",
+      "source_url": "https://d3.harvard.edu/platform-digit/submission/bye-bye-britannica-hey-siri/index.html",
+      "locator": "案例文章；历史营收为估计",
+      "status": "verified",
+      "notes": "历史案例转述"
+    },
+    {
+      "id": "economics",
+      "claim": "月费 20 美元、5M Token、混合单价 3 美元、其他成本 3 美元",
+      "kind": "analysis",
+      "source_url": "https://www.jetbrains.com/store/ai/",
+      "locator": "计划与额度；价格以结账地区为准",
+      "status": "illustrative",
+      "notes": "假设值，不是公司真实费率"
+    },
+    {
+      "id": "rename",
+      "claim": "文本替换 5 处、语义重命名 2 处",
+      "kind": "analysis",
+      "source_url": "https://plugins.jetbrains.com/docs/intellij/indexing-and-psi-stubs.html",
+      "locator": "SDK 技术文档",
+      "status": "illustrative",
+      "notes": "手工示意，不是实际 PSI 运行"
+    },
+    {
+      "id": "causes",
+      "claim": "搬迁人数、Fleet 损失额、AI 成本贡献及 Swing 因果",
+      "kind": "analysis",
+      "source_url": "https://www.zhihu.com/question/2106013584778175176/answer/2108685699734041892",
+      "locator": "2026-11-24；待核验的评论，不作事实来源",
+      "status": "unverified",
+      "notes": "缺少直接证据"
+    },
+    {
+      "id": "future",
+      "claim": "语义工具开放与三种情景",
+      "kind": "analysis",
+      "source_url": "https://blog.jetbrains.com/blog/2026/09/22/introducing-jetbrains-air/",
+      "locator": "2026-09-22",
+      "status": "illustrative",
+      "notes": "作者建议而非预测或已公开完整 API"
+    }
+  ]
+}

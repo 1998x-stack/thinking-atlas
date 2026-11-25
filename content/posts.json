@@ -774,5 +774,32 @@
       "src": "assets/mechanism.svg",
       "caption": "历史案例与现代新部门建设的机制示意；非实证数据"
     }
+  },
+  {
+    "slug": "jetbrains-ai-transition",
+    "title": "JetBrains 首次亏损：IDE 的黄昏，还是工程智能的黎明？",
+    "subtitle": "从捷克法人财务、AI 单位经济到面向 Agent 的确定性工程基础设施。",
+    "category": "technology",
+    "topic": "dependency-transitions",
+    "status": "published",
+    "research_status": "partial",
+    "published": "2026-11-25",
+    "updated": "2026-11-25",
+    "original_source_date": "2026-11-24",
+    "reading_minutes": 25,
+    "tags": [
+      "JetBrains",
+      "AI Agent",
+      "IDE",
+      "PSI",
+      "软件工程",
+      "单位经济"
+    ],
+    "summary": "拆解捷克法人利润表、AI 成本与竞争假设，分析 PSI、LSP、Fleet、Junie 和 Air 的战略演进，区分已核验材料、推论与待证假设。",
+    "source_path": "posts/technology/jetbrains-ai-transition/source.md",
+    "cover": {
+      "src": "assets/agent-infrastructure.svg",
+      "caption": "从 IDE 操作入口转向面向 Agent 的语义、验证与治理工具；战略机制示意，并非实证统计"
+    }
   }
 ]
