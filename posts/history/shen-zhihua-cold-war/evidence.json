@@ -1,0 +1,330 @@
+{
+  "schema_version": 1,
+  "source": {
+    "original_path": "posts/history/shen-zhihua-cold-war/source.md",
+    "description": "基于公开文献重新撰写的研究底稿，不是私人会话转录",
+    "original_record_date": "2026-11-25"
+  },
+  "research_status": "partial",
+  "independent_recheck": "partial",
+  "source_urls": [
+    {
+      "id": "S1",
+      "title": "沈志华：教师简介",
+      "publisher": "华东师范大学历史学系",
+      "published_at": null,
+      "accessed_at": "2026-11-25",
+      "url": "https://history.ecnu.edu.cn/60/64/c31212a221284/page.htm",
+      "locator": "生平、研究领域、专著及档案集目录"
+    },
+    {
+      "id": "S2",
+      "title": "保障苏联在远东的战略利益——试论朝鲜战争起因与斯大林的决策动机",
+      "publisher": "华东师范大学学报",
+      "published_at": "2012",
+      "accessed_at": "2026-11-25",
+      "url": "https://xbzs.ecnu.edu.cn/CN/html/201204006.htm",
+      "locator": "44卷4期，35–48页；目标与实现条件的区别"
+    },
+    {
+      "id": "S3",
+      "title": "1950年1月30—31日苏联密电（英译）",
+      "publisher": "National Security Archive / CWIHP",
+      "published_at": "1950-01",
+      "accessed_at": "2026-11-25",
+      "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB14/doc7.htm",
+      "locator": "斯大林与什特科夫往来电报；解密译本"
+    },
+    {
+      "id": "S4",
+      "title": "The Korean War in the Context of Sino-Soviet Relations",
+      "publisher": "Kathryn Weathersby，H-Diplo；USC转载",
+      "published_at": "2013-04",
+      "accessed_at": "2026-11-25",
+      "url": "https://china.usc.edu/node/21599",
+      "locator": "讨论港口解释、NSC-48与美国干预预期"
+    },
+    {
+      "id": "S5",
+      "title": "立国之战——抗美援朝战争与中国决策",
+      "publisher": "清华大学国际与地区研究院",
+      "published_at": "2020-10-09",
+      "accessed_at": "2026-11-25",
+      "url": "https://iias.tsinghua.edu.cn/info/1252/2550.htm",
+      "locator": "讲座纪要，非逐字实录"
+    },
+    {
+      "id": "S6",
+      "title": "试论无产阶级国际主义的困境——从中苏同盟破裂看社会主义国家关系的结构失衡",
+      "publisher": "华东师范大学人文与社会科学研究院",
+      "published_at": "2017-03-27",
+      "accessed_at": "2026-11-25",
+      "url": "https://rwsk.ecnu.edu.cn/eb/e9/c25014a257001/page.htm",
+      "locator": "2017年4月10日报告预告及内容提要"
+    },
+    {
+      "id": "S7",
+      "title": "友谊的代价——中朝关系的历史考察",
+      "publisher": "上海交通大学焦点网",
+      "published_at": "2013",
+      "accessed_at": "2026-11-25",
+      "url": "https://jd.sjtu.edu.cn/web/JDJDW/2960079-2960000000056.htm",
+      "locator": "第61期焦点讲坛记录"
+    },
+    {
+      "id": "S8",
+      "title": "沈志华谈国际视野下的中国1956—1957",
+      "publisher": "华东师范大学转载《东方早报》",
+      "published_at": null,
+      "accessed_at": "2026-11-25",
+      "url": "https://www.ecnu.edu.cn/info/1095/9004.htm",
+      "locator": "标题可检索，本轮正文再次访问超时"
+    },
+    {
+      "id": "S9",
+      "title": "斯大林与中国内战的起源（1945—1946）",
+      "publisher": "沈志华，爱思想转载",
+      "published_at": null,
+      "accessed_at": "2026-11-25",
+      "url": "https://www.aisixiang.com/data/24676.html",
+      "locator": "摘要及苏联对华战略目标段"
+    },
+    {
+      "id": "S10",
+      "title": "发现曾经真实的苏联",
+      "publisher": "《中国改革》访谈，新浪转载",
+      "published_at": "2009-12-02",
+      "accessed_at": "2026-11-25",
+      "url": "https://news.sina.com.cn/c/2009-12-02/155319174839.shtml",
+      "locator": "三次改革的访谈段落"
+    },
+    {
+      "id": "S11",
+      "title": "观察“冷战发生”的新视角",
+      "publisher": "沈志华，华东师范大学学报",
+      "published_at": "2023-01-18",
+      "accessed_at": "2026-11-25",
+      "url": "https://xbzs.ecnu.edu.cn/CN/abstract/article/1000-5579/11871",
+      "locator": "55卷1期53–60页，DOI 10.16382/j.cnki.1000-5579.2023.01.005；摘要"
+    },
+    {
+      "id": "S12",
+      "title": "朝鲜、韩国，谁才是中国的朋友？",
+      "publisher": "吴晓波频道，新浪转载",
+      "published_at": "2017-04-17",
+      "accessed_at": "2026-11-25",
+      "url": "https://think.sina.cn/guoji/doc--ifyeifqx6050949.d.html?vt=4",
+      "locator": "演讲节选；非完整录音"
+    },
+    {
+      "id": "S13",
+      "title": "中朝关系演变与朝鲜拥核政策的关联",
+      "publisher": "复育智库转载研讨发言",
+      "published_at": null,
+      "accessed_at": "2026-11-25",
+      "url": "https://www.fuyuzhiku.com/archives/3448",
+      "locator": "发言中回顾2017年3月讲演；非独立的原演讲实录"
+    },
+    {
+      "id": "S14",
+      "title": "请问沈志华，军队归美国指挥的韩国如何亲华反美？",
+      "publisher": "鹿野，红色文化网",
+      "published_at": "2017-04-03",
+      "accessed_at": "2026-11-25",
+      "url": "https://m1.hswh.org.cn/wzzx/llyd/zz/2017-04-03/43444.html",
+      "locator": "政策立场评论，反对意见而非独立事实核验"
+    }
+  ],
+  "verified_claims": [
+    "C01",
+    "C03",
+    "C05",
+    "C07",
+    "C10",
+    "C11",
+    "C12"
+  ],
+  "claims": [
+    {
+      "id": "C01",
+      "claim": "沈志华的学术领域及档案集编纂记录",
+      "kind": "historical_claim_or_attribution",
+      "source_id": "S1",
+      "source_url": "https://history.ecnu.edu.cn/60/64/c31212a221284/page.htm",
+      "locator": "生平、研究领域、专著及档案集目录",
+      "status": "verified",
+      "claim_status": "SUPPORTED",
+      "polarity": "context_or_support",
+      "notes": "大学教师简介；不是对全部档案内容的核验"
+    },
+    {
+      "id": "C02",
+      "claim": "1950年1月苏联电报显示斯大林对朝鲜计划的态度变化",
+      "kind": "historical_claim_or_attribution",
+      "source_id": "S3",
+      "source_url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB14/doc7.htm",
+      "locator": "斯大林与什特科夫往来电报；解密译本",
+      "status": "unverified",
+      "claim_status": "PARTIALLY_SUPPORTED",
+      "polarity": "context_or_support",
+      "notes": "译本为直接文献线索，本轮未核原俄文全卷"
+    },
+    {
+      "id": "C03",
+      "claim": "苏联远东权益是斯大林决策的关键目标，是沈的论点",
+      "kind": "historical_claim_or_attribution",
+      "source_id": "S2",
+      "source_url": "https://xbzs.ecnu.edu.cn/CN/html/201204006.htm",
+      "locator": "44卷4期，35–48页；目标与实现条件的区别",
+      "status": "verified",
+      "claim_status": "SUPPORTED",
+      "polarity": "context_or_support",
+      "notes": "支持作者归属；不证明动机唯一"
+    },
+    {
+      "id": "C04",
+      "claim": "远东权益足以单独解释战争爆发",
+      "kind": "historical_claim_or_attribution",
+      "source_id": "S4",
+      "source_url": "https://china.usc.edu/node/21599",
+      "locator": "讨论港口解释、NSC-48与美国干预预期",
+      "status": "unverified",
+      "claim_status": "DISPUTED",
+      "polarity": "counterevidence",
+      "notes": "美国干预预期与风险判断属于竞争解释；不能仅凭书评证明全部动机"
+    },
+    {
+      "id": "C05",
+      "claim": "沈在2020年清华讲座提出立国之战观点",
+      "kind": "historical_claim_or_attribution",
+      "source_id": "S5",
+      "source_url": "https://iias.tsinghua.edu.cn/info/1252/2550.htm",
+      "locator": "讲座纪要，非逐字实录",
+      "status": "verified",
+      "claim_status": "SUPPORTED",
+      "polarity": "context_or_support",
+      "notes": "机构纪要，非完整逐字稿"
+    },
+    {
+      "id": "C06",
+      "claim": "出兵是全部苏援的必要条件",
+      "kind": "historical_claim_or_attribution",
+      "source_id": "S5",
+      "source_url": "https://iias.tsinghua.edu.cn/info/1252/2550.htm",
+      "locator": "讲座纪要，非逐字实录",
+      "status": "unverified",
+      "claim_status": "UNVERIFIED",
+      "polarity": "context_or_support",
+      "notes": "反事实不能由战后合作直接推出"
+    },
+    {
+      "id": "C07",
+      "claim": "沈提出中苏同盟结构失衡论",
+      "kind": "historical_claim_or_attribution",
+      "source_id": "S6",
+      "source_url": "https://rwsk.ecnu.edu.cn/eb/e9/c25014a257001/page.htm",
+      "locator": "2017年4月10日报告预告及内容提要",
+      "status": "verified",
+      "claim_status": "SUPPORTED",
+      "polarity": "context_or_support",
+      "notes": "官方报告内容提要；理论归属可定位，普遍因果尚待检验"
+    },
+    {
+      "id": "C08",
+      "claim": "中朝关系历史并非静态单一友谊",
+      "kind": "historical_claim_or_attribution",
+      "source_id": "S7",
+      "source_url": "https://jd.sjtu.edu.cn/web/JDJDW/2960079-2960000000056.htm",
+      "locator": "第61期焦点讲坛记录",
+      "status": "unverified",
+      "claim_status": "PARTIALLY_SUPPORTED",
+      "polarity": "context_or_support",
+      "notes": "讲座报道、书目；未逐页核原书"
+    },
+    {
+      "id": "C09",
+      "claim": "整风初期不存在预谋诱捕",
+      "kind": "historical_claim_or_attribution",
+      "source_id": "S8",
+      "source_url": "https://www.ecnu.edu.cn/info/1095/9004.htm",
+      "locator": "标题可检索，本轮正文再次访问超时",
+      "status": "unverified",
+      "claim_status": "UNVERIFIED",
+      "polarity": "context_or_support",
+      "notes": "访谈页面正文重访超时，未核对应专著原页"
+    },
+    {
+      "id": "C10",
+      "claim": "沈认为苏联有三次未成功的改革",
+      "kind": "historical_claim_or_attribution",
+      "source_id": "S10",
+      "source_url": "https://news.sina.com.cn/c/2009-12-02/155319174839.shtml",
+      "locator": "三次改革的访谈段落",
+      "status": "verified",
+      "claim_status": "SUPPORTED",
+      "polarity": "context_or_support",
+      "notes": "访谈中的解释性分期"
+    },
+    {
+      "id": "C11",
+      "claim": "沈将苏联对国共政策变化放在远东战略利益中解释",
+      "kind": "historical_claim_or_attribution",
+      "source_id": "S9",
+      "source_url": "https://www.aisixiang.com/data/24676.html",
+      "locator": "摘要及苏联对华战略目标段",
+      "status": "verified",
+      "claim_status": "SUPPORTED",
+      "polarity": "context_or_support",
+      "notes": "作者论文转载摘要；未逐件复核档案"
+    },
+    {
+      "id": "C12",
+      "claim": "2023年沈提出经济视角解释冷战形成",
+      "kind": "historical_claim_or_attribution",
+      "source_id": "S11",
+      "source_url": "https://xbzs.ecnu.edu.cn/CN/abstract/article/1000-5579/11871",
+      "locator": "55卷1期53–60页，DOI 10.16382/j.cnki.1000-5579.2023.01.005；摘要",
+      "status": "verified",
+      "claim_status": "SUPPORTED",
+      "polarity": "context_or_support",
+      "notes": "期刊摘要与DOI；不等于经济因素唯一"
+    },
+    {
+      "id": "C13",
+      "claim": "沈曾在2017年提出朝鲜潜在敌人、韩国可能朋友的判断",
+      "kind": "historical_claim_or_attribution",
+      "source_id": "S13",
+      "source_url": "https://www.fuyuzhiku.com/archives/3448",
+      "locator": "发言中回顾2017年3月讲演；非独立的原演讲实录",
+      "status": "unverified",
+      "claim_status": "PARTIALLY_SUPPORTED",
+      "polarity": "context_or_support",
+      "notes": "本人后续发言转载与当年节选；未取得原始录音"
+    },
+    {
+      "id": "C14",
+      "claim": "韩国主导的统一一定符合中国利益",
+      "kind": "historical_claim_or_attribution",
+      "source_id": "S14",
+      "source_url": "https://m1.hswh.org.cn/wzzx/llyd/zz/2017-04-03/43444.html",
+      "locator": "政策立场评论，反对意见而非独立事实核验",
+      "status": "unverified",
+      "claim_status": "UNVERIFIED",
+      "polarity": "context_or_support",
+      "notes": "政策意见与反对意见并存；缺少完整反事实安全安排"
+    }
+  ],
+  "limitations": [
+    "仅定向核对公开资料，未复核所有俄文原档与专著原页",
+    "S8正文重访超时；只保留书目及待核问题",
+    "S12和S13为节选或转载，并非两份独立原始录音",
+    "S14为政策评论，不能用于证明经验事实",
+    "图示为本文解释模型，不代表统计或因果识别"
+  ],
+  "next_steps": [
+    "逐件核俄文档案与1950年电报原件",
+    "补充1956—1957年专著原页及朝鲜内部档案",
+    "取得2017年原始演讲录音与完整文本",
+    "独立检验经济冷战的反向因果及结构失衡理论"
+  ]
+}
