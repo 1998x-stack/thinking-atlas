@@ -774,5 +774,31 @@
       "src": "assets/mechanism.svg",
       "caption": "历史案例与现代新部门建设的机制示意；非实证数据"
     }
+  },
+  {
+    "slug": "central-committee-discipline-2012-2026",
+    "title": "十八届至二十届中央委员会处分统计：查处人数、换届更新与治理边界",
+    "subtitle": "从全会公报重建35、5、51的计数，区分处分确认、立案调查、人员去重与实际违纪风险。",
+    "category": "institutions",
+    "topic": "personnel-systems",
+    "status": "published",
+    "research_status": "partial",
+    "published": "2026-11-25",
+    "updated": "2026-11-25",
+    "reading_minutes": 12,
+    "tags": [
+      "中央委员会",
+      "纪律处分",
+      "反腐",
+      "干部任用",
+      "统计口径",
+      "组织治理"
+    ],
+    "summary": "复核三届全会确认处分35、5、51的计数，区分累计席位、独立成员、立案调查与真实违纪率，提出跨届去重和固定随访方案。",
+    "source_path": "posts/institutions/central-committee-discipline-2012-2026/source.md",
+    "cover": {
+      "src": "assets/mechanism.svg",
+      "caption": "三届中央委员会全会公报确认处分人数及初始规模比值"
+    }
   }
 ]
