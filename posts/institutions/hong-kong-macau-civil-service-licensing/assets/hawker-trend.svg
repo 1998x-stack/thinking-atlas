@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 495" role="img" aria-labelledby="tt td">
+<title id="tt">2022至2025香港有效小贩牌照存量</title>
+<desc id="td">两张独立纵向刻度的折线图。固定摊位：2022年5200，2023年5053，2024年4848，2025年4714。流动小贩：2022年304，2023年270，2024年233，2025年218。仅为年末有效存量，不代表发牌或利润。</desc>
+<rect width="900" height="495" rx="18" fill="#f5f8f3"/>
+<g font-family="system-ui,-apple-system,'Noto Sans CJK SC',sans-serif" fill="#264943">
+<text x="42" y="45" font-size="26" font-weight="750">有效小贩牌照数：2022—2025年末</text>
+<text x="42" y="76" font-size="16" fill="#6a7a73">两组类别各自独立刻度 · 单位：张 · 来源：食环署</text>
+<text x="42" y="116" font-size="20" font-weight="700">固定摊位</text>
+<text x="42" y="318" font-size="20" font-weight="700">流动小贩</text>
+</g>
+<g fill="none" stroke="#d8e3da" stroke-width="2"><path d="M235 137H848M235 190H848M235 243H848M235 339H848M235 388H848M235 437H848"/></g>
+<path d="M255 145 L449 172 L643 210 L837 237" fill="none" stroke="#347e72" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M255 344 L449 383 L643 426 L837 440" fill="none" stroke="#c08359" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<g fill="#347e72"><circle cx="255" cy="145" r="7"/><circle cx="449" cy="172" r="7"/><circle cx="643" cy="210" r="7"/><circle cx="837" cy="237" r="7"/></g>
+<g fill="#c08359"><circle cx="255" cy="344" r="7"/><circle cx="449" cy="383" r="7"/><circle cx="643" cy="426" r="7"/><circle cx="837" cy="440" r="7"/></g>
+<g font-size="17" text-anchor="middle" font-weight="650" font-family="system-ui,-apple-system,'Noto Sans CJK SC',sans-serif" fill="#285a50">
+<text x="255" y="130">5,200</text><text x="449" y="156">5,053</text><text x="643" y="193">4,848</text><text x="837" y="220">4,714</text>
+</g>
+<g font-size="17" text-anchor="middle" font-weight="650" font-family="system-ui,-apple-system,'Noto Sans CJK SC',sans-serif" fill="#9b5b3a">
+<text x="255" y="331">304</text><text x="449" y="369">270</text><text x="643" y="412">233</text><text x="837" y="425">218</text>
+</g>
+<g font-size="16" text-anchor="middle" font-family="system-ui,-apple-system,'Noto Sans CJK SC',sans-serif" fill="#64746c">
+<text x="255" y="271">2022</text><text x="449" y="271">2023</text><text x="643" y="271">2024</text><text x="837" y="271">2025</text>
+<text x="255" y="468">2022</text><text x="449" y="468">2023</text><text x="643" y="468">2024</text><text x="837" y="468">2025</text>
+</g>
+</svg>
