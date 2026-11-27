@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 740" role="img" aria-labelledby="ttl desc">
+<title id="ttl">2016年前后军队组织链条的重组</title>
+<desc id="desc">左侧是改革前四总部与七大军区，中部显示四总部改组为十五个军委机关职能部门，右侧是改革后军委指挥与管理的双路径：军委到战区再到部队的作战指挥路径，军委到军种再到部队的建设管理路径。下部单独展示军委审计和纪律监督机构。箭头为制度关系示意，不代表特定个人腐败案件的因果。</desc>
+<defs><linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop offset="0" stop-color="#fbfcf8"/><stop offset="1" stop-color="#eaf3ef"/></linearGradient><filter id="shade" x="-20%" y="-20%" width="140%" height="150%"><feDropShadow dx="0" dy="3" stdDeviation="7" flood-color="#334d42" flood-opacity=".1"/></filter><marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 Z" fill="#297a70"/></marker></defs>
+<rect width="1280" height="740" fill="url(#bg)"/>
+<g font-family="Arial,'Noto Sans CJK SC','Microsoft YaHei',sans-serif">
+<text x="54" y="55" font-size="19" letter-spacing="3" font-weight="700" fill="#28756b">THINKING ATLAS / INSTITUTIONS &amp; POWER</text>
+<text x="54" y="108" font-size="38" font-weight="750" fill="#163d3b">一场改革，两种权力链条</text>
+<text x="54" y="145" font-size="21" fill="#587470">从四总部到军委多部门制，同时区分“作战指挥”与“建设管理”</text>
+<rect x="45" y="185" width="300" height="383" rx="20" fill="#fdfdfb" stroke="#c2d5ce" filter="url(#shade)"/>
+<text x="70" y="225" font-size="17" font-weight="700" fill="#a46b49">改革前 / BEFORE</text>
+<rect x="70" y="248" width="250" height="108" rx="14" fill="#ebf0eb"/>
+<text x="195" y="287" text-anchor="middle" font-size="27" font-weight="700" fill="#254841">中央军委</text>
+<text x="195" y="323" text-anchor="middle" font-size="19" fill="#557067">四总部职能体系</text>
+<g fill="#f2f5f1" stroke="#d3e2d9">
+<rect x="70" y="370" width="118" height="66" rx="11"/>
+<rect x="202" y="370" width="118" height="66" rx="11"/>
+<rect x="70" y="448" width="118" height="66" rx="11"/>
+<rect x="202" y="448" width="118" height="66" rx="11"/>
+</g>
+<g text-anchor="middle" fill="#34544d" font-size="21" font-weight="700">
+<text x="129" y="412">总参</text><text x="261" y="412">总政</text>
+<text x="129" y="490">总后</text><text x="261" y="490">总装</text>
+</g>
+<text x="195" y="548" text-anchor="middle" font-size="18" fill="#698078">另有七大军区体系</text>
+<path d="M345 379 H405" stroke="#297a70" stroke-width="5" marker-end="url(#arrow)"/>
+<text x="375" y="360" text-anchor="middle" font-size="18" font-weight="700" fill="#2b7770">重组</text>
+<rect x="415" y="185" width="388" height="383" rx="20" fill="#fff" stroke="#b9d2cb" filter="url(#shade)"/>
+<text x="440" y="225" font-size="17" font-weight="700" fill="#29766b">军委机关 / CENTRAL</text>
+<rect x="442" y="247" width="334" height="88" rx="13" fill="#e0f0e9"/>
+<text x="609" y="289" text-anchor="middle" font-size="26" font-weight="700" fill="#135a4d">15 个职能部门</text>
+<text x="609" y="315" text-anchor="middle" font-size="18" fill="#446c60">7 部（厅） · 3 委员会 · 5 直属机构</text>
+<rect x="442" y="349" width="334" height="84" rx="12" fill="#f0f6f2" stroke="#d3e7d9"/>
+<text x="609" y="382" text-anchor="middle" font-size="22" font-weight="700" fill="#306459">战略管理与组织统合</text>
+<text x="609" y="411" text-anchor="middle" font-size="17" fill="#608077">联合参谋、后勤保障、装备发展等</text>
+<rect x="442" y="446" width="334" height="91" rx="12" fill="#f7f0e8" stroke="#eadbc9"/>
+<text x="609" y="480" text-anchor="middle" font-size="21" font-weight="700" fill="#865c3c">监督职能设置</text>
+<text x="609" y="509" text-anchor="middle" font-size="17" fill="#836b57">军委纪律检查委员会 · 军委审计署</text>
+<path d="M803 379 H854" stroke="#297a70" stroke-width="5" marker-end="url(#arrow)"/>
+<text x="830" y="359" text-anchor="middle" font-size="17" font-weight="700" fill="#2b7770">分工</text>
+<rect x="863" y="185" width="372" height="383" rx="20" fill="#fff" stroke="#bfd4ce" filter="url(#shade)"/>
+<text x="890" y="225" font-size="17" font-weight="700" fill="#29766b">改革后 / DUAL TRACK</text>
+<rect x="890" y="248" width="319" height="74" rx="12" fill="#163f3b"/>
+<text x="1049" y="293" text-anchor="middle" font-size="24" font-weight="700" fill="#fff">中央军委</text>
+<path d="M1049 322 V351 M965 351 H1132 M965 351 V370 M1132 351 V370" stroke="#297a70" stroke-width="4" fill="none"/>
+<rect x="885" y="371" width="159" height="112" rx="13" fill="#e6f3ed" stroke="#9bcabb"/>
+<rect x="1055" y="371" width="159" height="112" rx="13" fill="#edf0f7" stroke="#bcc8d9"/>
+<text x="964" y="407" text-anchor="middle" font-size="22" font-weight="700" fill="#156657">五大战区</text>
+<text x="964" y="441" text-anchor="middle" font-size="20" fill="#376b60">主战</text>
+<text x="964" y="466" text-anchor="middle" font-size="15" fill="#617e72">联合作战指挥</text>
+<text x="1134" y="407" text-anchor="middle" font-size="22" font-weight="700" fill="#505c84">军种</text>
+<text x="1134" y="441" text-anchor="middle" font-size="20" fill="#56658e">主建</text>
+<text x="1134" y="466" text-anchor="middle" font-size="15" fill="#707b9e">建设管理</text>
+<path d="M964 483 V515 H1049 M1134 483 V515 H1049" stroke="#73968e" stroke-width="3" fill="none"/>
+<text x="1049" y="545" text-anchor="middle" font-size="20" font-weight="700" fill="#31534d">部队（按不同职责链条运作）</text>
+<rect x="46" y="603" width="1188" height="92" rx="17" fill="#153e3b"/>
+<text x="74" y="639" font-size="21" font-weight="700" fill="#c6e9db">读图边界</text>
+<text x="74" y="672" font-size="20" fill="#f8fff9">这是制度职责的解释性示意图，不代表权力传递的全部程序、采购资金流向或任何个案的腐败证据。</text>
+</g></svg>
