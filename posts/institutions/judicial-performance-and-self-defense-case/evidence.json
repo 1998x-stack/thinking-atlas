@@ -1,0 +1,184 @@
+{
+  "research_status": "partial",
+  "source": {
+    "original_path": "user-provided-question-and-public-sources/2026-11-27/judicial-performance-case",
+    "original_date": "2026-11-27",
+    "provenance": "用户要求对公开司法内部考核制度与江某某案进行研究。公开发布稿重新核验最高人民法院指导性案例225号、最高人民检察院评价改革、公安全国规定与2023/2026媒体报道；未转载用户提供的知乎文章全文。"
+  },
+  "independent_recheck": {
+    "status": "partial",
+    "checked_at": "2026-11-27",
+    "method": "核对最高法案例的裁判结果、事实和防卫论证；检索最高检2020指标与2024取消规则、2025案件评查；核查国家赔偿决定书媒体节录和2026家属采访；未取得地方内部绩效、审批或整改记录。"
+  },
+  "verified_claims": [
+    {
+      "id": "C1",
+      "claim": "最高法指导性案例225号认定江某某为正当防卫，列明15人围殴、两人重伤二级、一人轻微伤。",
+      "source_ids": [
+        "S1"
+      ],
+      "locator": "基本案情、裁判理由"
+    },
+    {
+      "id": "C2",
+      "claim": "吉首市法院于2020年7月6日判无罪；湘西州中院于2022年11月9日准许撤回抗诉。",
+      "source_ids": [
+        "S1"
+      ],
+      "locator": "裁判结果"
+    },
+    {
+      "id": "C3",
+      "claim": "公安部第137号令规定公安执法质量考核评议与执法档案制度。",
+      "source_ids": [
+        "S2"
+      ],
+      "locator": "第二十四条及总则"
+    },
+    {
+      "id": "C4",
+      "claim": "最高检2020年对撤回起诉率与无罪判决率作组合评价，防止通过撤诉规避无罪率。",
+      "source_ids": [
+        "S3"
+      ],
+      "locator": "2020年4月26日政策解读"
+    },
+    {
+      "id": "C5",
+      "claim": "2020年检察官考评公开解读称无罪和撤诉为负面指标，但有证据和法律变化的例外。",
+      "source_ids": [
+        "S4"
+      ],
+      "locator": "2020年9月26日检察日报文章"
+    },
+    {
+      "id": "C6",
+      "claim": "2024年10月最高检不再执行原业务评价指标体系、不设通报值、不排名。",
+      "source_ids": [
+        "S5"
+      ],
+      "locator": "2024年10月28日高检报道"
+    },
+    {
+      "id": "C7",
+      "claim": "2025年案件质量评查规定提出每案必检。",
+      "source_ids": [
+        "S6"
+      ],
+      "locator": "2025年发布解读"
+    },
+    {
+      "id": "C8",
+      "claim": "最高法2026公开法院审判管理指标减至16项及不直接作考核排名。",
+      "source_ids": [
+        "S7"
+      ],
+      "locator": "2026年法院政绩考核工作纪实"
+    },
+    {
+      "id": "C9",
+      "claim": "国家赔偿两项分别为146795.04元和73397.52元，并要求公开恢复名誉及道歉。",
+      "source_ids": [
+        "S8"
+      ],
+      "locator": "2023年10月23日国家赔偿决定书主文的媒体转述"
+    },
+    {
+      "id": "C10",
+      "claim": "家属2026年11月26日接受采访称检察机关20日已在户籍地张贴公告。",
+      "source_ids": [
+        "S9"
+      ],
+      "locator": "新京报2026年11月26日家属采访"
+    }
+  ],
+  "source_urls": [
+    {
+      "id": "S1",
+      "title": "指导性案例225号：江某某正当防卫案",
+      "publisher": "最高人民法院",
+      "published": "2024-05-30",
+      "url": "https://www.court.gov.cn/zixun/xiangqing/433781.html",
+      "type": "primary-judicial-guiding-case"
+    },
+    {
+      "id": "S2",
+      "title": "公安机关执法质量考核评议规定",
+      "publisher": "公安部（司法部法规页面）",
+      "published": "2016-02-22",
+      "url": "https://www.moj.gov.cn/pub/sfbgw/flfggz/flfggzbmgz/201602/t20160222_145745.html",
+      "type": "primary-regulation"
+    },
+    {
+      "id": "S3",
+      "title": "以“案—件比”为核心，51组87项评价指标可综合灵活运用",
+      "publisher": "最高人民检察院",
+      "published": "2020-04-26",
+      "url": "https://www.spp.gov.cn/xwfbh/wsfbt/202004/t20200426_459753.shtml",
+      "type": "primary-institutional-explanation"
+    },
+    {
+      "id": "S4",
+      "title": "科技推动考评体系落细、落实",
+      "publisher": "检察日报/最高检",
+      "published": "2020-09-26",
+      "url": "https://www.spp.gov.cn/spp/ztk/dfld/202009/t20200926_482021.shtml",
+      "type": "official-media-explanation"
+    },
+    {
+      "id": "S5",
+      "title": "案件质量评查要坚持高质效导向",
+      "publisher": "最高人民检察院",
+      "published": "2024-10-28",
+      "url": "https://www.spp.gov.cn/spp/zhuanlan/202410/t20241028_670025.shtml",
+      "type": "primary-reform-explanation"
+    },
+    {
+      "id": "S6",
+      "title": "最高检印发《人民检察院案件质量检查与评查工作规定（试行）》",
+      "publisher": "最高人民检察院",
+      "published": "2025-03-01",
+      "url": "https://www.spp.gov.cn/spp/yzjcrd/202503/t20250301_691864.shtml",
+      "type": "primary-reform-explanation"
+    },
+    {
+      "id": "S7",
+      "title": "把政绩成色考准考实——最高人民法院探索推进政绩考核工作纪实",
+      "publisher": "最高人民法院",
+      "published": "2026",
+      "url": "https://www.court.gov.cn/zixun/xiangqing/504301.html",
+      "type": "primary-institutional-report"
+    },
+    {
+      "id": "S8",
+      "title": "“刺伤霸凌者”少年申请600万国家赔偿，有结果了",
+      "publisher": "澎湃新闻/解放日报转引公开赔偿决定",
+      "published": "2023-11-18",
+      "url": "https://www.jfdaily.com/wx/detail.do?id=682130",
+      "type": "secondary-transcription-of-judicial-document"
+    },
+    {
+      "id": "S9",
+      "title": "少年刺伤霸凌者被羁押获无罪案进展：检察院公告为其恢复名誉",
+      "publisher": "新京报",
+      "published": "2026-11-26",
+      "url": "https://www.bjnews.com.cn/detail/1795678902129504.html",
+      "type": "original-family-interview"
+    }
+  ],
+  "limitations": [
+    "未获取2020年吉首市、湘西州的院级考评办法或个人扣分规则，不能以国家指标直接归因个案抗诉动机。",
+    "国家赔偿决定的精确赔偿数额来自媒体披露的文书内容，本轮未直接获取法院发布的决定书全文。",
+    "2026年张贴公告的报道可以确认家属所述进展；公告延迟原因、学校公告及负责人赔礼道歉实际履行状况不明。",
+    "无罪判决并非必然等于错误起诉；考核指标体系不同年份不应混用。",
+    "司法行政和纪检监察部分为机构职责与潜在考核误用概述，不是逐项验证的现行全国KPI清单。",
+    "跨国无罪率与定罪率定义和审前分流制度不同，本次没有同口径数据，不进行国家评价排名。"
+  ],
+  "next_actions": [
+    "申请或检索吉首市检察院2020年检察官业绩考评细则与年度考核规则。",
+    "获取抗诉书全文、承办审批记录与2022年撤回抗诉的官方理由。",
+    "核对国家赔偿决定生效、执行记录、学校公告与负责人赔礼道歉履行状况。",
+    "调查案件质量评查和可能的司法责任认定是否存在公开文件。",
+    "建立公安、检察、法院分机关、分年份的指标和责任制度比较资料集。"
+  ]
+}
