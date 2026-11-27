@@ -800,5 +800,34 @@
       "src": "assets/mechanism.svg",
       "caption": "历史案例与现代新部门建设的机制示意；非实证数据"
     }
+  },
+  {
+    "slug": "hong-kong-macau-civil-service-licensing",
+    "title": "港澳青年真的不热衷考公吗？牌照稀缺、职业准入与公务员竞争的证据审计",
+    "subtitle": "从香港小贩牌照、的士与小巴，到医疗注册和澳门公职考试，拆开“行业垄断比公务员更稳定”的流行解释。",
+    "category": "institutions",
+    "topic": "resource-allocation",
+    "status": "published",
+    "research_status": "partial",
+    "published": "2026-11-27",
+    "updated": "2026-11-27",
+    "reading_minutes": 23,
+    "tags": [
+      "香港",
+      "澳门",
+      "公务员",
+      "考公",
+      "小贩牌照",
+      "的士",
+      "医疗准入",
+      "经济租",
+      "制度比较"
+    ],
+    "summary": "核验香港2025年218张流动及4714张固定小贩牌照、2026年321个摊位公开申请、的士供应与驾驶要求、澳门公职考试人数，纠正世袭、禁进口和招录比的常见误解，解释准入管制与就业选择之间尚未证实的因果关系。",
+    "source_path": "posts/institutions/hong-kong-macau-civil-service-licensing/source.md",
+    "cover": {
+      "src": "assets/mechanism.svg",
+      "caption": "有限准入、潜在租金、营运成本与职业选择的条件关系；机制示意，不代表实测因果"
+    }
   }
 ]

@@ -1,0 +1,270 @@
+{
+  "schema_version": 1,
+  "source": {
+    "original_path": "User-provided online Chinese Q&A excerpt in conversation (received 2026-11-27); original publication URL/date unverified",
+    "migrated_at": "2026-11-27"
+  },
+  "research_status": "partial",
+  "independent_recheck": "partial_official_source_verification",
+  "accessed_at": "2026-11-27",
+  "source_urls": [
+    {
+      "id": "HK-01",
+      "title": "香港小贩牌照有效存量2022-2025",
+      "publisher": "香港食物环境卫生署",
+      "published_at": "2026（统计截至2025-12-31）",
+      "url": "https://www.fehd.gov.hk/english/statistics/pleasant_environment/statistienh_2022_2025.html",
+      "locator": "Licences in Force → No. of Hawker Licences in Force"
+    },
+    {
+      "id": "HK-02",
+      "title": "2026空置固定摊位与历史523张新牌",
+      "publisher": "香港食物环境卫生署",
+      "published_at": "2026-09-23",
+      "url": "https://www.fehd.gov.hk/english/news/details/20260923_12616.html",
+      "locator": "Press release first two paragraphs"
+    },
+    {
+      "id": "HK-03",
+      "title": "小贩继承转让政策",
+      "publisher": "香港食物环境卫生署",
+      "published_at": "2026",
+      "url": "https://www.fehd.gov.hk/sc_chi/pleasant_environment/hawker/hawker_faq.html",
+      "locator": "常见问答 Q20—Q21"
+    },
+    {
+      "id": "HK-04",
+      "title": "香港的士类别及车辆数",
+      "publisher": "香港运输署",
+      "published_at": "2026",
+      "url": "https://www.td.gov.hk/en/transport_in_hong_kong/public_transport/taxi/index_t.html",
+      "locator": "Taxis → General Information"
+    },
+    {
+      "id": "HK-05",
+      "title": "商用驾驶资格与年龄体检",
+      "publisher": "香港运输署",
+      "published_at": "2026",
+      "url": "https://www.td.gov.hk/en/public_services/licences_and_permits/driving_licences/how_to_apply_for_a_driving_licence/requirements_for_obtaining_a_driving_licence/index.html",
+      "locator": "Requirements; Medical Certificate aged 70 or above"
+    },
+    {
+      "id": "HK-06",
+      "title": "公共小巴1976年总量上限",
+      "publisher": "香港运输署",
+      "published_at": "2008（交通历史资料）",
+      "url": "https://www.td.gov.hk/filemanager/en/publication/td-booklet-final-251108.pdf",
+      "locator": "Background: total PLB registrations 4,350 since 1976"
+    },
+    {
+      "id": "HK-07",
+      "title": "医生正式注册途径",
+      "publisher": "香港医务委员会",
+      "published_at": "页面检索2026-11-27",
+      "url": "https://www.mchk.org.hk/english/registration/full_registration.html",
+      "locator": "Full registration entry requirements"
+    },
+    {
+      "id": "HK-08",
+      "title": "医生有限度与特别注册",
+      "publisher": "香港医务委员会",
+      "published_at": "页面检索2026-11-27",
+      "url": "https://www.mchk.org.hk/english/registration/lr_clr.html",
+      "locator": "Limited/Special registration"
+    },
+    {
+      "id": "HK-09",
+      "title": "香港活家禽供应政策",
+      "publisher": "香港特区政府新闻公报",
+      "published_at": "2023-11-29",
+      "url": "https://www.info.gov.hk/gia/general/202311/29/P2023112900301p.htm",
+      "locator": "LCQ1 answer part 2"
+    },
+    {
+      "id": "HK-10",
+      "title": "公务员聘任人数及口径",
+      "publisher": "香港公务员事务局",
+      "published_at": "2026",
+      "url": "https://www.csb.gov.hk/english/publications_stat/stat/annually/551.html",
+      "locator": "2024–25 vs 2025–26 table and Note 5"
+    },
+    {
+      "id": "MO-11",
+      "title": "2025学士公职考试参与",
+      "publisher": "澳门行政公职局",
+      "published_at": "2025-05-11",
+      "url": "https://www.gov.mo/zh-hant/news/1143404/",
+      "locator": "首段10355准考/7573到考"
+    },
+    {
+      "id": "HK-12",
+      "title": "2026–27联合招聘学位职系资格",
+      "publisher": "香港公务员事务局",
+      "published_at": "2026-09-12",
+      "url": "https://www.csb.gov.hk/english/admin/grade/ao/447.html",
+      "locator": "Six posts requirements and notes"
+    },
+    {
+      "id": "MO-13",
+      "title": "澳门统一管理公职开考",
+      "publisher": "澳门行政公职局",
+      "published_at": "2026",
+      "url": "https://www.gov.mo/zh-hant/services/ps-1027/",
+      "locator": "综合能力评估制度及五年成绩有效期"
+    }
+  ],
+  "verified_claims": [
+    "C01",
+    "C02",
+    "C03",
+    "C04",
+    "C05",
+    "C06",
+    "C07",
+    "C08",
+    "C09",
+    "C10",
+    "C11",
+    "C12",
+    "C13"
+  ],
+  "claims": [
+    {
+      "id": "C01",
+      "claim": "2025年末香港流动小贩218、固定摊位4714张有效牌照",
+      "source_id": "HK-01",
+      "source_url": "https://www.fehd.gov.hk/english/statistics/pleasant_environment/statistienh_2022_2025.html",
+      "status": "SUPPORTED",
+      "limitations": "食环署截至12月31日统计；不含临时牌照和副牌"
+    },
+    {
+      "id": "C02",
+      "claim": "1972年后香港小贩完全不再发牌",
+      "source_id": "HK-02",
+      "source_url": "https://www.fehd.gov.hk/english/news/details/20260923_12616.html",
+      "status": "REFUTED",
+      "limitations": "2019/2022已合共发523新牌；2026新增空置摊位申请计划"
+    },
+    {
+      "id": "C03",
+      "claim": "流动小贩牌照可以不断继承或转让",
+      "source_id": "HK-03",
+      "source_url": "https://www.fehd.gov.hk/sc_chi/pleasant_environment/hawker/hawker_faq.html",
+      "status": "REFUTED",
+      "limitations": "官方写明流动牌照不设继承/转让，2010年后新发亦有限制"
+    },
+    {
+      "id": "C04",
+      "claim": "2026年官方重新编配321个空置固定摊位并拟发新牌",
+      "source_id": "HK-02",
+      "source_url": "https://www.fehd.gov.hk/english/news/details/20260923_12616.html",
+      "status": "SUPPORTED",
+      "limitations": "数值是供申请摊位，不是全部已实际发出"
+    },
+    {
+      "id": "C05",
+      "claim": "香港目前有18163辆的士，分类15250/2838/75",
+      "source_id": "HK-04",
+      "source_url": "https://www.td.gov.hk/en/transport_in_hong_kong/public_transport/taxi/index_t.html",
+      "status": "SUPPORTED",
+      "limitations": "车辆数不是驾驶人员数"
+    },
+    {
+      "id": "C06",
+      "claim": "香港小巴自1976年总量上限4350辆",
+      "source_id": "HK-06",
+      "source_url": "https://www.td.gov.hk/filemanager/en/publication/td-booklet-final-251108.pdf",
+      "status": "SUPPORTED",
+      "limitations": "上限包括绿巴和红巴，非红巴专属"
+    },
+    {
+      "id": "C07",
+      "claim": "的士牌持有人驾驶无需资格、70岁以上无体检",
+      "source_id": "HK-05",
+      "source_url": "https://www.td.gov.hk/en/public_services/licences_and_permits/driving_licences/how_to_apply_for_a_driving_licence/requirements_for_obtaining_a_driving_licence/index.html",
+      "status": "REFUTED",
+      "limitations": "司机另需商业驾驶资格，70岁及以上申请/续领须交体检证明"
+    },
+    {
+      "id": "C08",
+      "claim": "只有香港大学和香港中文大学医学毕业生可执业",
+      "source_id": "HK-07",
+      "source_url": "https://www.mchk.org.hk/english/registration/full_registration.html",
+      "status": "REFUTED",
+      "limitations": "存在资格试、有限度及特别注册等非本地培训路径"
+    },
+    {
+      "id": "C09",
+      "claim": "香港2007年永久禁止内地活禽进口",
+      "source_id": "HK-09",
+      "source_url": "https://www.info.gov.hk/gia/general/202311/29/P2023112900301p.htm",
+      "status": "REFUTED",
+      "limitations": "官方称内地活鸡和其他部分活禽无全面禁令，2017年后无实际供应"
+    },
+    {
+      "id": "C10",
+      "claim": "10627是香港2025年对外招聘岗位数",
+      "source_id": "HK-10",
+      "source_url": "https://www.csb.gov.hk/english/publications_stat/stat/annually/551.html",
+      "status": "REFUTED",
+      "limitations": "实际上2024-25年度聘任总数，含内部聘任和退休重聘"
+    },
+    {
+      "id": "C11",
+      "claim": "2025-26年度香港公务员聘任数6606",
+      "source_id": "HK-10",
+      "source_url": "https://www.csb.gov.hk/english/publications_stat/stat/annually/551.html",
+      "status": "SUPPORTED",
+      "limitations": "相同来源2025-26年度聘任表，非招录计划"
+    },
+    {
+      "id": "C12",
+      "claim": "澳门2025年5月学士程度公职考试准考10355、到考7573",
+      "source_id": "MO-11",
+      "source_url": "https://www.gov.mo/zh-hant/news/1143404/",
+      "status": "SUPPORTED",
+      "limitations": "为考试人数而非录用人数"
+    },
+    {
+      "id": "C13",
+      "claim": "澳门公职统一管理包含综合能力评估及专业或职务能力考试",
+      "source_id": "MO-13",
+      "source_url": "https://www.gov.mo/zh-hant/services/ps-1027/",
+      "status": "SUPPORTED",
+      "limitations": "澳门行政公职局制度说明"
+    },
+    {
+      "id": "C14",
+      "claim": "香港青年因牌照经济租而比内地青年更少考公",
+      "source_id": "HK-01",
+      "source_url": "https://www.fehd.gov.hk/english/statistics/pleasant_environment/statistienh_2022_2025.html",
+      "status": "UNVERIFIED",
+      "limitations": "没有跨地同年龄同学历的唯一申请人数与就业比较因果证据"
+    },
+    {
+      "id": "C15",
+      "claim": "澳门青年不热衷考公",
+      "source_id": "MO-11",
+      "source_url": "https://www.gov.mo/zh-hant/news/1143404/",
+      "status": "UNVERIFIED",
+      "limitations": "有万人级考试参与，仍缺可比年龄人口分母"
+    },
+    {
+      "id": "C16",
+      "claim": "拥有准入许可证一般获得高利润",
+      "source_id": "HK-02",
+      "source_url": "https://www.fehd.gov.hk/english/news/details/20260923_12616.html",
+      "status": "PARTIALLY_SUPPORTED",
+      "limitations": "部分配额可限制供给，但不存在行业净收益或反事实经营者数据"
+    }
+  ],
+  "limitations": [
+    "以官方机构网页为主，独立经营财务数据和青年职业选择调查缺失",
+    "澳门仅核验部分公职考试制度和一次实际考试参与，无法得出地区相对报考意愿",
+    "香港公务员申请件数与聘任人数的年度、单位及人员去重口径不一致",
+    "政策公告不等于已实施数；2026年321摊位是公开申请分配计划",
+    "个别原帖麻将馆、兽医和养殖牌照数量及传闻尚未取得可定位一手材料",
+    "内地2027年度公务员报考数字未与香港同年份同口径匹配，正文避免作虚假的报录比估计"
+  ],
+  "next_action": "取得三个地区同口径去重申请者与职位录用数据，并与家庭资源、职业收益分布、行业准入实际成本交叉匹配，检验牌照准入对青年就业选择的因果作用。"
+}

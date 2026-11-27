@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 525" role="img" aria-labelledby="mt md">
+<title id="mt">职业安全感与准入制度：不等同的机制</title>
+<desc id="md">左侧输入为数量限制与资格条件，中间为进入成本及潜在的稀缺租，右侧为需求、替代服务、资本成本和执法；下方是个人职业选择受工资、风险偏好和其他机会共同影响的示意。箭头为研究假说，不代表实证因果估计。</desc>
+<defs><marker id="arr" markerWidth="9" markerHeight="9" refX="7" refY="4.5" orient="auto"><path d="M0 0L9 4.5L0 9" fill="none" stroke="#678f83" stroke-width="1.5"/></marker></defs>
+<rect width="960" height="525" rx="20" fill="#f4f8f2"/>
+<g font-family="system-ui,-apple-system,'Noto Sans CJK SC',sans-serif">
+<text x="45" y="44" font-size="17" font-weight="700" fill="#688079" letter-spacing="1.6">ACCESS · RENT · CAREER CHOICE</text>
+<text x="44" y="89" font-size="30" font-weight="750" fill="#1f4945">从“稀缺资格”到“稳定职业”并非自动成立</text>
+<rect x="42" y="127" width="256" height="140" rx="14" fill="#e8e4d5" stroke="#c1b092" stroke-width="2"/>
+<text x="64" y="161" fill="#805d3c" font-size="15" font-weight="700">制度条件</text>
+<text x="64" y="201" fill="#304a45" font-size="24" font-weight="700">牌照配额 / 资格考试</text>
+<text x="64" y="235" fill="#586a64" font-size="18">限制进入，但目的与对象不同</text>
+<rect x="351" y="127" width="252" height="140" rx="14" fill="#d8eee3" stroke="#86ad9d" stroke-width="2"/>
+<text x="373" y="161" fill="#3e7565" font-size="15" font-weight="700">可能的中间机制</text>
+<text x="373" y="201" fill="#264c43" font-size="24" font-weight="700">稀缺价值 / 议价空间</text>
+<text x="373" y="235" fill="#586a64" font-size="18">潜在经济租 ≠ 已得净利润</text>
+<rect x="655" y="127" width="263" height="140" rx="14" fill="#f7e8df" stroke="#caa994" stroke-width="2"/>
+<text x="676" y="161" fill="#a37052" font-size="15" font-weight="700">现实约束</text>
+<text x="676" y="197" fill="#304a45" font-size="23" font-weight="700">需求 / 替代 / 成本</text>
+<text x="676" y="234" fill="#586a64" font-size="18">监管 / 融资 / 价格变化</text>
+<path d="M298 197H344" stroke="#678f83" stroke-width="3" marker-end="url(#arr)"/>
+<path d="M603 197H649" stroke="#678f83" stroke-width="3" marker-end="url(#arr)"/>
+<path d="M480 267V328" stroke="#678f83" stroke-width="3" stroke-dasharray="6 7" marker-end="url(#arr)"/>
+<rect x="42" y="332" width="876" height="136" rx="15" fill="#fff" stroke="#cddfd2" stroke-width="2"/>
+<text x="66" y="369" font-size="17" font-weight="700" fill="#417463">职业选择：比较净收益、波动风险、门槛与替代机会</text>
+<g fill="#f0f6f0" stroke="#c8dace"><rect x="66" y="393" width="190" height="53" rx="10"/><rect x="279" y="393" width="190" height="53" rx="10"/><rect x="491" y="393" width="190" height="53" rx="10"/><rect x="703" y="393" width="190" height="53" rx="10"/></g>
+<g text-anchor="middle" font-size="20" font-weight="700" fill="#2d5b51"><text x="161" y="426">公务员</text><text x="374" y="426">专业职业</text><text x="586" y="426">自雇 / 持牌</text><text x="798" y="426">私人企业</text></g>
+<text x="480" y="497" font-size="17" text-anchor="middle" fill="#637c73">图示为可检验的机制假说；不表示这些职业已完成收入或安全性排序</text>
+</g></svg>
