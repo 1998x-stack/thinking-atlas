@@ -1,5 +1,31 @@
 [
   {
+    "slug": "judicial-performance-and-self-defense-case",
+    "title": "当无罪成为指标：司法考核、纠错激励与江某某正当防卫案",
+    "subtitle": "从公安、检察、法院考核结构到2020—2025年制度调整，核对校园霸凌正当防卫案的抗诉、赔偿和恢复名誉进程。",
+    "category": "institutions",
+    "topic": "institutional-design",
+    "status": "published",
+    "research_status": "partial",
+    "published": "2026-11-27",
+    "updated": "2026-11-27",
+    "original_source_date": "2026-11-27",
+    "reading_minutes": 23,
+    "tags": [
+      "司法考核",
+      "检察绩效",
+      "正当防卫",
+      "国家赔偿",
+      "江某某案",
+      "制度激励"
+    ],
+    "summary": "以最高法指导性案例225号和最高检历年指标改革为证据，区分历史负面考核指标与尚待核实的个案抗诉动机；梳理336天羁押、无罪判决、撤回抗诉、22万余元国家赔偿和2026年恢复名誉公告。",
+    "cover": {
+      "src": "assets/mechanism.svg",
+      "caption": "刑事办案链条与绩效激励的概念框架；虚线表示尚待验证的组织行为假设"
+    }
+  },
+  {
     "slug": "liaoshen-strategic-decisions",
     "title": "辽沈战役：锦州决策、长春围困与战略指挥的真实博弈",
     "subtitle": "从1948年电报与战场交通约束出发，厘清战略分歧、跨战区协同以及长春围困的平民代价。",
