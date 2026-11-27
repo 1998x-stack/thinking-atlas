@@ -1,5 +1,33 @@
 [
   {
+    "slug": "pla-reform-centralization-and-defense-procurement",
+    "title": "军改的权力再分配：四总部、五大战区与军工采购中的监督难题",
+    "subtitle": "交叉核验2015—2018年组织与停偿改革、2023—2026年军工案件；辨别权力集中、联合作战、军民融合与腐败金额推断的证据边界。",
+    "category": "institutions",
+    "topic": "institutional-design",
+    "status": "published",
+    "research_status": "partial",
+    "published": "2026-11-27",
+    "updated": "2026-11-27",
+    "original_source_date": "2026-11-27",
+    "reading_minutes": 23,
+    "tags": [
+      "解放军军改",
+      "四总部",
+      "五大战区",
+      "军事采购",
+      "军工央企",
+      "有偿服务",
+      "制度监督",
+      "证据核验"
+    ],
+    "summary": "从四总部改组15个军委职能部门、七大军区转五大战区，到军队有偿服务清停与军工系统公开案件，区分组织集中化与联合作战改革的多重目标，拆解军工采购风险，并核查魏凤和、李尚福、谭瑞松等案件中的公开判决、纪律通报及金额推算错误。",
+    "cover": {
+      "src": "assets/mechanism.svg",
+      "caption": "军改前四总部与军改后军委—战区作战、军委—军种建设管理双链示意；并列监督机构不是个案因果图"
+    }
+  },
+  {
     "slug": "judicial-performance-and-self-defense-case",
     "title": "当无罪成为指标：司法考核、纠错激励与江某某正当防卫案",
     "subtitle": "从公安、检察、法院考核结构到2020—2025年制度调整，核对校园霸凌正当防卫案的抗诉、赔偿和恢复名誉进程。",

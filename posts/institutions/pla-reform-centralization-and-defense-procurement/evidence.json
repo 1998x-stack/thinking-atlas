@@ -1,0 +1,405 @@
+{
+  "research_status": "partial",
+  "source": {
+    "original_path": "user-provided-network-commentary/2026-11-27/pla-reform-centralization",
+    "original_date": "2026-11-27",
+    "provenance": "以用户提交的军改和军工反腐网络评论为待核验素材，重新撰写分析；不把原文指控、回扣比例、涉案金额或多家转述当作既定事实。"
+  },
+  "independent_recheck": {
+    "status": "partial",
+    "checked_at": "2026-11-27",
+    "method": "多轮中英文官方来源检索、最高法裁判消息、中纪委通报、新华社停偿专访、国资委公告、财政部预算与独立军事实务研究交叉核对；对未经公开确认的案件金额和因果机制进行对抗验证。"
+  },
+  "claim_evidence_ledger": [
+    {
+      "id": "C01",
+      "claim": "2016年军委机关由四总部改为15职能部门（7部厅、3委员会、5直属机构）",
+      "status": "SUPPORTED",
+      "source_ids": [
+        "S1"
+      ],
+      "locator": "2016新闻发布会发言人答问",
+      "limitations": "公开机构名称，不证明实际权力集中程度"
+    },
+    {
+      "id": "C02",
+      "claim": "七大军区调整为五大战区，形成军委—战区作战、军委—军种建设管理双链",
+      "status": "SUPPORTED",
+      "source_ids": [
+        "S2",
+        "S12"
+      ],
+      "locator": "国防部改革综述及NDU研究",
+      "limitations": "官方描述机构职责，运行效率仍待实证"
+    },
+    {
+      "id": "C03",
+      "claim": "军队和武警部队有偿服务清停从2016年起开展，分行业推进至2018年应停项目完成",
+      "status": "SUPPORTED",
+      "source_ids": [
+        "S3",
+        "S5"
+      ],
+      "locator": "新华社2017访谈、国防部2018执行总结",
+      "limitations": "清停范围及资产合同处理存在行业例外和过渡"
+    },
+    {
+      "id": "C04",
+      "claim": "停偿不意味着所有军队医院都停止面向民众服务",
+      "status": "SUPPORTED",
+      "source_ids": [
+        "S4"
+      ],
+      "locator": "2017专访军队医院为民服务段",
+      "limitations": "适度服务的具体规范与后续变化需另行核查"
+    },
+    {
+      "id": "C05",
+      "claim": "谭瑞松于2025年2月被开除党籍，官方通报使用靠军工吃军工表述",
+      "status": "SUPPORTED",
+      "source_ids": [
+        "S6"
+      ],
+      "locator": "中纪委2025-02-24处分通报",
+      "limitations": "不是所有军工高管的整体定性"
+    },
+    {
+      "id": "C06",
+      "claim": "魏凤和和李尚福案2026年5月7日一审宣判，公开消息未列具体数额",
+      "status": "SUPPORTED",
+      "source_ids": [
+        "S7"
+      ],
+      "locator": "最高法转载的军事法院一审消息",
+      "limitations": "未获取判决书全文，不能用量刑反推金额"
+    },
+    {
+      "id": "C07",
+      "claim": "吴燕生、刘石泉、王长青在2023年被撤销全国政协委员资格",
+      "status": "SUPPORTED",
+      "source_ids": [
+        "S8"
+      ],
+      "locator": "政协会议公开消息",
+      "limitations": "资格变化不等于刑事罪名及金额"
+    },
+    {
+      "id": "C08",
+      "claim": "2026年10月中央全会公报确认袁洁、张忠阳等开除党籍处分",
+      "status": "SUPPORTED",
+      "source_ids": [
+        "S9"
+      ],
+      "locator": "中央全会公报处分人员名单",
+      "limitations": "纪律处分不等同刑事定罪"
+    },
+    {
+      "id": "C09",
+      "claim": "中国航空发动机集团2016年单独设立",
+      "status": "SUPPORTED",
+      "source_ids": [
+        "S10"
+      ],
+      "locator": "国资委公告正文",
+      "limitations": "不据此推导全部具体供应链归属"
+    },
+    {
+      "id": "C10",
+      "claim": "2025年国防支出17846.65亿元为中央预算国防支出，非军购总量",
+      "status": "SUPPORTED",
+      "source_ids": [
+        "S11"
+      ],
+      "locator": "财政部2026年预算执行报告国防支出项",
+      "limitations": "不能用它乘以假设回扣率来得涉案金额"
+    },
+    {
+      "id": "C11",
+      "claim": "张建华案一审认定受贿4338万余元、利用影响力受贿1170万元",
+      "status": "SUPPORTED",
+      "source_ids": [
+        "S15"
+      ],
+      "locator": "2026-08-05宣判、2026-08-06最高法报道",
+      "limitations": "仅适用于特定案件"
+    },
+    {
+      "id": "C12",
+      "claim": "军改唯一目的就是中央集权",
+      "status": "DISPUTED",
+      "source_ids": [
+        "S1",
+        "S2",
+        "S12",
+        "S13"
+      ],
+      "locator": "官方目标与独立研究呈现组织控制、联合指挥等多目标",
+      "limitations": "对真实主观动机无法作独占性判定"
+    },
+    {
+      "id": "C13",
+      "claim": "停止军队有偿服务使寻租利益整体迁移至军民融合、军工采购",
+      "status": "UNVERIFIED",
+      "source_ids": [
+        "S3",
+        "S4",
+        "S6"
+      ],
+      "locator": "只有政策变化与后续案件的时间相邻",
+      "limitations": "缺少跨项目资金路径、人员链和可比数据"
+    },
+    {
+      "id": "C14",
+      "claim": "相关军工高管贪腐比例通常为1%—3%，涉案金额合计数百亿元",
+      "status": "UNVERIFIED",
+      "source_ids": [
+        "S7",
+        "S11",
+        "S15"
+      ],
+      "locator": "未发现可验证的统一比例、分母和裁判金额汇总",
+      "limitations": "不能以国防预算乘假定回扣率"
+    },
+    {
+      "id": "C15",
+      "claim": "军事系统因国家机密而没有任何监督机构",
+      "status": "REFUTED",
+      "source_ids": [
+        "S1",
+        "S14"
+      ],
+      "locator": "军委纪委、审计署机构设置；国企廉洁监督规范",
+      "limitations": "反驳绝对不存在，但不证明监督充分有效"
+    }
+  ],
+  "verified_claims": [
+    {
+      "id": "C01",
+      "claim": "2016年军委机关由四总部改为15职能部门（7部厅、3委员会、5直属机构）",
+      "source_ids": [
+        "S1"
+      ],
+      "locator": "2016新闻发布会发言人答问"
+    },
+    {
+      "id": "C02",
+      "claim": "七大军区调整为五大战区，形成军委—战区作战、军委—军种建设管理双链",
+      "source_ids": [
+        "S2",
+        "S12"
+      ],
+      "locator": "国防部改革综述及NDU研究"
+    },
+    {
+      "id": "C03",
+      "claim": "军队和武警部队有偿服务清停从2016年起开展，分行业推进至2018年主要完成",
+      "source_ids": [
+        "S3",
+        "S5"
+      ],
+      "locator": "新华社2017访谈、国防部2018执行总结"
+    },
+    {
+      "id": "C04",
+      "claim": "停偿不意味着所有军队医院都停止面向民众服务",
+      "source_ids": [
+        "S4"
+      ],
+      "locator": "2017专访军队医院为民服务段"
+    },
+    {
+      "id": "C05",
+      "claim": "谭瑞松于2025年2月被开除党籍，官方通报使用靠军工吃军工表述",
+      "source_ids": [
+        "S6"
+      ],
+      "locator": "中纪委2025-02-24处分通报"
+    },
+    {
+      "id": "C06",
+      "claim": "魏凤和和李尚福案2026年5月7日一审宣判，公开消息未列具体数额",
+      "source_ids": [
+        "S7"
+      ],
+      "locator": "最高法转载的军事法院一审消息"
+    },
+    {
+      "id": "C07",
+      "claim": "吴燕生、刘石泉、王长青在2023年被撤销全国政协委员资格",
+      "source_ids": [
+        "S8"
+      ],
+      "locator": "政协会议公开消息"
+    },
+    {
+      "id": "C08",
+      "claim": "2026年10月中央全会公报确认袁洁、张忠阳等开除党籍处分",
+      "source_ids": [
+        "S9"
+      ],
+      "locator": "中央全会公报处分人员名单"
+    },
+    {
+      "id": "C09",
+      "claim": "中国航空发动机集团2016年单独设立",
+      "source_ids": [
+        "S10"
+      ],
+      "locator": "国资委公告正文"
+    },
+    {
+      "id": "C10",
+      "claim": "2025年国防支出17846.65亿元为中央预算国防支出，非军购总量",
+      "source_ids": [
+        "S11"
+      ],
+      "locator": "财政部2026年预算执行报告国防支出项"
+    },
+    {
+      "id": "C11",
+      "claim": "张建华案一审认定收受财物折合人民币4338万余元",
+      "source_ids": [
+        "S15"
+      ],
+      "locator": "2026-08-05一审宣判通报"
+    }
+  ],
+  "source_urls": [
+    {
+      "id": "S1",
+      "title": "国防部召开军委机关调整组建专题新闻发布会",
+      "publisher": "中国军网/新华社",
+      "published": "2016-01-12",
+      "url": "https://www.xinhuanet.com/mil/2016-01/12/c_128617990.htm",
+      "type": "official-contemporaneous"
+    },
+    {
+      "id": "S2",
+      "title": "新时代改革强军的伟大实践",
+      "publisher": "中华人民共和国国防部",
+      "published": "2022",
+      "url": "https://www.mod.gov.cn/gfbw/qwfb/4921665.html",
+      "type": "official-retrospective"
+    },
+    {
+      "id": "S3",
+      "title": "军队和武警部队全面停止有偿服务工作计划于2018年完成",
+      "publisher": "新华社",
+      "published": "2017-05-31",
+      "url": "https://www.xinhuanet.com/politics/2017-05/31/c_1121063266.htm",
+      "type": "original-official-interview"
+    },
+    {
+      "id": "S4",
+      "title": "军队全面停止有偿服务工作取得阶段性成果",
+      "publisher": "新华网",
+      "published": "2017-05-31",
+      "url": "https://www.xinhuanet.com/mil/2017-05/31/c_129622091.htm",
+      "type": "original-official-interview"
+    },
+    {
+      "id": "S5",
+      "title": "军队全面停止有偿服务项目清停任务基本完成",
+      "publisher": "新华社",
+      "published": "2018-07-04",
+      "url": "https://www.xinhuanet.com/politics/2018-07/04/c_1123077788.htm",
+      "type": "official-implementation-report"
+    },
+    {
+      "id": "S6",
+      "title": "航空工业集团原党组书记、董事长谭瑞松严重违纪违法被开除党籍",
+      "publisher": "中央纪委国家监委",
+      "published": "2025-02-24",
+      "url": "https://www.ccdi.gov.cn/toutiaon/202502/t20250224_407223.html",
+      "type": "primary-disciplinary-release"
+    },
+    {
+      "id": "S7",
+      "title": "魏凤和案、李尚福案一审宣判",
+      "publisher": "最高人民法院／军事法院公开一审消息",
+      "published": "2026-05-07",
+      "url": "https://www.court.gov.cn/zixun/xiangqing/499151.html",
+      "type": "primary-court-release"
+    },
+    {
+      "id": "S8",
+      "title": "吴燕生、刘石泉、王长青被撤销全国政协委员资格",
+      "publisher": "中国网转载政协会议消息",
+      "published": "2023-12-27",
+      "url": "https://news.china.com.cn/2023-12/27/content_116906589.shtml",
+      "type": "secondary-official-meeting-report"
+    },
+    {
+      "id": "S9",
+      "title": "中国共产党第二十届中央委员会第五次全体会议公报",
+      "publisher": "中国驻哥伦比亚使馆转载中央全会公报",
+      "published": "2026-10-29",
+      "url": "https://co.china-embassy.gov.cn/xwrd/202610/t20261029_12049538.htm",
+      "type": "primary-communique"
+    },
+    {
+      "id": "S10",
+      "title": "习近平李克强对中国航空发动机集团公司成立作出指示批示",
+      "publisher": "中国政府网转载新华社",
+      "published": "2016-08-28",
+      "url": "https://app.www.gov.cn/govdata/gov/201608/28/388056/article.html",
+      "type": "primary-corporate-organization"
+    },
+    {
+      "id": "S11",
+      "title": "关于2025年中央和地方预算执行情况与2026年中央和地方预算草案的报告",
+      "publisher": "财政部",
+      "published": "2026-03",
+      "url": "https://www.mof.gov.cn/zhengwuxinxi/caizhengxinwen/202603/t20260316_3985331.htm",
+      "type": "primary-fiscal-budget"
+    },
+    {
+      "id": "S12",
+      "title": "China's Goldwater-Nichols? Assessing PLA Organizational Reforms",
+      "publisher": "US National Defense University Press",
+      "published": "2016",
+      "url": "https://ndupress.ndu.edu/Joint-Force-Quarterly/Joint-Force-Quarterly-82/Article/793267/chinas-goldwater-nichols-assessing-pla-organizational-reforms/",
+      "type": "independent-defense-analysis"
+    },
+    {
+      "id": "S13",
+      "title": "Xi Jinping in Command: Solving the Principal–Agent Problem in CCP–PLA Relations?",
+      "publisher": "The China Quarterly, Cambridge University Press",
+      "published": "2017-11-10",
+      "url": "https://www.cambridge.org/core/journals/china-quarterly/article/abs/xi-jinping-in-command-solving-the-principalagent-problem-in-ccppla-relations/E0D9A5B4149728D0C2533B654FCD560A",
+      "type": "peer-reviewed-interpretation"
+    },
+    {
+      "id": "S14",
+      "title": "国有企业领导人员廉洁从业规定（2026年修订）",
+      "publisher": "新华社原稿／司法部转载",
+      "published": "2026-03-22",
+      "url": "https://www.moj.gov.cn/pub/sfbgw/jgsz/gjjwzsfbjjz/zyzsfbjjztzcfg/202603/t20260323_533017.html",
+      "type": "primary-regulation"
+    },
+    {
+      "id": "S15",
+      "title": "国家国防科技工业局原副局长张建华受贿、利用影响力受贿案一审宣判",
+      "publisher": "最高人民法院",
+      "published": "2026-08-06",
+      "url": "https://www.court.gov.cn/zixun/xiangqing/507941.html",
+      "type": "primary-court-report"
+    }
+  ],
+  "limitations": [
+    "未获取涉密装备采购合同、军队内部完整审计和纪律调查卷宗，也未获取全部军工个案刑事判决书全文。",
+    "国防部部分页面在线打开存在超时，辅以已索引文本、其他官方转载及同类官方文档核对；该限制不视作完整原文核查。",
+    "2023年撤销政协委员资格是资格处分证据，不能替代对特定人士刑事犯罪的独立证明。",
+    "中国国防预算不是装备采购合同总量，不能由假设1%—3%推导案件涉案金额。",
+    "改革导致腐败发生变化的因果判断缺少改革前后统一分母、发生年份与披露机制控制。",
+    "公开资料可确认监督机构存在，但无法凭其存在确认监督实际效果。",
+    "《中国季刊》论文仅核到摘要与书目信息；不得称已逐段验证其全文实证。"
+  ],
+  "next_actions": [
+    "获取军委改革相关制度的更完整版本、单位职责与实际授权变化资料。",
+    "按司法判决年份和实际行为发生年份对装备采购犯罪案件分别编码，避免误把公布时间当发生时间。",
+    "收集能公开的装备招标处罚、供应商失信和项目审计材料，进行风险通道检验。",
+    "研究军队停偿改革后的具体资产去向、营利活动归属与合同清退数据。",
+    "如获公开判决书，补充具体金额、行为跨度及项目归属，升级个案证据但不自动升级文章整体研究状态。"
+  ]
+}
