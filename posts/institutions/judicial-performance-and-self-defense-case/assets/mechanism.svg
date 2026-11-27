@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 680" role="img" aria-labelledby="t d">
+<title id="t">司法链条中的职责与考核信号</title><desc id="d">公安、检察、法院的办案分工与审查责任，右侧为绩效可能导致纠错成本上升的假设机制。实线表示法律程序的流程，虚线表示假设性激励联系。</desc>
+<rect width="1200" height="680" fill="#f7f8f2"/><g font-family="sans-serif">
+<text x="55" y="55" font-size="20" font-weight="700" fill="#176a63" letter-spacing="2">THINKING ATLAS / JUDICIAL SYSTEMS</text>
+<text x="55" y="110" font-size="38" font-weight="700" fill="#203b3a">办案链条与评价信号，是两套不同的关系</text>
+<text x="55" y="147" font-size="21" fill="#637b74">左：法定程序与审查职能  ·  右：需要通过内部材料核验的组织激励模型</text>
+<g>
+<rect x="55" y="204" width="270" height="178" rx="15" fill="#e5f0e9" stroke="#9fc4b6" stroke-width="2"/>
+<text x="81" y="251" font-size="27" font-weight="700" fill="#185d52">公安机关</text><text x="81" y="297" font-size="21" fill="#2d534c">立案 · 侦查 · 取证</text><text x="81" y="333" font-size="19" fill="#5b746c">调查有利与不利证据</text>
+<rect x="362" y="204" width="270" height="178" rx="15" fill="#e8ede7" stroke="#a7bcb1" stroke-width="2"/>
+<text x="388" y="251" font-size="27" font-weight="700" fill="#375f56">检察机关</text><text x="388" y="297" font-size="21" fill="#2d534c">审查逮捕 · 起诉</text><text x="388" y="333" font-size="19" fill="#5b746c">法律监督 · 证据把关</text>
+<rect x="669" y="204" width="270" height="178" rx="15" fill="#edf0f4" stroke="#a6bdcc" stroke-width="2"/>
+<text x="695" y="251" font-size="27" font-weight="700" fill="#3d6680">人民法院</text><text x="695" y="297" font-size="21" fill="#385668">事实审查 · 依法裁判</text><text x="695" y="333" font-size="19" fill="#627786">可作出无罪判决</text>
+<path d="M325 293 H353 M632 293 H660" stroke="#196f64" stroke-width="4" fill="none"/>
+<path d="M341 281 L353 293 L341 305 M648 281 L660 293 L648 305" stroke="#196f64" stroke-width="4" fill="none"/>
+</g>
+<rect x="972" y="204" width="177" height="178" rx="14" fill="#fff1e7" stroke="#d5b28d" stroke-width="2"/>
+<text x="996" y="245" font-size="23" font-weight="700" fill="#905b35">考核信号</text>
+<text x="995" y="292" font-size="18" fill="#735e4d">若过度绑定</text><text x="995" y="324" font-size="18" fill="#735e4d">单一结果指标</text>
+<path d="M1070 382 V421 H514 V382" fill="none" stroke="#bb7547" stroke-width="3" stroke-dasharray="10 8"/>
+<path d="M504 392 L514 382 L524 392" fill="none" stroke="#bb7547" stroke-width="3"/>
+<text x="682" y="412" font-size="17" fill="#a36a45">假设性影响 · 非个案定论</text>
+<rect x="55" y="465" width="1094" height="148" rx="16" fill="#183e3b"/>
+<text x="85" y="509" font-size="19" fill="#bdddd3" font-weight="700">需要检验的核心张力</text>
+<text x="85" y="561" font-size="29" fill="#ffffff" font-weight="700">准确纠错的法律责任  ≠  避免“负面结果”的绩效冲动</text>
+<text x="85" y="593" font-size="18" fill="#b3d0c7">只有地方考核细则与办案决策记录，才能检验这一机制是否作用于具体抗诉</text>
+</g></svg>
