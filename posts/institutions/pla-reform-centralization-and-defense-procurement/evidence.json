@@ -34,7 +34,7 @@
     },
     {
       "id": "C03",
-      "claim": "军队和武警部队有偿服务清停从2016年起开展，分行业推进至2018年主要完成",
+      "claim": "军队和武警部队有偿服务清停从2016年起开展，分行业推进至2018年应停项目完成",
       "status": "SUPPORTED",
       "source_ids": [
         "S3",
@@ -115,12 +115,12 @@
     },
     {
       "id": "C11",
-      "claim": "张建华案一审认定收受财物折合人民币4338万余元",
+      "claim": "张建华案一审认定受贿4338万余元、利用影响力受贿1170万元",
       "status": "SUPPORTED",
       "source_ids": [
         "S15"
       ],
-      "locator": "2026-08-05一审宣判通报",
+      "locator": "2026-08-05宣判、2026-08-06最高法报道",
       "limitations": "仅适用于特定案件"
     },
     {
@@ -300,9 +300,9 @@
     {
       "id": "S5",
       "title": "军队全面停止有偿服务项目清停任务基本完成",
-      "publisher": "国防部/解放军报",
-      "published": "2018-07-03",
-      "url": "https://www.mod.gov.cn/gfbw/qwfb/4818353.html?big=fan",
+      "publisher": "新华社",
+      "published": "2018-07-04",
+      "url": "https://www.xinhuanet.com/politics/2018-07/04/c_1123077788.htm",
       "type": "official-implementation-report"
     },
     {
@@ -334,15 +334,15 @@
       "title": "中国共产党第二十届中央委员会第五次全体会议公报",
       "publisher": "中央纪委国家监委",
       "published": "2026-10-29",
-      "url": "https://www.ccdi.gov.cn/specialn/esjwzqh/esjwzqhtt/202610/t20261029_519521.html",
+      "url": "https://co.china-embassy.gov.cn/xwrd/202610/t20261029_12049538.htm",
       "type": "primary-communique"
     },
     {
       "id": "S10",
-      "title": "国资委关于组建中国航空发动机集团有限公司的公告",
-      "publisher": "国务院国资委",
+      "title": "习近平李克强对中国航空发动机集团公司成立作出指示批示",
+      "publisher": "中国政府网转载新华社",
       "published": "2016",
-      "url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271802/c14159314/content.html",
+      "url": "https://app.www.gov.cn/govdata/gov/201608/28/388056/article.html",
       "type": "primary-corporate-organization"
     },
     {
@@ -374,15 +374,15 @@
       "title": "国有企业领导人员廉洁从业规定（2026年修订）",
       "publisher": "中央纪委国家监委",
       "published": "2026-03-22",
-      "url": "https://www.ccdi.gov.cn/toutiaon/202603/t20260322_480765.html",
+      "url": "https://www.moj.gov.cn/pub/sfbgw/jgsz/gjjwzsfbjjz/zyzsfbjjztzcfg/202603/t20260323_533017.html",
       "type": "primary-regulation"
     },
     {
       "id": "S15",
       "title": "国家国防科技工业局原副局长张建华受贿、利用影响力受贿案一审宣判",
-      "publisher": "中央纪委国家监委转载法院消息",
+      "publisher": "最高人民法院",
       "published": "2026-08-05",
-      "url": "https://www.ccdi.gov.cn/yaowenn/202608/t20260805_505250_m.html",
+      "url": "https://www.court.gov.cn/zixun/xiangqing/507941.html",
       "type": "primary-court-report"
     }
   ],
