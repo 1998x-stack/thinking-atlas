@@ -19,14 +19,14 @@
 
 - [S1] 2016-01-12新闻发布会：原总参、总政、总后、总装四总部改为7部（厅）、3委员会、5直属机构共15个职能部门，含军委纪委、军委审计署。改革原则明确为“军委管总、战区主战、军种主建”。
 - [S2] 国防部改革综述：七大军区变为五大战区；分别形成军委—军种—部队的领导管理体系和军委—战区—部队的作战指挥体系。
-- [S3][S4][S5] 2016年下发全面停止有偿服务通知，官方以10个较易行业和5个较复杂行业分阶段推进；军队医院仍适度开展为民服务。2018年主要清停项目基本完成。
+- [S3][S4][S5] 2016年下发全面停止有偿服务通知，官方以10个较易行业和5个较复杂行业分阶段推进；军队医院仍适度开展为民服务。截至2018年6月30日，共有10.6万个有偿服务项目，其中应停的10万个按期停止，剩余复杂敏感项目继续研究处置。
 - [S6] 2025-02-24谭瑞松受处分，纪委通报“靠军工吃军工”并列举具体方式。注意该通报没有授权外推其他人员金额。
 - [S7] 2026-05-07军事法院一审认定魏凤和受贿罪、李尚福受贿及行贿罪；公开消息未列受贿具体金额。
 - [S8] 2023-12-27公开消息记载吴燕生、刘石泉、王长青被撤销全国政协委员资格。该政治资格变动记录本身不等于刑事定罪。
 - [S9] 2026-10-29中央全会公报确认袁洁、张忠阳等被开除党籍处分。仍须按纪律处分与刑事裁判的不同标准区分。
-- [S10] 国资委公告中国航空发动机集团2016年单独组建，因此“航空工业集团包揽所有航空发动机”不准确。
+- [S10] 国资委公告中国航空发动机集团2016年正式成立，因此“航空工业集团包揽所有航空发动机”不准确。
 - [S11] 财政部列2025年国防支出17846.65亿元。这是年度预算的国防支出总额，不能视为军工采购合同分母。
-- [S15] 张建华个案一审认定收受财物4338万余元，金额只用于该判决而非群体预测。
+- [S15] 张建华个案一审认定受贿4338万余元、利用影响力受贿1170万元，两组金额均只对应该案，不用于群体预测。
 
 ## 因果链条的替代解释
 
@@ -66,16 +66,16 @@ A. 改革集中了统合及战略管理职权（制度文本支持）；B. 改�
 [S2] https://www.mod.gov.cn/gfbw/qwfb/4921665.html
 [S3] https://www.xinhuanet.com/politics/2017-05/31/c_1121063266.htm
 [S4] https://www.xinhuanet.com/mil/2017-05/31/c_129622091.htm
-[S5] https://www.mod.gov.cn/gfbw/qwfb/4818353.html?big=fan
+[S5] https://www.xinhuanet.com/politics/2018-07/04/c_1123077788.htm
 [S6] https://www.ccdi.gov.cn/toutiaon/202502/t20250224_407223.html
 [S7] https://www.court.gov.cn/zixun/xiangqing/499151.html
 [S8] https://news.china.com.cn/2023-12/27/content_116906589.shtml
-[S9] https://www.ccdi.gov.cn/specialn/esjwzqh/esjwzqhtt/202610/t20261029_519521.html
-[S10] https://wap.sasac.gov.cn/n2588045/n27271785/n27271802/c14159314/content.html
+[S9] https://co.china-embassy.gov.cn/xwrd/202610/t20261029_12049538.htm
+[S10] https://app.www.gov.cn/govdata/gov/201608/28/388056/article.html
 [S11] https://www.mof.gov.cn/zhengwuxinxi/caizhengxinwen/202603/t20260316_3985331.htm
 [S12] https://ndupress.ndu.edu/Joint-Force-Quarterly/Joint-Force-Quarterly-82/Article/793267/chinas-goldwater-nichols-assessing-pla-organizational-reforms/
 [S13] https://www.cambridge.org/core/journals/china-quarterly/article/abs/xi-jinping-in-command-solving-the-principalagent-problem-in-ccppla-relations/E0D9A5B4149728D0C2533B654FCD560A
-[S14] https://www.ccdi.gov.cn/toutiaon/202603/t20260322_480765.html
-[S15] https://www.ccdi.gov.cn/yaowenn/202608/t20260805_505250_m.html
+[S14] https://www.moj.gov.cn/pub/sfbgw/jgsz/gjjwzsfbjjz/zyzsfbjjztzcfg/202603/t20260323_533017.html
+[S15] https://www.court.gov.cn/zixun/xiangqing/507941.html
 
 本文引入用户提供的网络论述作为待核验问题，不逐字转载、也不将其中未证实的个人指控作为结论。
