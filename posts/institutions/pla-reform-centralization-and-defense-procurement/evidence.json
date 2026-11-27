@@ -316,7 +316,7 @@
     {
       "id": "S7",
       "title": "魏凤和案、李尚福案一审宣判",
-      "publisher": "最高人民法院转载新华社军事法院消息",
+      "publisher": "最高人民法院／军事法院公开一审消息",
       "published": "2026-05-07",
       "url": "https://www.court.gov.cn/zixun/xiangqing/499151.html",
       "type": "primary-court-release"
@@ -332,7 +332,7 @@
     {
       "id": "S9",
       "title": "中国共产党第二十届中央委员会第五次全体会议公报",
-      "publisher": "中央纪委国家监委",
+      "publisher": "中国驻哥伦比亚使馆转载中央全会公报",
       "published": "2026-10-29",
       "url": "https://co.china-embassy.gov.cn/xwrd/202610/t20261029_12049538.htm",
       "type": "primary-communique"
@@ -341,7 +341,7 @@
       "id": "S10",
       "title": "习近平李克强对中国航空发动机集团公司成立作出指示批示",
       "publisher": "中国政府网转载新华社",
-      "published": "2016",
+      "published": "2016-08-28",
       "url": "https://app.www.gov.cn/govdata/gov/201608/28/388056/article.html",
       "type": "primary-corporate-organization"
     },
@@ -372,7 +372,7 @@
     {
       "id": "S14",
       "title": "国有企业领导人员廉洁从业规定（2026年修订）",
-      "publisher": "中央纪委国家监委",
+      "publisher": "新华社原稿／司法部转载",
       "published": "2026-03-22",
       "url": "https://www.moj.gov.cn/pub/sfbgw/jgsz/gjjwzsfbjjz/zyzsfbjjztzcfg/202603/t20260323_533017.html",
       "type": "primary-regulation"
@@ -381,7 +381,7 @@
       "id": "S15",
       "title": "国家国防科技工业局原副局长张建华受贿、利用影响力受贿案一审宣判",
       "publisher": "最高人民法院",
-      "published": "2026-08-05",
+      "published": "2026-08-06",
       "url": "https://www.court.gov.cn/zixun/xiangqing/507941.html",
       "type": "primary-court-report"
     }
